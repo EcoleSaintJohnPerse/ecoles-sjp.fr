@@ -4,11 +4,13 @@ title: Approche
 permalink: /approche/
 ---
 
+<img src="/images/approche-1.jpg">
+
 Bonjour à tous !
 
 A l'Ecole Saint-John Perse, nous portons un projet éducatif fondé sur l'épanouissement des adolescents : nous pensons que la réussite scolaire au lycée est la conséquence d'un équilibre de développement personnel tenant compte de la spécificité de chacun. Il s'agit donc, main dans la main avec les familles, de permettre à cet équilibre d'exister !
 
-<h2>La proximité : construire avec les élèves un suivi individualisé</h2>
+## La proximité : construire avec les élèves un suivi individualisé
 
 Nous croyons que l'apprentissage est de meilleure qualité dans le cadre d'un suivi très individualisé. La relation aux professeurs est alors une relation "partenaire" : rassurante, accessible, responsabilisante et aidante.
 
@@ -16,15 +18,17 @@ Grâce aux rendez-vous réguliers avec la famille, nous construisons la stratég
 
 Les sociologues ont montré que les jeunes réussissent mieux leur lycée lorsque la communication est forte avec l'équipe pédagogique, nous n'envisageons pas la scolarité autrement.
 
-<h2>L'humanisme : être une école vivante, ouverte sur le monde et sur les arts</h2>
+## L'humanisme : être une école vivante, ouverte sur le monde et sur les arts
 
 Nous croyons que l'apprentissage est une ouverture aux autres et au monde. Les matières artistiques  (Arts plastiques, Cinéma notamment) font partie de notre ADN depuis la fondation de l'Ecole Saint-John Perse. Les élèves évoluent dans un cadre familial, à la fois structurant et rassurant qui leur permet de prendre confiance et de réaliser leurs potentiels. La personne est accueillie, orientée et réalisée dans toute sa dimension.
 
-<h2>Le plaisir d'apprendre : proposer des enseignements hors-cadre, qui donnent du plaisir et motivent au travail</h2>
+## Le plaisir d'apprendre : proposer des enseignements hors-cadre, qui donnent du plaisir et motivent au travail
 
 Les élèves sont comme les adultes : ils travaillent mieux lorsqu'ils se sentent pleinement vivre au travail, et pas lorsqu'ils regardent leur montre. La remise en question permanente de nos enseignements, de leur actualité, de leur intérêt, la diversité des sorties scolaires et des voyages proposés doivent permettre de trouver, ou retrouver, du plaisir au lycée.  Réussir son lycée, c'est aussi construire les meilleurs souvenirs possibles !
 
-<h1>Qu'est-ce qu'un bon lycée ?</h1>
+<img src="/images/approche-2.jpg">
+
+# Qu'est-ce qu'un bon lycée ?
 
 Nous croyons qu'un bon lycée accompagne des personnes dans la découverte de leurs qualités et de leurs points faibles et dans la construction d'objectifs d'études et d'orientation. C'est un lieu de vie, d'épanouissement et de développement, où on donne aux élèves des clés pour progresser, préparer et réussir le baccalauréat qu'ils ont choisi.  
 

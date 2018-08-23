@@ -16,13 +16,16 @@
 title: Lycée privé hors contrat Saint-John Perse - Paris 18
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Lycée privé hors contrat à Paris : établissement Saint-John Perse, enseignement secondaire depuis 1982
+  Enseignement secondaire privé hors contrat à Paris depuis 1982
+  Paris 18ème - 14 rue Cavallotti - 01 43 87 73 10
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: St_JohnPerse
-facebook_username: etablissementssaintjohnperse
+facebook_username: etablissements saint john perse
 
+show_excerpts: true
 header_pages:
+  - accueil.md
   - approche.md
   - filieres.md
   - scolarite.md

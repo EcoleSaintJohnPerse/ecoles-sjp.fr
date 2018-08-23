@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Un nouveau site pour la rentrée"
+excerpt: "Résumé pour la home page"
 date:   2018-08-23 15:04:51 +0200
 categories: jekyll update
 ---
