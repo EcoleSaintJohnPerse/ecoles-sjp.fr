@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+#main-logo {
+	display: inline-block;
+	max-width: 200px;
+	float: left;
+}
+
 h1 {
 	color: red;
 }
