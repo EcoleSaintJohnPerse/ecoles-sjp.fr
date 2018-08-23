@@ -58,7 +58,40 @@ $on-laptop:        800px !default;
 	float: left;
 }
 
-h1 {
+h1, h2, h3 {
 	color: #800000;
 }
 
+.site-nav {
+  line-height: 30px;
+}
+
+.page-link {
+  padding: 0 5px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 360px;
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 8px;
+    display: block;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}

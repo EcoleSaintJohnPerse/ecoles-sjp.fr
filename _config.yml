@@ -26,7 +26,9 @@ facebook_username: etablissements saint john perse
 show_excerpts: true
 header_pages:
   - accueil.md
-  - approche.md
+  - approche:
+    - nos-valeurs.md
+    - suivi-individualise-et-etude-dirigee.md
   - filieres.md
   - scolarite.md
   - prepa-sciences-po.md
@@ -38,6 +40,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
