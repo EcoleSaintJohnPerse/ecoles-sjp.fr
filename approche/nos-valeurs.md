@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Approche
-permalink: /approche/
+title: Nos valeurs
+permalink: /approche/nos-valeurs/
 ---
 
 <img src="/images/approche-1.jpg">
