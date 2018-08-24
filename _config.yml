@@ -23,6 +23,77 @@ url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. 
 twitter_username: St_JohnPerse
 facebook_username: etablissements saint john perse
 
+menus:
+  main:
+  - title: Approche
+    identifier: approche
+  - title: Filière
+    identifier: filiere
+  - title: Scolarité
+    identifier: scolarite
+  - title: Prépa Sciences Po
+    identifier: prepasciencespo
+    url: http://www.prepasciencespo-sjp.fr
+  - title: Contact
+    identifier: contact
+    url: /contact
+
+  approche:
+  - title: Nos valeurs
+    url: /approche/nos-valeurs
+    identifier: valeurs
+  - title: Suivi individualisé et étude dirigée
+    url: /approche/suivi-individualise-et-etude-dirigee
+    identifier: suivi
+  - title: Cadre de vie ouvert sur le monde
+    url: /approche/cadre-de-vie-ouvert-sur-le-monde
+    identifier: cadre
+  - title: Ateliers d'arts plastiques, de cinéma ou de théatre
+    url: /approche/ateliers-d-arts
+    identifier: ateliers
+  - title: Horaires aménagés Arts ou Sports
+    url: /approche/horaires-amenages
+    identifier: horaires
+  - title: Album photos
+    url: /approche/album-photo
+    identifier: album
+
+  filiere:
+  - title: Seconde générale
+    url: /filieres/seconde-generale
+    identifier: seconde
+  - title: Littéraire Arts (L)
+    url: /filieres/litteraire-arts-plastiques-ou-cinema
+    identifier: litteraire-arts
+  - title: Littéraire Langues (L)
+    url: /filieres/litteraire-langues-l
+    identifier: litteraire-langues
+  - title: Scientifique (S)
+    url: /filieres/scientifique-s
+    identifier: scientifique
+  - title: Éco et social (ES)
+    url: /filieres/eco-et-social-es
+    identifier: eco-et-social
+  - title: Management (STMG)
+    url: /filieres/management-stmg
+    identifier: smtg
+
+  scolarite:
+  - title: Tarifs et conditions d'inscription
+    url: /scolarite/tarifs-et-conditions-d-inscription
+    identifier: tarifs
+  - title: Documents utiles
+    url: /scolarite/documents-utiles
+    identifier: documents-utiles
+  - title: Cahier de texte en ligne
+    url: http://ecolesjp.free.fr/
+    identifier: cahier-de-texte
+  - title: Stage de rentrée
+    url: /scolarite/stage-de-rentree
+    identifier: stage
+
+
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -30,7 +101,6 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

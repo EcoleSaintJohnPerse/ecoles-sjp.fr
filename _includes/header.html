@@ -22,9 +22,9 @@
             {% for item in site.menus.main %}
               <div class="dropdown">
                 <a class="page-link" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-                {% if item.children %}
+                {% if site.menus[item.identifier] %}
                   <div class="dropdown-content">
-                  {% for item in item.children %}
+                  {% for item in site.menus[item.identifier] %}
                     <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
                   {% endfor %}
                   </div>
