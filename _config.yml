@@ -23,20 +23,10 @@ url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. 
 twitter_username: St_JohnPerse
 facebook_username: etablissements saint john perse
 
-show_excerpts: true
-header_pages:
-  - accueil.md
-  - approche:
-    - nos-valeurs.md
-    - suivi-individualise-et-etude-dirigee.md
-  - filieres.md
-  - scolarite.md
-  - prepa-sciences-po.md
-  - contact.md
-
 # Build settings
 markdown: kramdown
 theme: minima
+show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
