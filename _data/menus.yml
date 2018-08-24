@@ -60,7 +60,7 @@ scolarite:
     url: /scolarite/documents-utiles
     identifier: documents-utiles
   - title: Cahier de texte en ligne
-    url: /scolarite/cahier-de-texte-en-ligne
+    url: http://ecolesjp.free.fr/
     identifier: cahier-de-texte
   - title: Stage de rentrée
     url: /scolarite/stage-de-rentree

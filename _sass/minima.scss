@@ -95,3 +95,18 @@ h1, h2, h3 {
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
+
+label {
+  display: inline-block;
+  min-width: 180px;
+}
+
+input, select, textarea {
+  display: inline-block;
+  width: 300px;
+  padding: 6px 12px;
+  font-size: 14px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

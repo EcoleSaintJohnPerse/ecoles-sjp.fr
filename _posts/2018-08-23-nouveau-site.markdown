@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Un nouveau site pour la rentrée"
-excerpt: "Résumé pour la home page"
+excerpt: "Peu de changements, mais un gain en performance et en simplicité."
 date:   2018-08-23 15:04:51 +0200
 categories: jekyll update
 ---
