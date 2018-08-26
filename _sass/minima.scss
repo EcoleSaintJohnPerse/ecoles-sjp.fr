@@ -110,3 +110,13 @@ input, select, textarea {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
+
+.footer-col {
+  width: -webkit-calc(30% - (30px / 2));
+  width: calc(30% - (30px / 2));
+}
+
+.footer-col-wrapper h4 {
+  text-align: center;
+  font-weight: bold;
+}
