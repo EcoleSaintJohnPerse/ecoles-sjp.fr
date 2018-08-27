@@ -2,6 +2,10 @@
 layout: page
 title: Littéraire Langues (L)
 permalink: /filieres/litteraire-langues-l/
+
+redirect_from:
+  - /index.php/nos-filieres/litteraire-l
+  - /index.php/filieres/litteraire-langues-l
 ---
 
 ![École Saint John Perse / Littéraire Langues](https://www.ecoles-sjp.fr/images/saintjohnperse_cours4.jpg "École Saint John Perse / Littéraire Langues")

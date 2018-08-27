@@ -2,6 +2,9 @@
 layout: page
 title: Scientifique (S)
 permalink: /filieres/scientifique-s/
+
+redirect_from:
+  - /index.php/filieres/scientifique-s
 ---
 
 ![École Saint John Perse / Scientifique (S)](https://www.ecoles-sjp.fr/images/IMG_9393.png "École Saint John Perse / Scientifique (S)")

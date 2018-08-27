@@ -2,6 +2,9 @@
 layout: page
 title: Ateliers d'arts plastiques, de cinéma ou de théatre
 permalink: /approche/ateliers-d-arts/
+
+redirect_from:
+  - /index.php/approche/ateliers-d-arts
 ---
 
 ![Saint John Perse / Ateliers d'Arts](https://www.ecoles-sjp.fr/images/DSC08323.jpg "Saint John Perse / Ateliers d'Arts")

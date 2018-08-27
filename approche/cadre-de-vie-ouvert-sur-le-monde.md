@@ -2,6 +2,12 @@
 layout: page
 title: Cadre de vie ouvert sur le monde
 permalink: /approche/cadre-de-vie-ouvert-sur-le-monde/
+
+redirect_from:
+  - /index.php/approche/cadre-de-vie-et-de-travail
+  - /index.php/approche/voyages-scolaires-et-sorties
+  - /approche/voyages-scolaires-et-sorties
+  - /approche/cadre-de-vie-et-de-travail
 ---
 
 ![Saint John Perse / Cadre de vie et de travail](https://www.ecoles-sjp.fr/images/DSC08400.jpg "Saint John Perse / Cadre de vie et de travail")

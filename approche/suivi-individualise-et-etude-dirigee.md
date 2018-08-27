@@ -2,6 +2,12 @@
 layout: page
 title: Suivi individualisé et étude dirigée
 permalink: /approche/suivi-individualise-et-etude-dirigee/
+
+redirect_from:
+  - /index.php/approche/suivi-individualise-et-coaching
+  - /index.php/approche/etudes-dirigees
+  - /index.php/approche/suivi-individualise-et-etude-dirigee
+  - /approche/suivi-individualise-et-etude-dirigee2
 ---
 
 A Saint-John Perse, les élèves sont **accompagnés de manière individuelle dans leur apprentissage**. 

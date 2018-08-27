@@ -2,6 +2,16 @@
 layout: page
 title: Nos valeurs
 permalink: /approche/nos-valeurs/
+
+redirect_from:
+  - /index.php/equipe/valeurse
+  - /index.php/approche/qu-est-ce-qu-un-bon-lycee
+  - /index.php/etablissements/paris-nord-18eme
+  - /index.php/etablissements/paris-sud-14eme
+  - /index.php/equipe/valeurs
+  - /index.php/etablissements/paris-sud-14eme
+  - /etablissements/qu-est-ce-qu-un-bon-lycee
+  - /approche/valeurs
 ---
 
 <img src="/images/approche-1.jpg">

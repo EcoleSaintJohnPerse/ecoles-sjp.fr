@@ -2,6 +2,12 @@
 layout: page
 title: Tarifs et conditions d'inscription
 permalink: /scolarite/tarifs-et-conditions-d-inscription/
+
+redirect_from:
+  - /index.php/contact/conditions-d-inscription
+  - /index.php/contact/prix-de-la-scolarite
+  - /scolarite/conditions-d-inscription
+  - /scolarite/tarifs
 ---
 
 ![Ecole Saint-John Perse / Prix de la scolarité](https://www.ecoles-sjp.fr/images/IMG_9572.jpg "Ecole Saint-John Perse / Prix de la scolarité")

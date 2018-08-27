@@ -2,6 +2,10 @@
 layout: page
 title: Stage de rentrée
 permalink: /scolarite/stage-de-rentree/
+
+redirect_from:
+  - /index.php/approche/stages
+  - /approche/stages
 ---
 
 ![coaching](https://www.ecoles-sjp.fr/images/coaching.jpg)

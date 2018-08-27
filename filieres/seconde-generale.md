@@ -2,6 +2,11 @@
 layout: page
 title: Seconde générale
 permalink: /filieres/seconde-generale/
+
+redirect_from:
+  - /ecole-sjp/index.php/nos-filieres/seconde
+  - /cours-sjp/index.php/nos-filieres/seconde
+  - /index.php/filieres/seconde-generale
 ---
 
 ![École Saint John Perse / Seconde Générale](https://www.ecoles-sjp.fr/images/12710968_1108217092563733_8532403430352136789_o.jpg "École Saint John Perse / Seconde Générale")

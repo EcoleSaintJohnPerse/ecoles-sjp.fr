@@ -2,6 +2,9 @@
 layout: page
 title: Management (STMG)
 permalink: /filieres/management-stmg/
+
+redirect_from:
+  - /index.php/filieres/management-stmg
 ---
 
 ![12605432 1103122043073238 8893854363321530142 o](https://www.ecoles-sjp.fr/images/12605432_1103122043073238_8893854363321530142_o.jpg)
