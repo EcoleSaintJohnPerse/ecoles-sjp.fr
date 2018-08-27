@@ -39,8 +39,8 @@ Enseignement secondaire privé général et technologique
 		<option>Terminale S</option>
 		<option>Terminale ES</option>
 		<option>Terminale STMG</option>
-		<option>BTS Cinema-audiovisuel</option>
 		<option>Prepa arts plastiques</option>
+		<option>Prepa Sciences-Po</option>
 	</select><br>
 	<label for="etablissement">Etablissement d'origine</label><input type="text" name="etablissement"><br>
     <label for="email">Email</label><input type="email" name="email"><br>
