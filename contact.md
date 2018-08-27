@@ -6,7 +6,7 @@ permalink: /contact/
 
 > En tant que parent, je tiens à apporter mon témoignage pour l'année scolaire de notre fils Vincent: l'équipe, allant des encadrants aux enseignants, ont apporté un soutien et un suivi sans faille, aussi bien à l'élève qu'aux parents, de nos jours, un tel engagement est rare. Je vous remercie très sincèrement d'avoir mené mon fils jusqu'au but final, le bac. **Parents de Vincent (TES)**
 
-Pour prendre rendez vous avec la Direction ou un professeur :
+Pour prendre rendez vous avec la direction ou un professeur :
 
 Ecole Saint-John Perse  
 Enseignement secondaire privé général et technologique  
