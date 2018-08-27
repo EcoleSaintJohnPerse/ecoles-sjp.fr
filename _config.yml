@@ -17,9 +17,9 @@ title: Lycée privé hors contrat Saint-John Perse - Paris 18
 email: sjp018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Enseignement secondaire privé hors contrat à Paris depuis 1982
-  Paris 18ème - 14 rue Cavallotti - 01 43 87 73 10
+  Paris 18 - 14, rue Cavallotti - 01 43 87 73 10
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ecoles-sjp.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: St_JohnPerse
 facebook_username: etablissements saint john perse
 
