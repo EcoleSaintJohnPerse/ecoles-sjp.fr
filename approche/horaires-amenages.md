@@ -12,8 +12,8 @@ De ce fait, nous proposons sur demande une formule d'emploi du temps aménagé q
 
 Nous avons notamment un partenariat avec l'Académie [Choreia Arts Studio](http://www.choreia.com/). 
 
-[Téléchargez ici la plaquette Saint-John Perse et Choréia. ](https://www.ecoles-sjp.fr/images/Plaquette_SJPC.pdf)
+[Téléchargez ici la plaquette Saint-John Perse et Choréia](/images/Plaquette_SJPC.pdf)
 
-[![Capture décran 2016 11 03 à 17.37.20](https://www.ecoles-sjp.fr/images/Capture_d%C3%A9cran_2016-11-03_%C3%A0_17.37.20.png)  ](http://www.choreia.com/)
+[![Logo Choréia](/images/logo-choroia.png)  ](http://www.choreia.com/)
 
-![Studio CHOREIA](https://www.ecoles-sjp.fr/images/Studio-CHOREIA.jpg)
+![Studio Choréia](/images/Studio-Choreia.jpg)

@@ -7,7 +7,7 @@ redirect_from:
   - /index.php/approche/ateliers-d-arts
 ---
 
-![Saint John Perse / Ateliers d'Arts](https://www.ecoles-sjp.fr/images/DSC08323.jpg "Saint John Perse / Ateliers d'Arts")
+![Ateliers d'Arts - École Saint John Perse](/images/atelier-cinema.jpg)
 
 A Saint-John Perse, nous proposons aux élèves de participer, quelque soit leur filière, à des **ateliers d'Art plastiques, de Cinéma ou de Théâtre**, afin de développer leurs compétences artistiques et leur curiosité, de préparer les options facultatives ou obligatoires du Baccalauréat.
 
@@ -15,7 +15,7 @@ A Saint-John Perse, nous proposons aux élèves de participer, quelque soit leur
 
 L’atelier de Cinéma permet à ses participants de **contribuer de bout en bout à la création d’un film** en commun (écriture, réalisation, post-production, promotion), diffusé en fin d’année, en choisissant de développer un des métiers du cinéma (comédie, réalisation, écriture, lumière, cadrage, montage).
 
-<iframe src="https://player.vimeo.com/video/168553780?portrait=0" width="400" height="300" allowfullscreen="true" frameborder="0" scrolling="no" title="JoomlaWorks AllVideos Player"></iframe>
+<iframe src="https://player.vimeo.com/video/168553780?portrait=0" width="400" height="300" allowfullscreen="true" frameborder="0" scrolling="no"></iframe>
 
 ---
 

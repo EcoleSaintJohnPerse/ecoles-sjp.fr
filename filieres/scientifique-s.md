@@ -7,7 +7,7 @@ redirect_from:
   - /index.php/filieres/scientifique-s
 ---
 
-![École Saint John Perse / Scientifique (S)](https://www.ecoles-sjp.fr/images/IMG_9393.png "École Saint John Perse / Scientifique (S)")
+![Bac Scientifique (S) - École Saint John Perse](/images/bac-scientifique.png)
 
 > J'ai eu mon Bac ! Merci beaucoup à Monsieur Saada (PC), Madame Aucouturier (Maths) et Monsieur Toualbi (SVT). Cette année a été une des meilleures. Merci beaucoup à toute l'équipe ! **Louise Brachet (TS)**
 
@@ -21,4 +21,4 @@ redirect_from:
 
 **Les spécialités proposées :** En Physique-Chimie, l'enseignement de spécialité revient sur les trois thématiques suivantes : L’eau, le son et la musique, les matériaux. L’enseignement de spécialité en  SVT prépare à la poursuite des études supérieures autour de quatre thématiques : la Terre dans l’univers, la vie et son évolution, les enjeux planétaires contemporains et le corps humain et la santé.
 
-![IMG 9387](https://www.ecoles-sjp.fr/images/IMG_9387.JPG)
+![Filière Scientifique (S) - École Saint John Perse](/images/voyage-classe-scientifiques.jpg)

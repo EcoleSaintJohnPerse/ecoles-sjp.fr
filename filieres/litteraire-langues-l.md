@@ -8,7 +8,7 @@ redirect_from:
   - /index.php/filieres/litteraire-langues-l
 ---
 
-![École Saint John Perse / Littéraire Langues](https://www.ecoles-sjp.fr/images/saintjohnperse_cours4.jpg "École Saint John Perse / Littéraire Langues")
+![Bac Littéraire Langues - École Saint John Perse](/images/groupe-litteraire-langue-1.jpg)
 
 > Merci pour ces deux années ou j'ai reappris à aimer l'école! Merci à tous les profs, leur disponibilité et leur persévérance. J'ai obtenu mon BAC avec une mention AB...Merci encore à vous tous! Bonne continuation et longue vie à Saint-John Perse!   **Lorenzo Cucchiaro (TL)**
 
@@ -33,4 +33,4 @@ Les élèves suivent l'enseignement en philosophie **dès la première.** En Fra
 * Suivre un cours de littérature comparée ;
 * Travailler sur des livres, des films, des publicités, des œuvres d'art.
 
-![École Saint John Perse / Littéraire Langues](https://www.ecoles-sjp.fr/images/saintjohnperse_cours3.jpg "École Saint John Perse / Littéraire Langues")
+![Filière Littéraire Langues - École Saint John Perse](/images/groupe-litteraire-langue-2.jpg)

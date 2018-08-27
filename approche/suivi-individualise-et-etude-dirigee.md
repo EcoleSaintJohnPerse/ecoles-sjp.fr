@@ -37,4 +37,4 @@ A Saint-John Perse, les élèves sont **accompagnés de manière individuelle da
 
 **Pour approfondir le travail personnel** indispensable à la réussite scolaire, nous proposons deux études surveillées par des enseignants spécialisés, en classe de Seconde et Première et Terminale, en **complément de l'emploi du temps (1h, deux fois par semaine).** C’est **l’assurance d’un environnement calme pour travailler, avec un appui pédagogique de qualité**, pour réaliser ses devoirs et approfondir l’apprentissage.
 
-![Saint John Perse / Étude dirigée](https://www.ecoles-sjp.fr/images/IMG_1181.jpg "Saint John Perse / Étude dirigée")
+![Étude dirigée - École Saint John Perse](/images/classe.jpg)

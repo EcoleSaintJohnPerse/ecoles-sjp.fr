@@ -10,7 +10,7 @@ redirect_from:
   - /scolarite/tarifs
 ---
 
-![Ecole Saint-John Perse / Prix de la scolarité](https://www.ecoles-sjp.fr/images/IMG_9572.jpg "Ecole Saint-John Perse / Prix de la scolarité")
+![Prix de la scolarité - Ecole Saint-John Perse](/images/musique.jpg)
 
 **Nos tarifs sont volontairement accessibles**. Ils se composent de la façon suivante :
 
@@ -43,4 +43,4 @@ Les notes et avis pédagogiques des conseils de classe sont des éléments impor
 Nous aimons **rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d'intérêt**. Ce qui nous intéresse, au delà du niveau, c'est la **capacité de l'élève et des familles à motiver une démarche de progrès sur le long terme**.   
 **Un bon lycée, c'est un lycée qui fait progresser ses élèves**, les aide à découvrir qui ils sont, et celà, c'est un travail d'équipe mené avec les familles ! Par ailleurs, nous choisissons de ne pas accueillir d'élèves fragilisateurs dans un contexte ou nous accueillons déjà des élèves fragiles.
 
-![Ecole Saint-John Perse / Conditions d'inscription](https://www.ecoles-sjp.fr/images/IMG_1175.jpg "Ecole Saint-John Perse / Conditions d'inscription")
+![Conditions d'inscription - Ecole Saint-John Perse](/images/deux-etudiants.jpg)

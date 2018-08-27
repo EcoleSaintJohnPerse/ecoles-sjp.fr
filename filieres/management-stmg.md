@@ -7,7 +7,7 @@ redirect_from:
   - /index.php/filieres/management-stmg
 ---
 
-![12605432 1103122043073238 8893854363321530142 o](https://www.ecoles-sjp.fr/images/12605432_1103122043073238_8893854363321530142_o.jpg)
+![Bac STMG - École Saint John Perse](/images/smtg-1.jpg)
 
 > Nous tenons à vous remercier car c'est grâce aux établissements comme le vôtre que des jeunes comme Antoine ont droit à une deuxième chance. Il a repris confiance en lui, s'est senti à l'aise et était bien entouré à Saint-John Perse. > Il va pouvoir se lancer dans les études qu'il choisit. >  Merci encore à toute votre équipe. **Parents d'Antoine TSTMG**
 
@@ -21,4 +21,4 @@ redirect_from:
 
 **La pratique de jeux de rôle économiques**, l’usage des réseaux sociaux, des outils de simulation et de gestion, sont au programme d'une pédagogie de l'action, qui repose sur la conduite d'études et de projets.
 
-![12615393 1103121709739938 7453105406864505905 o](https://www.ecoles-sjp.fr/images/12615393_1103121709739938_7453105406864505905_o.jpg)
+![Filière STMG - École Saint John Perse](/images/smtg-2.jpg)

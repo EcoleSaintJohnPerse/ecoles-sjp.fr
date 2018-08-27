@@ -10,7 +10,7 @@ redirect_from:
   - /approche/cadre-de-vie-et-de-travail
 ---
 
-![Saint John Perse / Cadre de vie et de travail](https://www.ecoles-sjp.fr/images/DSC08400.jpg "Saint John Perse / Cadre de vie et de travail")
+![Cadre de vie et de travail - École Saint John Perse](/images/sortie-tournage.jpg)
 
 **Le cadre de vie et de travail est un élément déterminant de la qualité** des apprentissages. Nous le souhaitons à la fois **rassurant** (familial et convivial) et **structurant** (méthodique et studieux), avec la possibilité de vivre l'école hors-les-murs.
 
@@ -36,7 +36,7 @@ La **présence et les retards constituent un point de vigilance particulier,** e
 
 Les devoirs personnels sont **planifiés à l'aide d'un cahier de texte en ligne**, le coach individuel participe à l'organisation du travail de l'élève.
 
-![saintjohnperse cours6](https://www.ecoles-sjp.fr/images/saintjohnperse_cours6.jpg)
+![En cours à l'École Saint John Perse](/images/en-cours.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Nous avons à coeur de proposer des activités différentes (**sorties et voyage
 
 Ces voyages sont un moment d'éveil et de curiosité et construisent des souvenirs impérissables !
 
-![sjp voyages10](https://www.ecoles-sjp.fr/images/sjp_voyages10.jpg)
+![Voyage de classe - École Saint John Perse](/images/voyage.jpg)
 
 Nos destinations :  **Venise, Milan, Turin, Bruges, Bruxelles, les Châteaux de la Loire, les Plages du Débarquement, Florence,** **Berlin, Le festival Premiers Plans d'Angers.**
 

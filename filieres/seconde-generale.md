@@ -9,7 +9,7 @@ redirect_from:
   - /index.php/filieres/seconde-generale
 ---
 
-![École Saint John Perse / Seconde Générale](https://www.ecoles-sjp.fr/images/12710968_1108217092563733_8532403430352136789_o.jpg "École Saint John Perse / Seconde Générale")
+![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
 
 > La seconde, **c’est avant tout la découverte du Lycée !** Nouvel environnement, nouvelles libertés, nouvelles contraintes, nouvelles matières, nouvelles méthodes…Tout change, en comparaison avec le Collège ! Voici nos points forts pour accompagner votre enfant durant cette année charnière.
 

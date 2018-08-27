@@ -53,4 +53,4 @@ Enseignement secondaire privé général et technologique
 
 <iframe width="100%" height="450" style="border: 0px solid #000000" src="https://www.google.com/maps?q=14 rue Cavallotti 75018 Paris France&z=14&t=m&output=embed"></iframe>
 
-![IMG 1288](https://www.ecoles-sjp.fr/images/IMG_1288.jpg)
+![Saint-John Perse](/images/verdure.jpg)

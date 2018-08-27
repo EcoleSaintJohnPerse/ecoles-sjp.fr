@@ -8,7 +8,7 @@ redirect_from:
   - /approche/stages
 ---
 
-![coaching](https://www.ecoles-sjp.fr/images/coaching.jpg)
+![Coaching - Ecole Saint-John Perse](/images/coaching.jpg)
 
 Chaque année, nous organisons des **stages de travail pendant les vacances scolaires** :
 
@@ -20,7 +20,7 @@ Chaque année, nous organisons des **stages de travail pendant les vacances scol
 
 ## Stage de prérentrée : du 27 au 31 août 2018 
 
-**[Plaquette avec les horaires ](https://www.ecoles-sjp.fr/images/stage_pre-rentree_18-19.pdf)**
+**[Plaquette avec les horaires](/images/stage_pre-rentree_18-19.pdf)**
 
 ### Prenez de l'élan pour la rentrée
 
