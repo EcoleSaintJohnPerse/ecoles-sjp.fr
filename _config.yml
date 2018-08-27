@@ -54,9 +54,6 @@ menus:
   - title: Horaires aménagés Arts ou Sports
     url: /approche/horaires-amenages
     identifier: horaires
-  - title: Album photos
-    url: /approche/album-photo
-    identifier: album
 
   filiere:
   - title: Seconde générale
