@@ -12,7 +12,9 @@ redirect_from:
   - /approche/album-photo
 ---
 
-A l'Ecole Saint-John Perse, nous portons **un projet éducatif fondé sur l'épanouissement des adolescents** : nous pensons que la réussite scolaire au lycée est la conséquence d'un **équilibre de développement personnel tenant compte de la spécificité de chacun**. Il s'agit donc, main dans la main avec les familles, de permettre à cet équilibre d'exister !
+A l'Ecole Saint-John Perse, nous portons **un projet éducatif fondé sur l'épanouissement des adolescents** : nous pensons que la réussite scolaire au lycée est la conséquence d'un **équilibre de développement personnel tenant compte de la spécificité de chacun**. Il s'agit donc, main dans la main avec les familles, de permettre à cet équilibre d'exister !  
+
+Nous préparons au bac [scientifique (S)](/filieres/scientifique-s/), [économique et social (ES)](/filieres/eco-et-social-es/), [STMG](/filieres/management-stmg/), et littéraire avec les [spécialités langues](/filieres/litteraire-langues-l/), [arts plastiques ou cinéma](/filieres/litteraire-arts-plastiques-ou-cinema/).
 
 ## Rentrée 2018-2019 : les inscriptions sont ouvertes au lycée et à la Prépa Sciences-Po
 
