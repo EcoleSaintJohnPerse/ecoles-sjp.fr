@@ -5,6 +5,7 @@ permalink: /approche/nos-valeurs/
 
 redirect_from:
   - /index.php/equipe/valeurse
+  - /index.php/etablissements/qu-est-ce-qu-un-bon-lycee
   - /index.php/approche/qu-est-ce-qu-un-bon-lycee
   - /index.php/etablissements/paris-nord-18eme
   - /index.php/etablissements/paris-sud-14eme

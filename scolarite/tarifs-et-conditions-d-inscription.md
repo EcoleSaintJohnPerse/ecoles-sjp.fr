@@ -4,9 +4,11 @@ title: Tarifs et conditions d'inscription
 permalink: /scolarite/tarifs-et-conditions-d-inscription/
 
 redirect_from:
+  - /index.php/scolarite/conditions-d-inscription
   - /index.php/contact/conditions-d-inscription
   - /index.php/contact/prix-de-la-scolarite
   - /scolarite/conditions-d-inscription
+  - /index.php/scolarite/tarifs
   - /scolarite/tarifs
 ---
 
