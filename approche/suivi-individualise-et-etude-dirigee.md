@@ -10,6 +10,8 @@ redirect_from:
   - /approche/suivi-individualise-et-etude-dirigee2
 ---
 
+![Suivi individualisé - École Saint John Perse](/images/suivi-individualise.jpg)
+
 A Saint-John Perse, les élèves sont **accompagnés de manière individuelle dans leur apprentissage**. 
 
 ## Pour réussir
