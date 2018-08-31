@@ -13,6 +13,14 @@ Et le code source devient open source, il est disponible sur [Github](https://gi
 
 [![Avant - après ! - École Saint John Perse](/images/avant-apres-saint-john-paul-2018-small.jpg)](/images/avant-apres-saint-john-paul-2018.jpg)
 
-## Google PageSpeed Insights : de 48 à 84 / 100
+## Google PageSpeed Insights
+
+### De 48/100 à 84/100
 
 [![Avant - après ! - École Saint John Perse](/images/perf-avant-apres-saint-john-paul-2018-small.jpg)](/images/perf-avant-apres-saint-john-paul-2018.jpg)
+
+## Temps de chargement d'une page
+
+### de > 400ms à < 50ms
+
+![Reduction du temps de chargement d'une page - École Saint John Perse](/images/evolution-temps-de-telechargement-d-une-page.jpg)]
