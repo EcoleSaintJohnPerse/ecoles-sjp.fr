@@ -46,8 +46,7 @@ $on-laptop:        800px !default;
 // Import partials.
 @import
   "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/layout"
 ;
 
 // custom:
@@ -99,6 +98,20 @@ h1, h2, h3 {
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
+
+@media screen and (max-width: 600px) {
+  .dropdown-content {
+    display: block;
+    position: relative;
+  }
+  .site-nav label[for="nav-trigger"] {
+    min-width: 0;
+  }
+  .dropdown-content a {
+    font-size: 15px;
+    line-height: 18px;
+  }
+}
 
 label {
   display: inline-block;
