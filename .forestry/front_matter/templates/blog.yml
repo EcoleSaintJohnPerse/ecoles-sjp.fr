@@ -3,3 +3,5 @@ label: BLOG
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- _posts/expo-picasso-bleu-et-rose-au-musée-d'orsay.md
