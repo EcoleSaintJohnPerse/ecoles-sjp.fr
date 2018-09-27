@@ -9,11 +9,13 @@ Chaque élève était invité à présenter un tableau de l'exposition devant le
 
 Nous avons vu des tableaux magnifiques puis nous nous sommes rendus à la section des tableaux de Van Gogh et de Gauguin sur demande des élèves.
 
-Exemples des tableaux présentés : 
+Exemples des tableaux présentés :
 
-Voici le tableau présenté par Lila : 
+Voici le tableau présenté par Lila :
 
-Voici le tableau présenté par Lila : La vie![](/uploads/la-vie.jpg)
+Voici le tableau présenté par Lila : La vie
+
+![](/uploads/la-vie.jpg)
 
 Voici le tableau présenté par Louise : Le meneur de cheval
 
