@@ -21,16 +21,6 @@ A l'Ecole Saint-John Perse, nous portons **un projet éducatif fondé sur l'épa
 
 Nous préparons au bac [scientifique (S)](/filieres/scientifique-s/), [économique et social (ES)](/filieres/eco-et-social-es/), [STMG](/filieres/management-stmg/), et littéraire avec les [spécialités langues](/filieres/litteraire-langues-l/), [arts plastiques ou cinéma](/filieres/litteraire-arts-plastiques-ou-cinema/).
 
-### Rentrée 2018-2019 : les inscriptions sont ouvertes au lycée et à la Prépa Sciences-Po
-
-Quelques places encore libres en 2ndes et 1ères, ainsi qu'en Terminale S
-
-Terminale STMG : classe affichant COMPLET
-
-Terminale ES : 4 places restantes
-
-Terminale L (spé Cinéma ou LVA Anglais ou Italien) : 4 places encore disponibles
-
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez le dossier d'inscription 2018/2019](/images/Dossier_dinscription_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
