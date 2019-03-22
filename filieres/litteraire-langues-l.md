@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terminale Littéraire spécialité Langue Renforcée
+title: Terminale Littéraire spécialité Langue Renforcée (Bac L)
 permalink: "/filieres/litteraire-langues-l/"
 redirect_from:
 - "/index.php/nos-filieres/litteraire-l"
