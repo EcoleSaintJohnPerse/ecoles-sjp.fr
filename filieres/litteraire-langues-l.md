@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Littéraire Langues (L)
-permalink: /filieres/litteraire-langues-l/
-
+title: Terminale Littéraire spécialité Langue Renforcée
+permalink: "/filieres/litteraire-langues-l/"
 redirect_from:
-  - /index.php/nos-filieres/litteraire-l
-  - /index.php/filieres/litteraire-langues-l
----
+- "/index.php/nos-filieres/litteraire-l"
+- "/index.php/filieres/litteraire-langues-l"
 
+---
 ![Bac Littéraire Langues - École Saint John Perse](/images/groupe-litteraire-langue-1.jpg)
 
 > Merci pour ces deux années ou j'ai reappris à aimer l'école! Merci à tous les profs, leur disponibilité et leur persévérance. J'ai obtenu mon BAC avec une mention AB...Merci encore à vous tous! Bonne continuation et longue vie à Saint-John Perse!   **Lorenzo Cucchiaro (TL)**
