@@ -13,12 +13,9 @@ redirect_from:
 ---
 ![Prix de la scolarité - Ecole Saint-John Perse](/images/musique.jpg)
 
-**Nos tarifs sont volontairement accessibles**. Ils se composent de la façon suivante :
+**Nos tarifs sont volontairement accessibles**. 
 
-* Des frais d'inscription : 720 €
-* Des frais de scolarité payables par mois ou par trimestres
-
-## Scolarité annuelle 2019/2020
+## Frais de scolarité 2019/2020
 
 | Seconde | 5400 €								
 | Première | 6120 €
@@ -30,13 +27,15 @@ redirect_from:
 
 Voyage scolaire dans une capitale européenne (en 2019 Londres, Bruxelles en 2018, Berlin en 2017) : 400 € environ 
 
-Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre  400 € 
+Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre : 400 € 
 
-Stage écoles de commerce (vacances d'hiver)  699 € 
+Stage écoles de commerce (vacances d'hiver) : 699 € 
 
-Stage pré-rentrée du 27 au 31 août 2018<br>10 heures par matière et par semaine 
+Stage pré-rentrée du 27 au 31 août 2018 : 10 heures par matière et par semaine 
 
-279 € une matière<br>499 € deux matières<br>649 € trois matières 
+* 279 € une matière
+* 499 € deux matières
+* 649 € trois matières 
 
 ## Les inscriptions sont ouvertes pour 2019-2020
 
