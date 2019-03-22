@@ -16,21 +16,27 @@ redirect_from:
 **Nos tarifs sont volontairement accessibles**. Ils se composent de la façon suivante :
 
 * Des frais d'inscription : 720 €
-* Des frais de scolarité : 
+* Des frais de scolarité payables par mois ou par trimestres
 
-## Prix de la scolarité 2019/2020
-A l'année 
+## Scolarité annuelle 2019/2020
+
 | Seconde | 5400 €								
 | Première | 6120 €
 | Terminale | 6300 €
 
-Un voyage de découverte est compris chaque année dans le prix de la scolarité pour les Secondes et Premières.
+**Un voyage de découverte est compris chaque année dans le prix de la scolarité pour les Secondes et Premières.**
 
 ### Prix des activités annexes
 
-|Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre | 400 € |
-|Stage écoles de commerce (vacances d'hiver) | 699 € |
-|Stage pré-rentrée du 27 au 31 août 2018<br>10 heures par matière et par semaine | 279 € une matière<br>499 € deux matières<br>649 € trois matières |
+Voyage scolaire dans une capitale européenne (en 2019 Londres, Bruxelles en 2018, Berlin en 2017) : 400 € environ 
+
+Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre  400 € 
+
+Stage écoles de commerce (vacances d'hiver)  699 € 
+
+Stage pré-rentrée du 27 au 31 août 2018<br>10 heures par matière et par semaine 
+
+279 € une matière<br>499 € deux matières<br>649 € trois matières 
 
 ## Les inscriptions sont ouvertes pour 2019-2020
 
