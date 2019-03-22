@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Littéraire Arts plastiques et Cinema (L)
-permalink: /filieres/litteraire-arts-plastiques-ou-cinema/
-
+title: Terminale Littéraire Arts plastiques ou Cinéma Audiovisuel (Bac L)
+permalink: "/filieres/litteraire-arts-plastiques-ou-cinema/"
 redirect_from:
-  - /index.php/filieres/litteraire-arts-plastiques-l
-  - /index.php/filieres/litteraire-arts-l
-  - /filieres/litteraire-arts-plastiques-l
-  - /filieres/litteraire-arts-l
----
+- "/index.php/filieres/litteraire-arts-plastiques-l"
+- "/index.php/filieres/litteraire-arts-l"
+- "/filieres/litteraire-arts-plastiques-l"
+- "/filieres/litteraire-arts-l"
 
+---
 > En arrivant à Saint-John Perse, je ne savais pas à quoi m'attendre. Je n'arrive toujours pas à croire que j'ai pu enfin prendre confiance en moi après 15 ans de chagrin d'école, montrer à ma famille ce dont j'étais capable et réussir à entrer à l'école Camondo.**Agathe (TL)**
 
 ![Bac L Arts Plastiques - École Saint John Perse](/images/arts-plastique.jpg)
@@ -67,4 +66,4 @@ Première L       |  Terminale L
 3h d’histoire-géo | 2h de littérature 
 2h de sciences    | 8h de philo       
 1h de philo       | 2h d'EPS          
-2h d’EPS          |                   
+2h d’EPS          |
