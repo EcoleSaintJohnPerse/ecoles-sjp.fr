@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Scientifique (S)
-permalink: /filieres/scientifique-s/
-
+title: Terminale Scientifique (Bac S)
+permalink: "/filieres/scientifique-s/"
 redirect_from:
-  - /index.php/filieres/scientifique-s
----
+- "/index.php/filieres/scientifique-s"
 
+---
 ![Bac Scientifique (S) - École Saint John Perse](/images/bac-scientifique.png)
 
 > J'ai eu mon Bac ! Merci beaucoup à Monsieur Saada (PC), Madame Aucouturier (Maths) et Monsieur Toualbi (SVT). Cette année a été une des meilleures. Merci beaucoup à toute l'équipe ! **Louise Brachet (TS)**
