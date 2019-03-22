@@ -21,7 +21,7 @@ redirect_from:
 | Première | 6120 €
 | Terminale | 6300 €
 
-### Frais de scolarité Horaires aménagés Sport/Etude ou Chant, Musique et Danse/Etude   
+### Frais de scolarité Horaires aménagés Sport/Etude, Art/Etude ou Chant, Musique et Danse/Etude   
 
 | Seconde 4700 € | Première 5420 € | Terminale 5600 €
 
