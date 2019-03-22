@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mercatique/Marketing (STMG)
+title: Terminale STMG (Mercatique)
 permalink: "/filieres/management-stmg/"
 redirect_from:
 - "/index.php/filieres/management-stmg"
