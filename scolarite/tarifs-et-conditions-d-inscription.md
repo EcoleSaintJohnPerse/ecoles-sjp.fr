@@ -22,7 +22,7 @@ redirect_from:
 
 | Inscription | Mensualités (x9) | Trimestre (x3) | Prix total |
 | --- | :---: | :---: | :---: |
-| Seconde | 720 € | 520 € | 1560 € |
+| Seconde | 720 € | 520 € | 1560 € |								
 | Première | 720 € | 600 € | 1800 € |
 | Terminale | 720 € | 620 € | 1860 € |
 
@@ -30,7 +30,7 @@ Un voyage de découverte est compris chaque année dans le prix de la scolarité
 
 ### Prix des activités annexes
 
-|Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre | 300 € |
+|Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre | 400 € |
 |Stage écoles de commerce (vacances d'hiver) | 699 € |
 |Stage pré-rentrée du 27 au 31 août 2018<br>10 heures par matière et par semaine | 279 € une matière<br>499 € deux matières<br>649 € trois matières |
 
