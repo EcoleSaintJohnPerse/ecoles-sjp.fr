@@ -50,6 +50,8 @@ Enseignement secondaire privé général et technologique
 <input type="submit" value="Envoyer">
 </form>
 
+Comment venir ? 
+
 <iframe width="100%" height="450" style="border: 0px solid #000000" src="https://www.google.com/maps?q=14 rue Cavallotti 75018 Paris France&z=14&t=m&output=embed"></iframe>
 
 ![Saint-John Perse](/images/verdure.jpg)
