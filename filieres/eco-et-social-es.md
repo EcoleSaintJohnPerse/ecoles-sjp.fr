@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Éco et social (ES)
+title: Terminale économique et social (Bac ES)
 permalink: "/filieres/eco-et-social-es/"
-
 redirect_from:
-  - /index.php/nos-filieres/economique-et-sociale-es
-  - /index.php/filieres/eco-et-social-es
----
+- "/index.php/nos-filieres/economique-et-sociale-es"
+- "/index.php/filieres/eco-et-social-es"
 
+---
 ![Économique et social - École Saint John Perse](/images/groupe-eco-social.jpg)
 
 > Un grand merci à M. Andreo, M. Damade et à toute l'équipe enseignante pour ces deux années durant lesquelles Inès a retrouvé confiance en elle afin de confirmer son souhait de poursuivre sa route dans la filière générale. Alors qu'elle vient d'obtenir son Bac ES, la conviction de son ancien lycée que ses capacités « limitées » ne l'autorisaient qu'à envisager un bac professionnel était bien méprisante.
