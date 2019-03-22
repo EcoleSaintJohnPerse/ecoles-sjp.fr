@@ -31,7 +31,7 @@ Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre : 400 € 
 
 Stage écoles de commerce (vacances d'hiver) : 699 € 
 
-Stage pré-rentrée du lundi 26 au vendredi 30 août 2019 : 10 heures par matière et par semaine 
+Stage pré-rentrée du lundi 26 au vendredi 30 août 2019 : 10 heures par matière 
 
 * 279 € une matière
 * 499 € deux matières
