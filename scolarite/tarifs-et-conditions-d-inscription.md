@@ -15,16 +15,14 @@ redirect_from:
 
 **Nos tarifs sont volontairement accessibles**. Ils se composent de la façon suivante :
 
-* Des frais d'inscription.
-* Des frais de scolarité correspondant à l'enseignement dispensé sur les trois trimestres, réglés mensuellement ou trimestriellement.
+* Des frais d'inscription : 720 €
+* Des frais de scolarité : 
 
 ## Prix de la scolarité 2019/2020
-
-| Inscription | Mensualités (x9) | Trimestre (x3) | Prix total |
-| --- | :---: | :---: | :---: |
-| Seconde | 720 € | 520 € | 1560 € |								
-| Première | 720 € | 600 € | 1800 € |
-| Terminale | 720 € | 620 € | 1860 € |
+A l'année 
+| Seconde | 5400 €								
+| Première | 6120 €
+| Terminale | 6300 €
 
 Un voyage de découverte est compris chaque année dans le prix de la scolarité pour les Secondes et Premières.
 
