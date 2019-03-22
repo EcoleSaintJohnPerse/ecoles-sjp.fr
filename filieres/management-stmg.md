@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Management (STMG)
-permalink: /filieres/management-stmg/
-
+title: Mercatique/Marketing (STMG)
+permalink: "/filieres/management-stmg/"
 redirect_from:
-  - /index.php/filieres/management-stmg
----
+- "/index.php/filieres/management-stmg"
 
+---
 ![Bac STMG - École Saint John Perse](/images/smtg-1.jpg)
 
 > Nous tenons à vous remercier car c'est grâce aux établissements comme le vôtre que des jeunes comme Antoine ont droit à une deuxième chance. Il a repris confiance en lui, s'est senti à l'aise et était bien entouré à Saint-John Perse. > Il va pouvoir se lancer dans les études qu'il choisit. >  Merci encore à toute votre équipe. **Parents d'Antoine TSTMG**
