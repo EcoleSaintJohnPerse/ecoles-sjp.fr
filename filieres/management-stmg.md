@@ -4,7 +4,6 @@ title: Mercatique/Marketing (STMG)
 permalink: "/filieres/management-stmg/"
 redirect_from:
 - "/index.php/filieres/management-stmg"
-published: false
 
 ---
 ![Bac STMG - École Saint John Perse](/images/smtg-1.jpg)
