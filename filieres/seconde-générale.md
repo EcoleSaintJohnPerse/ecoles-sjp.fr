@@ -12,7 +12,7 @@ redirect_from:
 
 > 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
 
-#### _En plus du tronc commun pour tous les élèves, nous proposerons les Enseignements de spécialité suivants :_
+#### _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposerons les Enseignements de spécialité suivants :_
 
 * Arts (Cinéma, Arts plastiques)
 * Écologie, agronomie et territoires (EAT)
@@ -32,7 +32,7 @@ redirect_from:
 * LV3,
 * Droits et grands enjeux du monde contemporain (en Terminale uniquement)**Les élèves travaillent en petits effectifs** (moins de 24 élèves par classe).
 
-#### **_Pourquoi faire sa Première générale à Saint-John Perse :_** 
+#### **_Pourquoi faire sa Première générale à Saint-John Perse :_**
 
 **Des petits effectifs :** 10 à 15 élèves dans certaines classes, 24 élèves maximum
 
