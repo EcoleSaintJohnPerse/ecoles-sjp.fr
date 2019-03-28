@@ -28,14 +28,14 @@ menus:
   main:
   - title: Approche pédagogique
     identifier: approche
-  - title: Filière
+  - title: Le Lycée
     identifier: filiere
   - title: Scolarité
     identifier: scolarite
-  - title: Prépa Sciences Po
+  - title: La Prépa Sciences Po
     identifier: prepasciencespo
     url: http://www.prepasciencespo-sjp.fr
-  - title: Contact
+  - title: Nous contacter
     identifier: contact
     url: /contact
 
@@ -60,19 +60,22 @@ menus:
   - title: Seconde générale
     url: /filieres/seconde-generale
     identifier: seconde
-  - title: Littéraire Arts (L)
+  - title: Première générale
+    url: /filieres/premiere-generale
+    identifier: premiere
+  - title: Terminale Littéraire Arts (L)
     url: /filieres/litteraire-arts-plastiques-ou-cinema
     identifier: litteraire-arts
-  - title: Littéraire Langues (L)
+  - title: Terminale Littéraire Langues (L)
     url: /filieres/litteraire-langues-l
     identifier: litteraire-langues
-  - title: Scientifique (S)
+  - title: Terminale Scientifique (S)
     url: /filieres/scientifique-s
     identifier: scientifique
-  - title: Éco et social (ES)
+  - title: Terminale Éco et social (ES)
     url: /filieres/eco-et-social-es
     identifier: eco-et-social
-  - title: Management (STMG)
+  - title: Terminale Management (STMG)
     url: /filieres/management-stmg
     identifier: smtg
 
