@@ -5,7 +5,7 @@ permalink: "/filieres/premiere-generale/"
 redirect_from:
 - "/ecole-sjp/index.php/nos-filieres/seconde"
 - "/cours-sjp/index.php/nos-filieres/seconde"
-- "/index.php/filieres/seconde-generale"
+- "/index.php/filieres/premiere-generale"
 
 ---
 ![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
