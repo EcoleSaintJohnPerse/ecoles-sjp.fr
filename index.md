@@ -31,36 +31,8 @@ Il s'agit donc, main dans la main avec les familles, de permettre à cet équili
 
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
+* Téléchargez le dossier d’inscription Terminale 2019/2020 (à venir)
 
-Nous préparons aux baccalauréats suivants 2019/2020 :
+**Pour une entrée en Seconde (Bac 2022) et Première (BAC 2021) en septembre 2019 :** 
 
-* [scientifique (S)](/filieres/scientifique-s/),
-* [économique et social (ES)](/filieres/eco-et-social-es/),
-* Sciences Techniques de Management et de Gestion ([STMG](/filieres/management-stmg/)),
-* et [littéraire (L) avec les spécialités langues](https://www.ecoles-sjp.fr/filieres/litteraire-langues-l/), [arts plastiques ou cinéma.](https://www.ecoles-sjp.fr/filieres/litteraire-arts-plastiques-ou-cinema/)
-
-#### **BAC 2021 :** Téléchargez le dossier d'inscription 2019/2020 (à venir)
-
-**Pour une entrée en Seconde et Première en septembre 2019 : nous appliquerons la réforme du lycée**
-
-_Voie générale - En plus du tronc commun pour tous les élèves, nous proposerons les Enseignements de spécialité suivants :_
-
-* Arts (Cinéma, Arts plastiques)
-* Écologie, agronomie et territoires (EAT)
-* Histoire géographie, géopolitique et sciences politiques
-* Humanités, littératures et philosophie
-* Langues et littératures étrangères
-* Mathématiques
-* Numérique et sciences informatiques
-* Sciences de la vie et de la terre
-* Sciences de l'ingénieur
-* Sciences économiques et sociales
-* Physique chimie
-
-_Voie générale - Nous proposerons les enseignements facultatifs suivants :_
-
-* Arts, (Cinéma, Arts plastiques)
-* LV3,
-* Droits et grands enjeux du monde contemporain (en Terminale uniquement)
-
-Et toujours : [classe à horaires aménagés](https://www.ecoles-sjp.fr/approche/horaires-amenages/), ateliers pour élèves intellectuellement précoces (EIP), élèves à haut potentiel. 
+* Téléchargez le dossier d’inscription 2019/2020 (à venir)
