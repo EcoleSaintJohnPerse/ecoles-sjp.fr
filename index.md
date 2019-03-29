@@ -31,7 +31,7 @@ A l'Ecole Saint John Perse nous faisons le choix de proposer à nos élèves tou
 
 * Téléchargez le dossier d’inscription 2019/2020 (à venir)
 
-#### **Pour une entrée en Terminale en septembre 2019 :**
+#### **Pour une entrée en Terminale en septembre 2019 (BAC 2020) :**
 
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
