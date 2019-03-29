@@ -21,18 +21,13 @@ A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé 
 
 Il s'agit donc, main dans la main avec les familles, de permettre à cet équilibre d'exister !
 
-**Pour une arrivée en cours d'année 2018/2019 :**
+#### **Pour une entrée en Seconde (Bac 2022) et Première (BAC 2021) en septembre 2019 :**
 
-* [Téléchargez la plaquette de présentation de l'établissement](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/plaquette_2018_2019.pdf)
-* [Téléchargez le dossier d'inscription 2018/2019](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/Dossier_dinscription_2018_2019.pdf)
-* [Téléchargez la plaquette de la prépa Sciences-Po](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/plaquette_prepa_sciences-po.pdf)
+* Téléchargez le dossier d’inscription 2019/2020 (à venir)
 
-**Pour une entrée en Terminale en septembre 2019 :**
+  #### **Pour une entrée en Terminale en septembre 2019 :**
+
 
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
 * Téléchargez le dossier d’inscription Terminale 2019/2020 (à venir)
-
-**Pour une entrée en Seconde (Bac 2022) et Première (BAC 2021) en septembre 2019 :** 
-
-* Téléchargez le dossier d’inscription 2019/2020 (à venir)
