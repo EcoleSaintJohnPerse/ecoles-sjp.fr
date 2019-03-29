@@ -39,7 +39,7 @@ menus:
     identifier: contact
     url: /contact
 
-  Notre Ecole:
+  Approche:
   - title: Nos valeurs
     url: /approche/nos-valeurs
     identifier: valeurs
@@ -56,7 +56,7 @@ menus:
     url: /approche/horaires-amenages
     identifier: horaires
 
-  Nos classes:
+  Filière:
   - title: Seconde générale : BAC 2022
     url: /filieres/seconde-generale
     identifier: seconde
@@ -79,7 +79,7 @@ menus:
     url: /filieres/management-stmg
     identifier: smtg
 
-  La scolarité:
+  Scolarite:
   - title: Tarifs et bourses
     url: /scolarite/tarifs-et-conditions-d-inscription
     identifier: tarifs
