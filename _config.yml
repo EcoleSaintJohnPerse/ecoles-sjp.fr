@@ -26,11 +26,11 @@ google_analytics: UA-124493340-1
 
 menus:
   main:
-  - title: Approche
+  - title: Notre Ecole
     identifier: approche
-  - title: Le Lycée
+  - title: Nos classes
     identifier: filiere
-  - title: Scolarité
+  - title: La scolarité
     identifier: scolarite
   - title: La Prépa Sciences Po
     identifier: prepasciencespo
@@ -57,10 +57,10 @@ menus:
     identifier: horaires
 
   filiere:
-  - title: Seconde générale
+  - title: Seconde générale : BAC 2022
     url: /filieres/seconde-generale
     identifier: seconde
-  - title: Première générale
+  - title: Première générale : BAC 2021
     url: /filieres/premiere-generale
     identifier: premiere
   - title: Terminale Littéraire Arts (L)
@@ -79,8 +79,8 @@ menus:
     url: /filieres/management-stmg
     identifier: smtg
 
-  scolarite:
-  - title: Tarifs et conditions d'inscription
+  La scolarité:
+  - title: Tarifs
     url: /scolarite/tarifs-et-conditions-d-inscription
     identifier: tarifs
   - title: Documents utiles
@@ -89,7 +89,7 @@ menus:
   - title: Cahier de texte
     url: http://ecolesjp.free.fr/
     identifier: cahier-de-texte
-  - title: Stage de rentrée
+  - title: Stages 
     url: /scolarite/stage-de-rentree
     identifier: stage
 
