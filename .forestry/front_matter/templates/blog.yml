@@ -3,6 +3,7 @@ label: BLOG
 hide_body: false
 fields: []
 pages:
+- _posts/Voyage à Londres 2019.md
 - _posts/Bac blanc 3.md
 - _posts/Stage en entreprise des 2ndes.md
 - _posts/2019-03-29-Etude de gestion.md
