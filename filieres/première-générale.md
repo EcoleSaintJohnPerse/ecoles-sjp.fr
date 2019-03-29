@@ -10,8 +10,6 @@ redirect_from:
 ---
 ![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
 
-> 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
-
 #### **_Pourquoi faire sa Première STMG à Saint-John Perse :_**
 
 **La filière STMG (Sciences et Techniques de Management et de Gestion) s’adresse aux élèves intéressés par la réalité du fonctionnement des entreprises, les relations au travail, les nouveaux usages du numérique, le marketing, la communication d’entreprise, la gestion.**
