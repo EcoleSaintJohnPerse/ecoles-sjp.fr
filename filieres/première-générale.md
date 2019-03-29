@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Première générale
+title: Première Management et Gestion
 permalink: "/filieres/premiere-generale/"
 redirect_from:
 - "/ecole-sjp/index.php/nos-filieres/seconde"
