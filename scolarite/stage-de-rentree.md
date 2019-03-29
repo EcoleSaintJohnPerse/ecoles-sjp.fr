@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stage de rentrée
+title: Stage
 permalink: "/scolarite/stage-de-rentree/"
 redirect_from:
 - "/index.php/approche/stages"
