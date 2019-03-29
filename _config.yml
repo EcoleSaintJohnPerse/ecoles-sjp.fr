@@ -27,7 +27,7 @@ google_analytics: UA-124493340-1
 menus:
   main:
   - title: Notre Ecole
-    identifier: approche
+    identifier: notreecole
   - title: Nos classes
     identifier: filiere
   - title: La scolarité
@@ -39,7 +39,7 @@ menus:
     identifier: contact
     url: /contact
 
-  approche:
+  notreecole:
   - title: Nos valeurs
     url: /approche/nos-valeurs
     identifier: valeurs
