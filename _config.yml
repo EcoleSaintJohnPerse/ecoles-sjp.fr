@@ -60,7 +60,7 @@ menus:
   - title: Seconde générale
     url: /filieres/seconde-generale
     identifier: seconde
-  - title: Première générale : réforme BAC 2021
+  - title: Première générale
     url: /filieres/premiere-generale
     identifier: premiere
   - title: Première Management et Gestion (STMG)
