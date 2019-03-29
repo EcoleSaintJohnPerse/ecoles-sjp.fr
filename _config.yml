@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lycée privé hors contrat Saint-John Perse - Paris 18
+title: Lycée privé hors contrat Saint-John Perse depuis 1982 - Paris 18
 email: sjp018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Enseignement secondaire privé hors contrat à Paris depuis 1982
@@ -60,25 +60,22 @@ menus:
   - title: Seconde générale
     url: /filieres/seconde-generale
     identifier: seconde
-  - title: Première générale
+  - title: Première générale : réforme BAC 2021
     url: /filieres/premiere-generale
     identifier: premiere
   - title: Première Management et Gestion (STMG)
     url: /filieres/premiere-management-et-gestion
     identifier: premiere-stmg
-  - title: Terminale Littéraire Langues ou Cinéma (L)
+  - title: Terminale Littéraire Langues ou Cinéma (BAC L)
     url: /filieres/litteraire-arts-plastiques-ou-cinema
     identifier: litteraire-arts
-  - title: Terminale Littéraire Langues (L)
-    url: /filieres/litteraire-langues-l
-    identifier: litteraire-langues
-  - title: Terminale Scientifique (S)
+  - title: Terminale Scientifique (BAC S)
     url: /filieres/scientifique-s
     identifier: scientifique
-  - title: Terminale Éco et social (ES)
+  - title: Terminale Éco et social (BAC ES)
     url: /filieres/eco-et-social-es
     identifier: eco-et-social
-  - title: Terminale Management et Gestion (STMG)
+  - title: Terminale Management et Gestion (BAC STMG)
     url: /filieres/management-stmg
     identifier: smtg
 
@@ -86,10 +83,10 @@ menus:
   - title: Tarifs et bourses
     url: /scolarite/tarifs-et-conditions-d-inscription
     identifier: tarifs
-  - title: Documents utiles
+  - title: Documents à télécharger
     url: /scolarite/documents-utiles
     identifier: documents-utiles
-  - title: Cahier de texte
+  - title: Cahier de texte en ligne
     url: http://ecolesjp.free.fr/
     identifier: cahier-de-texte
   - title: Stages 
