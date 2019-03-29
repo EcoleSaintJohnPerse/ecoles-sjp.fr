@@ -13,18 +13,39 @@ redirect_from:
 
 ![Bac L Arts Plastiques - École Saint John Perse](/images/arts-plastique.jpg)
 
-La filière L s'adresse à toute lycéenne ou tout lycéen, curieux des Arts et des Lettres. 
+La filière L s'adresse à toute lycéenne ou tout lycéen, curieux des Arts et des Lettres.
 
 Elle permet de préparer un Bac Général Littéraire, qui ouvre la voie à de nombreux débouchés (Langues, Journalisme, Enseignement, Communication, Droit, Design, par exemple).
 
-  
-La première L est consacrée à la préparation du baccalauréat de français et d’enseignement scientifique. En terminale L, les élèves reçoivent un enseignement ou prédominent le français et la littérature, les langues, l’histoire-géographie et la philosophie. 
+La première L est consacrée à la préparation du baccalauréat de français et d’enseignement scientifique. En terminale L, les élèves reçoivent un enseignement ou prédominent le français et la littérature, les langues, l’histoire-géographie et la philosophie.
+
+# La spécialité Langue Vivante Approfondie (coefficient 9)
+
+Avec cette spécialité, le coefficient des langues en Terminale L peut atteindre 13  au Baccalauréat. 
+
+**Les notions de civilisation au programme sont :** 
+
+* mythes et héros, 
+* lieux et formes de pouvoir, 
+* espaces et échanges, 
+* l'idée de progrès.
+
+**Les objectifs de la spécialité Langue vivante approfondie :**
+
+* Améliorer sa connaissance de la civilisation anglaise
+* Améliorer la pratique de la langue
+* Préparer des tests de langue exigeants
+
+**Le cours de littérature étrangère en langue étrangère Anglais (LELE) :**
+
+* Suivre un cours de littérature comparée ;
+* Travailler sur des livres, des films, des publicités, des œuvres d'art.
 
 ***
 
 ![Littéraire Cinéma - École Saint John Perse](/images/cinema.jpg)
 
-# La spécialité Cinéma (coefficient 8)
+# La spécialité Cinéma Audiovisuel (coefficient 8)
 
 * Un fort coefficient(6+2) améliore considérablement les résultats d’admission au baccalauréat.
 * Ce sont des matières nouvelles, qui permettent aux élèves de s’ouvrir aux autres et au monde, sans lacunes préalables.
