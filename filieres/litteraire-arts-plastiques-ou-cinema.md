@@ -17,13 +17,13 @@ Elle permet de préparer un Bac Général Littéraire, qui ouvre la voie à de n
 
 # La spécialité Langue Vivante Approfondie (coefficient 9)
 
-Avec cette spécialité, le coefficient des langues en Terminale L peut atteindre 13  au Baccalauréat. 
+Avec cette spécialité, le coefficient des langues en Terminale L peut atteindre 13  au Baccalauréat.
 
-**Les notions de civilisation au programme sont :** 
+**Les notions de civilisation au programme sont :**
 
-* mythes et héros, 
-* lieux et formes de pouvoir, 
-* espaces et échanges, 
+* mythes et héros,
+* lieux et formes de pouvoir,
+* espaces et échanges,
 * l'idée de progrès.
 
 **Les objectifs de la spécialité Langue vivante approfondie :**
@@ -47,14 +47,20 @@ Avec cette spécialité, le coefficient des langues en Terminale L peut atteindr
 * Une théorie et une pratique utile dans notre société de l’image, de l’information et de la communication.
 * En cinéma audiovisuel, les élèves écrivent, produisent, tournent, montent et diffusent un court- métrage. Ils visionnent et analysent des extraits de films en classe. A plusieurs reprises dans l’année, des professionnels du cinéma viennent rencontrer nos élèves.
 
-Répartition des heures de cours : 
-| Terminale L |
-| 5h de cinéma ou 2h de LVA|
-| 2h de LV1 |
-| 2h de LV2 |
-| 1h30h de LELE |
-| 4h d'histoire-géo |
-| 2h de littérature |
-| 8h de philo |
-| 2h d'EPS |
- 
+## Pourquoi une Terminale L à Saint-John Perse  ?
+
+**Choisir de faire sa Terminale L à l'Ecole Saint-John Perse c'est s'assurer d'une année riche en apprentissages et découvertes, pour étudier dans d'excellentes conditions et trouver son orientation pour septembre 2020 :** 
+
+**Des petits effectifs :** 24 élèves maximum, des conditions idéales pour apprendre.
+
+**Des entraînements réguliers pour progresser :** les élèves de Terminale L ont dans leur emploi du temps deux plages de 2 heures de devoirs surveillés chaque semaine.
+
+**Un voyage de classe** dans une capitale européenne est proposé aux élèves de Terminale L (Londres 2019, Bruxelles 2018, Berlin 2017) ...
+
+**Des sorties culturelles** (musée, cinéma, abonnement théâtre, rencontres, conférences, promenades culturelles, etc.) chaque trimestre pour développer l’ouverture et la curiosité de chacun.
+
+**Des révisions pour mettre en confiance :** de mi mai à mi-juin les élèves sont en révisions pour le bac avec un emploi du temps aménagé et des oraux blancs.
+
+**Des rendez-vous d'orientation sur demande :** les élèves sont accompagnés personnellement dans la construction de leur projet d’orientation : chacun est soutenu dans son développement et sa progression.
+
+**Atelier d'arts pour augmenter ses points au Bac : les élèves peuvent participer à un atelier d’arts plastiques ou de cinéma audiovisuel** pour préparer l’option facultative artistique du Baccalauréat (coefficient 2).
