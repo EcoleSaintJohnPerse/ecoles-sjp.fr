@@ -28,7 +28,7 @@ redirect_from:
 
 **Un voyage de classe** est organisé avec les élèves de Première (Bruges, Châteaux de la Loire, Normandie), compris dans les frais de scolarité.
 
-**Des sorties culturelles** (musée, cinéma, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité de chacun.
+**Des sorties culturelles** (musée, cinéma, abonnement théâtre, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité de chacun.
 
 **Un stage de Français en fin d'année :** de fin mai à mi-juin les élèves sont en révisions pour le bac avec un emploi du temps aménagé et des oraux blancs.
 
