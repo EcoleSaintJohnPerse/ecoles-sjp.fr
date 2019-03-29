@@ -21,17 +21,17 @@ A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé 
 
 Il s'agit donc, main dans la main avec les familles, de permettre à cet équilibre d'exister !
 
-#### BAC 2021 : 
+### BAC 2021 :
 
 L'année 2019/2020 est celle de la mise en place du nouveau lycée. L’organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s’ajoutent 3 spécialités au choix des élèves.
 
-A l'Ecole Saint John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles. 
+A l'Ecole Saint John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles.
 
-##### Pour une entrée en Seconde (Bac 2022) et Première (BAC 2021) en septembre 2019 :
+#### Pour une entrée en Seconde (Bac 2022) et Première (BAC 2021) en septembre 2019 :
 
 * Téléchargez le dossier d’inscription 2019/2020 (à venir)
 
-##### Pour une entrée en Terminale en septembre 2019 :
+#### Pour une entrée en Terminale en septembre 2019 :
 
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
