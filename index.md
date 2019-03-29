@@ -36,3 +36,11 @@ A l'Ecole Saint John Perse nous faisons le choix de proposer à nos élèves tou
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
 * Téléchargez le dossier d’inscription Terminale 2019/2020 (à venir)
+
+## Les inscriptions sont ouvertes pour 2019-2020
+
+Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
+
+Les notes et avis pédagogiques des conseils de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments motivant une inscription.
+
+Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à motiver une démarche de progrès sur le long terme.
