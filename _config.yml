@@ -63,6 +63,9 @@ menus:
   - title: Première générale
     url: /filieres/premiere-generale
     identifier: premiere
+  - title: Première Management et Gestion (STMG)
+    url: /filieres/premiere-management-et-gestion
+    identifier: premiere-stmg
   - title: Terminale Littéraire Arts (L)
     url: /filieres/litteraire-arts-plastiques-ou-cinema
     identifier: litteraire-arts
