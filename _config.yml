@@ -39,7 +39,7 @@ menus:
     identifier: contact
     url: /contact
 
-  approche:
+  Notre Ecole:
   - title: Nos valeurs
     url: /approche/nos-valeurs
     identifier: valeurs
@@ -56,7 +56,7 @@ menus:
     url: /approche/horaires-amenages
     identifier: horaires
 
-  filiere:
+  Nos classes:
   - title: Seconde générale : BAC 2022
     url: /filieres/seconde-generale
     identifier: seconde
