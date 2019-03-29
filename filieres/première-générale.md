@@ -6,7 +6,6 @@ redirect_from:
 - "/ecole-sjp/index.php/nos-filieres/seconde"
 - "/cours-sjp/index.php/nos-filieres/seconde"
 - "/index.php/filieres/seconde-generale"
-published: false
 
 ---
 ![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
