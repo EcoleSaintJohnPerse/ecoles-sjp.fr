@@ -19,7 +19,7 @@ redirect_from:
 ---
 A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l'épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d'aide et d'autorité, créent les conditions du succès de notre projet. 
 
-## BAC 2021
+## Cap vers le nouveau Baccalauréat
 
 A la rentrée de septembre 2019, mise en place du nouveau lycée. L’organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s’ajoutent 3 spécialités au choix des élèves.
 
