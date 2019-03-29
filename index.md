@@ -17,30 +17,29 @@ redirect_from:
 - "/prepascpo/calendrier-2018-2019"
 
 ---
-A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l'épanouissement des adolescents : nous pensons que la réussite scolaire au lycée est la conséquence d'un équilibre de développement personnel tenant compte de la spécificité de chacun.
+A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l'épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d'aide et d'autorité, créent les conditions du succès de notre projet. 
 
-Il s'agit donc, main dans la main avec les familles, de permettre à cet équilibre d'exister !
+## BAC 2021
 
-### **BAC 2021 :**
+A la rentrée de septembre 2019, mise en place du nouveau lycée. L’organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s’ajoutent 3 spécialités au choix des élèves.
 
-L'année 2019/2020 est celle de la mise en place du nouveau lycée. L’organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s’ajoutent 3 spécialités au choix des élèves.
+A l'Ecole Saint-John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles.
 
-A l'Ecole Saint John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles.
+#### **Entrée en Seconde ou Première en septembre 2019** 
 
-#### **Pour une entrée en Seconde (Bac 2022) et Première (BAC 2021) en septembre 2019 :**
-
+* [Téléchargez la plaquette de présentation de l'établissement](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/plaquette_2018_2019.pdf)
 * Téléchargez le dossier d’inscription 2019/2020 (à venir)
 
-#### **Pour une entrée en Terminale en septembre 2019 (BAC 2020) :**
+#### **Entrée en Terminale en septembre 2019** 
 
 * [Téléchargez la plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Téléchargez la plaquette de la prépa Sciences-Po](/images/plaquette_prepa_sciences-po.pdf)
 * Téléchargez le dossier d’inscription Terminale 2019/2020 (à venir)
 
-## Les inscriptions sont ouvertes pour 2019-2020
+## Inscriptions ouvertes pour 2019-2020
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
-Les notes et avis pédagogiques des conseils de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments motivant une inscription.
+Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l'admission.
 
-Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à motiver une démarche de progrès sur le long terme.
+Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme.
