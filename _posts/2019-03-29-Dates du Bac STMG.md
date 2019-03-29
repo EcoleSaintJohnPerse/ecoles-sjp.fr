@@ -14,6 +14,6 @@ Les épreuves écrites du baccalauréat technologique, communes à tous, ont lie
 
 Les résultats du 1er tour seront communiqués à compter du vendredi 5 juillet 2019.
 
-Les résultats du 2nde tour seront communiqués à compter du lundi 8 juillet 2019.
+Les résultats du 2nd tour seront communiqués à compter du lundi 8 juillet 2019.
 
 Les épreuves de remplacement auront lieu du lundi 9 au lundi 16 septembre 2019.
