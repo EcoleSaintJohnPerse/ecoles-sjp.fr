@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ecole Saint-John Perse, un lycée privé hors contrat depuis 1982 - Paris 18ème
+title: L'Ecole Saint-John Perse, un lycée privé hors contrat depuis 1982 
+title: Situé au coeur de Paris, à la frontière entre le 9ème, le 17ème et le 18ème arrondissement
 email: sjp018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Enseignement secondaire privé hors contrat à Paris depuis 1982
-  Paris 18 - 14, rue Cavallotti - 01 43 87 73 10
+  Paris 18ème - 14, rue Cavallotti - 01 43 87 73 10
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ecoles-sjp.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: St_JohnPerse
@@ -27,7 +28,7 @@ google_analytics: UA-124493340-1
 menus:
   main:
   - title: Notre Ecole
-    identifier: notreecole
+    identifier: ecole
   - title: Nos classes
     identifier: filiere
   - title: La scolarité
@@ -39,7 +40,7 @@ menus:
     identifier: contact
     url: /contact
 
-  notreecole:
+  ecole:
   - title: Nos valeurs
     url: /approche/nos-valeurs
     identifier: valeurs
@@ -52,7 +53,7 @@ menus:
   - title: Ateliers d'arts plastiques, de cinéma ou de théatre
     url: /approche/ateliers-d-arts
     identifier: ateliers
-  - title: Horaires aménagés Arts ou Sports
+  - title: Horaires aménagés Arts, Danse ou Sports
     url: /approche/horaires-amenages
     identifier: horaires
 
