@@ -50,10 +50,10 @@ menus:
   - title: Cadre de vie ouvert sur le monde
     url: /approche/cadre-de-vie-ouvert-sur-le-monde
     identifier: cadre
-  - title: Ateliers d'arts plastiques, de cinéma ou de théatre
+  - title: Les ateliers
     url: /approche/ateliers-d-arts
     identifier: ateliers
-  - title: Horaires aménagés Arts, Danse ou Sports
+  - title: Les classes à Horaires Aménagés
     url: /approche/horaires-amenages
     identifier: horaires
 
