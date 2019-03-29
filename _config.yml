@@ -78,7 +78,7 @@ menus:
   - title: Terminale Éco et social (ES)
     url: /filieres/eco-et-social-es
     identifier: eco-et-social
-  - title: Terminale Management (STMG)
+  - title: Terminale Management et Gestion (STMG)
     url: /filieres/management-stmg
     identifier: smtg
 
