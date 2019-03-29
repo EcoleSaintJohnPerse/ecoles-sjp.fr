@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tarifs et conditions d'inscription
+title: Tarifs et bourses
 permalink: "/scolarite/tarifs-et-conditions-d-inscription/"
 redirect_from:
 - "/index.php/scolarite/conditions-d-inscription"
