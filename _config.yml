@@ -57,10 +57,10 @@ menus:
     identifier: horaires
 
   Filière:
-  - title: Seconde générale:BAC 2022
+  - title: Seconde générale
     url: /filieres/seconde-generale
     identifier: seconde
-  - title: Première générale:BAC 2021
+  - title: Première générale
     url: /filieres/premiere-generale
     identifier: premiere
   - title: Terminale Littéraire Arts (L)
