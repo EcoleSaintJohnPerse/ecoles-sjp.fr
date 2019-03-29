@@ -32,7 +32,7 @@ redirect_from:
 * LV3,
 * Droits et grands enjeux du monde contemporain (en Terminale uniquement)**Les élèves travaillent en petits effectifs** (moins de 24 élèves par classe).
 
-#### **_Pourquoi faire sa Première générale à Saint-John Perse :_**
+#### **_Pourquoi faire sa Première générale à Saint-John Perse ?_**
 
 **Des petits effectifs :** 10 à 15 élèves dans certaines classes, 24 élèves maximum
 
