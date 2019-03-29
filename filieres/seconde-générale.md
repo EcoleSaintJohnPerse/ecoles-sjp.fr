@@ -10,7 +10,7 @@ redirect_from:
 ---
 ![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
 
-> 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
+> 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
 
 #### _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposerons les Enseignements de spécialité suivants :_
 
@@ -28,9 +28,9 @@ redirect_from:
 
 #### _Nous proposerons les enseignements facultatifs suivants :_
 
-* Arts, (Cinéma, Arts plastiques)
+* Arts, (Cinéma, Arts plastiques),
 * LV3,
-* Droits et grands enjeux du monde contemporain (en Terminale uniquement)**Les élèves travaillent en petits effectifs** (moins de 24 élèves par classe).
+* Droits et grands enjeux du monde contemporain (en Terminale uniquement).
 
 #### **_Pourquoi faire sa Première générale à Saint-John Perse ?_**
 
