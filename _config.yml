@@ -80,7 +80,7 @@ menus:
     identifier: smtg
 
   La scolarité:
-  - title: Tarifs
+  - title: Tarifs et bourses
     url: /scolarite/tarifs-et-conditions-d-inscription
     identifier: tarifs
   - title: Documents utiles
