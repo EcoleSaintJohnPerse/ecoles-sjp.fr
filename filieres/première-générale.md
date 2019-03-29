@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Première Management et Gestion (STMG)
-permalink: "/filieres/premiere-generale/"
+permalink: "/filieres/premiere-management-et-gestion"
 redirect_from:
 - "/ecole-sjp/index.php/nos-filieres/seconde"
 - "/cours-sjp/index.php/nos-filieres/seconde"
