@@ -1,24 +1,23 @@
 ---
 layout: page
 title: Suivi individualisé et étude dirigée
-permalink: /approche/suivi-individualise-et-etude-dirigee/
-
+permalink: "/approche/suivi-individualise-et-etude-dirigee/"
 redirect_from:
-  - /index.php/approche/suivi-individualise-et-coaching
-  - /index.php/approche/etudes-dirigees
-  - /index.php/approche/suivi-individualise-et-etude-dirigee
-  - /approche/suivi-individualise-et-etude-dirigee2
----
+- "/index.php/approche/suivi-individualise-et-coaching"
+- "/index.php/approche/etudes-dirigees"
+- "/index.php/approche/suivi-individualise-et-etude-dirigee"
+- "/approche/suivi-individualise-et-etude-dirigee2"
 
+---
 ![Suivi individualisé - École Saint John Perse](/images/suivi-individualise.jpg)
 
-A Saint-John Perse, les élèves sont **accompagnés de manière individuelle dans leur apprentissage**. 
+A Saint-John Perse, les élèves sont **accompagnés de manière individuelle dans leur apprentissage**.
 
 ## Pour réussir
 
-* Les classes sont organisées en **petits effectifs, entre 18 et 24 élèves**, ce qui favorise un vrai suivi.
-* Les professeurs **échangent régulièrement** sur les élèves.
-* Les rendez-vous avec la famille sont fréquents : **trois réunions sont organisées dans l'année, et plus si la famille le demande.** 
+* Les classes sont organisées en **petits effectifs, entre 10 et 20 élèves**, ce qui favorise un vrai suivi.
+* Les professeurs **échangent régulièrement** avec les élèves.
+* Les rendez-vous avec la famille sont fréquents : **trois réunions sont organisées dans l'année, et plus si la famille le demande.**
 * Les **appréciations sont détaillées et concrètes** et ne sont pas de simples injonctions à travailler plus.
 * Une **semaine de l'orientation** chaque année, avec un conseiller spécialisé.
 
@@ -27,7 +26,7 @@ A Saint-John Perse, les élèves sont **accompagnés de manière individuelle da
 **Chaque semaine, pendant un temps dédié, il est possible de prendre rendez-vous avec un professeur ou le Directeur pour :**
 
 * **Fixer avec lui des objectifs** à court terme, atteignables.
-* **Recevoir une aide à l'organisation du travail** pour préparer les devoirs surveillés : ce n'est pas la quantité de travail personnel qui compte, c'est sa qualité et sa pertinence par rapport aux échéances à préparer. 
+* **Recevoir une aide à l'organisation du travail** pour préparer les devoirs surveillés : ce n'est pas la quantité de travail personnel qui compte, c'est sa qualité et sa pertinence par rapport aux échéances à préparer.
 * Parler d'orientation.
 * Retrouver de la motivation.
 * Corriger un travail, réciter une leçon.
