@@ -39,7 +39,7 @@ menus:
     identifier: contact
     url: /contact
 
-  Approche:
+  Notre Ecole:
   - title: Nos valeurs
     url: /approche/nos-valeurs
     identifier: valeurs
