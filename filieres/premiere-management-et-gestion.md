@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Première Management et Gestion
-permalink: "/filieres/premiere-generale/"
+permalink: "/filieres/premiere-management-et-gestion/"
 redirect_from:
-- "/ecole-sjp/index.php/nos-filieres/seconde"
-- "/cours-sjp/index.php/nos-filieres/seconde"
-- "/index.php/filieres/seconde-generale"
+- "/ecole-sjp/index.php/nos-filieres/premiere-management-et-gestion"
+- "/cours-sjp/index.php/nos-filieres/premiere-management-et-gestion"
+- "/index.php/filieres/premiere-management-et-gestion"
 published: false
 
 ---
