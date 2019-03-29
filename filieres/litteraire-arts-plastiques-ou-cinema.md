@@ -9,15 +9,11 @@ redirect_from:
 - "/filieres/litteraire-arts-l"
 
 ---
-> En arrivant à Saint-John Perse, je ne savais pas à quoi m'attendre. Je n'arrive toujours pas à croire que j'ai pu enfin prendre confiance en moi après 15 ans de chagrin d'école, montrer à ma famille ce dont j'étais capable et réussir à entrer à l'école Camondo.**Agathe (TL)**
-
-![Bac L Arts Plastiques - École Saint John Perse](/images/arts-plastique.jpg)
+> En arrivant à Saint-John Perse, je ne savais pas à quoi m'attendre. Je n'arrive toujours pas à croire que j'ai pu enfin prendre confiance en moi après 15 ans de chagrin d'école, montrer à ma famille ce dont j'étais capable et réussir à entrer à l'école Camondo. **Agathe (TL)**
 
 La filière L s'adresse à toute lycéenne ou tout lycéen, curieux des Arts et des Lettres.
 
 Elle permet de préparer un Bac Général Littéraire, qui ouvre la voie à de nombreux débouchés (Langues, Journalisme, Enseignement, Communication, Droit, Design, par exemple).
-
-La première L est consacrée à la préparation du baccalauréat de français et d’enseignement scientifique. En terminale L, les élèves reçoivent un enseignement ou prédominent le français et la littérature, les langues, l’histoire-géographie et la philosophie.
 
 # La spécialité Langue Vivante Approfondie (coefficient 9)
 
@@ -41,8 +37,6 @@ Avec cette spécialité, le coefficient des langues en Terminale L peut atteindr
 * Suivre un cours de littérature comparée ;
 * Travailler sur des livres, des films, des publicités, des œuvres d'art.
 
-***
-
 ![Littéraire Cinéma - École Saint John Perse](/images/cinema.jpg)
 
 # La spécialité Cinéma Audiovisuel (coefficient 8)
@@ -53,13 +47,14 @@ Avec cette spécialité, le coefficient des langues en Terminale L peut atteindr
 * Une théorie et une pratique utile dans notre société de l’image, de l’information et de la communication.
 * En cinéma audiovisuel, les élèves écrivent, produisent, tournent, montent et diffusent un court- métrage. Ils visionnent et analysent des extraits de films en classe. A plusieurs reprises dans l’année, des professionnels du cinéma viennent rencontrer nos élèves.
 
-| col 1 | col 2 |
-| --- | --- |
-| Première L | Terminale L |
-| 5h de langue | 5h de cinéma |
-| 5h de français | 4h de langue |
-| 5h de cinéma | 4h d'histore-géo |
-| 3h d’histoire-géo | 2h de littérature |
-| 2h de sciences | 8h de philo |
-| 1h de philo | 2h d'EPS |
-| 2h d’EPS |  |
+Répartition des heures de cours : 
+| Terminale L |
+| 5h de cinéma ou 2h de LVA|
+| 2h de LV1 |
+| 2h de LV2 |
+| 1h30h de LELE |
+| 4h d'histoire-géo |
+| 2h de littérature |
+| 8h de philo |
+| 2h d'EPS |
+ 
