@@ -2,13 +2,16 @@
 date: 2019-03-29 13:50:43 +0000
 
 ---
-### Session 2019 : dates des épreuves du baccalauréat général
+### Session 2019 : dates des épreuves du Baccalauréat général
 
-#### Épreuves anticipées en première générale
+#### Épreuves anticipées en Première générale
 
-En métropole, les épreuves écrites anticipées auront lieu le lundi 17 juin 2019, l'après-midi, pour le français (ES, S) et français et littérature (L), et le mercredi 19 juin 2019, le matin, pour les sciences (L, ES).
+Les épreuves écrites anticipées auront lieu : 
 
-#### Épreuves écrites du baccalauréat général
+* lundi 17 juin 2019, après-midi, pour le français (ES, S) et français et littérature (L), 
+* mercredi 19 juin 2019, au matin, pour les sciences (L, ES).
+
+#### Épreuves écrites du Baccalauréat général
 
 Les épreuves écrites du baccalauréat général ont lieu **du lundi 17 au lundi 24 juin 2019** (les épreuves de remplacement auront lieu du 9 au 16 septembre 2019).
 
