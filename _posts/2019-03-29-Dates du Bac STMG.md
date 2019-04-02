@@ -4,6 +4,8 @@ date: 2019-03-29 14:03:19 +0000
 ---
 ### Session 2019 : dates des épreuves du baccalauréat technologique
 
+![](/uploads/dates-bac-STMG.jpg)
+
 #### Épreuves anticipées en première technologique
 
 Les épreuves écrites anticipées auront lieu le lundi 17 juin 2019 de 14h à 18h.
