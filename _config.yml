@@ -34,8 +34,6 @@ main:
     identifier: filiere
   - title: La scolarité
     identifier: scolarite
-  - title: Horaires Aménagés
-    identifier: horairesamenages
   - title: La Prépa Sciences Po
     identifier: prepasciencespo
     url: http://www.prepasciencespo-sjp.fr
