@@ -2,9 +2,9 @@
 date: 2019-01-07 13:58:43 +0000
 
 ---
-![](/uploads/LE-MISANTHROPE-10-2018.jpg)![](/uploads/LE MALADE.jpg)
-
 Madame, Monsieur, chers élèves,
+
+Madame, Monsieur, 
 
 nous aurons le plaisir d'emmener les élèves de Seconde et Première au théâtre au mois de mars prochain.
 
@@ -15,3 +15,5 @@ Vous pouvez d'ores et déjà noter les dates suivantes :
 \- le jeudi 21 mars 2019 à 20h30 au Théâtre de Paris (15 rue Blanche, 75009 Paris) pour assister à la représentation du Malade Imaginaire de Molière, avec Daniel Auteuil.
 
 Tarif : 35 euros au total pour les deux représentations, payable en espèce ou par chèque à l'ordre de L'Ecole Saint-John Perse.
+
+![](/uploads/LE-MISANTHROPE-10-2018.jpg)![](/uploads/LE MALADE.jpg)
