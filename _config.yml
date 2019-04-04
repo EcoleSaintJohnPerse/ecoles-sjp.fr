@@ -26,6 +26,7 @@ google_analytics: UA-124493340-1
 
 menus:
 main:
+
   - title: Notre Ecole
     identifier: ecole
   - title: Nos classes
