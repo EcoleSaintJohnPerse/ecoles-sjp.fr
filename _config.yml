@@ -34,6 +34,7 @@ menus:
   - title: La scolarité
     identifier: scolarite
   - title: Horaires Aménagés
+  identifier: horairesamenages
   - title: La Prépa Sciences Po
     identifier: prepasciencespo
     url: http://www.prepasciencespo-sjp.fr
@@ -54,9 +55,6 @@ menus:
   - title: Les ateliers
     url: /approche/ateliers-d-arts
     identifier: ateliers
-  - title: Les classes à Horaires Aménagés
-    url: /approche/horaires-amenages
-    identifier: horaires
 
   filiere:
   - title: Seconde générale
@@ -80,7 +78,12 @@ menus:
   - title: Terminale Management et Gestion (BAC STMG)
     url: /filieres/management-stmg
     identifier: smtg
-
+    
+horairesamenages
+  - title: Horaires Aménagés Art, Sport, Danse
+    url: /approche/horaires-amenages
+    identifier: horaires
+    
   scolarite:
   - title: Tarifs et bourses
     url: /scolarite/tarifs-et-conditions-d-inscription
