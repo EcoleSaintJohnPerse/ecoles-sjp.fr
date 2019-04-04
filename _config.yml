@@ -25,7 +25,7 @@ facebook_username: etablissements saint john perse
 google_analytics: UA-124493340-1
 
 menus:
-  main:
+main:
   - title: Accueil
   - title: Notre Ecole
     identifier: ecole
@@ -78,11 +78,6 @@ menus:
   - title: Terminale Management et Gestion (BAC STMG)
     url: /filieres/management-stmg
     identifier: smtg
-    
-  horairesamenages
-  - title: Horaires Aménagés Art, Sport, Danse
-    url: /approche/horaires-amenages
-    identifier: horaires
     
   scolarite:
   - title: Tarifs et bourses
