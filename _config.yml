@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ecole Saint-John Perse, un lycée privé hors contrat depuis 1982 
+title: L'Ecole Saint-John Perse, un lycée privé à Paris
 email: sjp018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Enseignement secondaire privé hors contrat à Paris depuis 1982
