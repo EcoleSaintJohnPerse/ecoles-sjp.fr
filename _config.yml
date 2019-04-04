@@ -26,12 +26,14 @@ google_analytics: UA-124493340-1
 
 menus:
   main:
+  - title: Accueil
   - title: Notre Ecole
     identifier: ecole
   - title: Nos classes
     identifier: filiere
   - title: La scolarité
     identifier: scolarite
+  - title: Horaires Aménagés
   - title: La Prépa Sciences Po
     identifier: prepasciencespo
     url: http://www.prepasciencespo-sjp.fr
