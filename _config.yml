@@ -79,7 +79,7 @@ menus:
     url: /filieres/management-stmg
     identifier: smtg
     
-horairesamenages
+  horairesamenages
   - title: Horaires Aménagés Art, Sport, Danse
     url: /approche/horaires-amenages
     identifier: horaires
