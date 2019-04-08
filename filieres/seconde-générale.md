@@ -12,7 +12,9 @@ redirect_from:
 
 > 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
 
-#### _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposerons les Enseignements de spécialité suivants :_
+#### _BAC 2021 : En plus du tronc commun pour tous les élèves,_
+
+#### _nous proposerons les Enseignements de spécialité suivants :_
 
 * Arts (Cinéma, Arts plastiques)
 * Écologie, agronomie et territoires (EAT)
@@ -31,6 +33,40 @@ redirect_from:
 * Arts, (Cinéma, Arts plastiques),
 * LV3,
 * Droits et grands enjeux du monde contemporain (en Terminale uniquement).
+
+#### Choix des spécialités en 1 ère générale : Zoom sur nos parcours
+
+##### Parcours n°1 : Profil Médias et Communication
+
+\- Histoire-géographie, géopolitique et sciences politiques
+\- Langues, littérature et culture étrangère (anglais)
+\- Art
+
+* Débouchés dans l'enseignement supérieur : Humanités, Ecoles de communication, publicité, journalisme, etc.
+
+##### Parcours n°2 : Profil Ecole de Commerce ou Sciences Po
+
+\- Sciences économiques
+\- Histoire-géographie, géopolitique et sciences politiques
+\- Langues, littérature et culture étrangère (anglais)
+
+* Débouchés dans l'enseignement supérieur : Ecoles de Commerce, écoles sciences po, économie, gestion, comptabilité, etc.
+
+##### Parcours n°3 : Profil Littéraire Artistique
+
+\- Art 
+\- Langues, littérature et culture étrangère (anglais)
+\- Humanités, littérature et philosophie
+
+Débouchés dans l'enseignement supérieur : Ecoles d'arts, école de cinéma, de design, de mode, d'architecture, etc.
+
+##### Parcours n°4 : Profil scientifique
+
+\- Physique-Chimie
+\- Sciences de la Vie et de la Terre
+\- Mathématiques
+
+Débouchés dans l'enseignement supérieur : Médecine, écoles d'ingénieur, de commerce, biologie, etc.
 
 #### **_Pourquoi faire sa Première générale à Saint-John Perse ?_**
 
