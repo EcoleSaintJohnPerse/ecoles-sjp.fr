@@ -17,7 +17,7 @@ redirect_from:
 - "/prepascpo/calendrier-2018-2019"
 
 ---
-A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l'épanouissement des élèves et la réussite scolaire. 
+A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l'épanouissement des élèves et la réussite scolaire.
 
 Les relations pédagogiques, d'aide et d'autorité, créent les conditions du succès de notre projet.
 
@@ -29,7 +29,7 @@ A la rentrée de septembre 2019, mise en place du nouveau lycée. L’organisati
 
 A l'Ecole Saint-John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles.
 
-#### **Entrée en Seconde en septembre 2019 :** Téléchargez le dossier d’inscription 2019/2020 (à venir)
+#### **Entrée en Seconde en septembre 2019 :** Téléchargez le dossier d’inscription 2019/2020
 
 #### **Entrée en Première en septembre 2019 :** Téléchargez le dossier d’inscription 2019/2020 (à venir)
 
