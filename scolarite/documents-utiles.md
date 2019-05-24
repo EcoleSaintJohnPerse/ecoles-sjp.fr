@@ -10,9 +10,9 @@ permalink: /scolarite/documents-utiles/
 
 ### Rentrée 2018/2019 : les inscriptions sont ouvertes
 
-* <a href="../images/Fiche_inscription_seconde_19_20.pdf"> Téléchargez le dossier d’inscription Seconde 2019/2020 </a>
-* <a href="../images/Fiche_inscription_premiere_19_20.pdf"> Téléchargez le dossier d’inscription Première 2019/2020 </a>
-* <a href="../images/Fiche_inscription_terminale_19_20.pdf"> Téléchargez le dossier d’inscription Terminale 2019/2020 </a>
+* <a href="./images/Fiche_inscription_seconde_19_20.pdf"> Téléchargez le dossier d’inscription Seconde 2019/2020 </a>
+* <a href="./images/Fiche_inscription_premiere_19_20.pdf"> Téléchargez le dossier d’inscription Première 2019/2020 </a>
+* <a href="./images/Fiche_inscription_terminale_19_20.pdf"> Téléchargez le dossier d’inscription Terminale 2019/2020 </a>
 * [Dossier d'inscription 2018-2019](/images/fiche_inscription_2018_2019.pdf)
 * [Stages de pré-rentrée du 27 au 31 août 2018](/images/stage_pre-rentree_18-19.pdf)
 * [Horaires de la pré-rentrée en Seconde ](/images/Jour_de_rentree_2018_2019_Secondes.pdf)
