@@ -31,6 +31,8 @@ A l'Ecole Saint-John Perse nous faisons le choix de proposer à nos élèves tou
 
 #### **Entrée en Seconde en septembre 2019 :** [Téléchargez le dossier d’inscription Seconde 2019/2020]()
 
+<a href="images/Fiche_inscription_premiere_19_20.pdf">[Téléchargez le dossier d’inscription Seconde 2019/2020]</a>
+
 #### **Entrée en Première en septembre 2019 :** [Téléchargez le dossier d’inscription Première 2019/2020]()
 
 #### **Entrée en Terminale en septembre 2019 :** [Téléchargez le dossier d’inscription Terminale 2019/2020]()
