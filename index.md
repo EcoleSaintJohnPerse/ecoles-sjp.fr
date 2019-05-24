@@ -29,11 +29,11 @@ A la rentrée de septembre 2019, mise en place du nouveau lycée. L’organisati
 
 A l'Ecole Saint-John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles.
 
-#### **Entrée en Seconde en septembre 2019 :** Téléchargez le dossier d’inscription 2019/2020
+#### **Entrée en Seconde en septembre 2019 :** [Téléchargez le dossier d’inscription Seconde 2019/2020](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/Fiche_inscription_seconde_19_20.pdf)
 
-#### **Entrée en Première en septembre 2019 :** Téléchargez le dossier d’inscription 2019/2020 (à venir)
+#### **Entrée en Première en septembre 2019 :** [Téléchargez le dossier d’inscription Première 2019/2020](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/Fiche_inscription_premiere_19_20.pdf)
 
-#### **Entrée en Terminale en septembre 2019 :** Téléchargez le dossier d’inscription Terminale 2019/2020 (à venir)
+#### **Entrée en Terminale en septembre 2019 :** [Téléchargez le dossier d’inscription Terminale 2019/2020](https://app.forestry.io/sites/orudlbiyqx5vlg/body-media//images/Fiche_inscription_terminale_19_20.pdf)
 
 ## Inscriptions ouvertes pour 2019-2020
 
