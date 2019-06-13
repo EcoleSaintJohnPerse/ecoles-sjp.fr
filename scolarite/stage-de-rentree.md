@@ -17,7 +17,7 @@ Chaque année, nous organisons des **stages de travail pendant les vacances scol
 
 ***
 
-## Stage de prérentrée : du lundi 26 au vendredi 30 août 2019
+## Stage de prérentrée : du jeudi 29 août au mercredi 4 septembre 2019
 
 [**Plaquette avec les horaires**](/images/stage_pre-rentree_18-19.pdf)
 
@@ -31,10 +31,10 @@ Les élèves préparent une semaine avant la rentrée les matières de leur choi
 
 ### Organisation
 
-Les stages se déroulent sur 5 jours, 2 heures par matière et par jour. Les emplois du temps permettent aux élèves de participer à plusieurs stages. A l'issue du stage, un compte-rendu personnalisé est adressé au(x) responsable(s). La date limite d'inscription est fixée au 19 août.
+Les stages se déroulent sur 5 jours, 2 heures par matière et par jour. Les emplois du temps permettent aux élèves de participer à plusieurs stages. A l'issue du stage, un compte-rendu personnalisé est adressé au(x) responsable(s). La date limite d'inscription est fixée au 26 août.
 
-### L'emploi du temps des stages est optimisé 
+### L'emploi du temps des stages est optimisé
 
-Certains horaires de stages sont susceptibles d'être modifiés afin d'éviter tout chevauchement avec ceux de la rentrée des élèves. Une confirmation par mail sera faite la semaine du 19 août.
+Certains horaires de stages sont susceptibles d'être modifiés afin d'éviter tout chevauchement avec ceux de la rentrée des élèves. Une confirmation par mail sera faite la semaine du 26 août.
 
 Le tarif : **279 € une matière, 499 € deux matières, 649 € trois matières.**
