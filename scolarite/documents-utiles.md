@@ -7,6 +7,9 @@ permalink: "/scolarite/documents-utiles/"
 * [Plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
 * [Plaquette Saint-John Perse et Choréia (horaires aménagés Danse, Comédie musicale)](/images/Plaquette_SJPC.pdf)
 * [Contrat de vie scolaire (règlement intérieur)](/images/Contrat_vie_scolaire_2018_2019.pdf)
+* <a href="images/Fiche_inscription_seconde_19_20.pdf">Dossier d’inscription Seconde 2019/2020</a>
+* <a href="images/Fiche_inscription_premiere_19_20.pdf">Dossier d’inscription Première 2019/2020</a>
+* <a href="images/Fiche_inscription_terminale_19_20.pdf">Dossier d’inscription Terminale 2019/2020</a>
 
 ### Rentrée 2019/2020 : les inscriptions sont ouvertes
 
