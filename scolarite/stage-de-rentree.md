@@ -19,7 +19,7 @@ Chaque année, nous organisons des **stages de travail pendant les vacances scol
 
 ## Stage de prérentrée : du jeudi 29 août au mercredi 4 septembre 2019
 
-[**Plaquette avec les horaires**](/images/stage_pre-rentree_18-19.pdf)
+[**Plaquette avec les horaires**](/images/stage_pre-rentree_19-20.pdf)
 
 ### Prenez de l'élan pour la rentrée
 
