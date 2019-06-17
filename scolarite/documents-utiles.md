@@ -10,4 +10,4 @@ permalink: "/scolarite/documents-utiles/"
 
 ### Rentrée 2019/2020 : les inscriptions sont ouvertes
 
-* [Stages de pré-rentrée du 29 au 4 septembre 201](/images/stage_pre-rentree_18-19.pdf)9
+* [Stages de pré-rentrée du 29 août au 4 septembre 2019](/images/stage_pre-rentree_19-20.pdf)
