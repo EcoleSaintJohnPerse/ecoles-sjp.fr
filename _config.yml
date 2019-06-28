@@ -96,7 +96,7 @@ menus:
   - title: Prépa Concours CRPE
     url: /prepa-concours-esa-ecole-de-sante-des-armees
     identifier: crpe
-  - title: Prépa Concour ESA
+  - title: Prépa Concours ESA
     url: /prepa-concours-esa-ecole-de-sante-des-armees
     identifier: esa
   - title: Prépa Concours Ecoles d'ingénieurs
@@ -105,7 +105,7 @@ menus:
   - title: Prépa Concours Gendarmerie
     url: /prepa-au-concours-de-l-ecole-de-gendarmerie
     identifier: concoursgendarmerie
-  - title: Prépa concours communs (douane, gardien de la paix)
+  - title: Prépa Concours Communs (douane, gardien de la paix)
     url: /prepa-concours-esa-ecole-de-sante-des-armees
     identifier: concourscommun
   
