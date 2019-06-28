@@ -94,19 +94,19 @@ menus:
     url: http://www.prepasciencespo-sjp.fr/
     identifier: sciencespo  
   - title: Prépa Concours CRPE
-    url: /prepa-concours-esa-ecole-de-sante-des-armees
+    url: prepa-concours-esa-ecole-de-sante-des-armees
     identifier: crpe
   - title: Prépa Concour ESA
-    url: /prepa-concours-esa-ecole-de-sante-des-armees
+    url: prepa-concours-esa-ecole-de-sante-des-armees
     identifier: esa
   - title: Prépa Concours Ecoles d'ingénieurs
-    url: /prepa-aux-concours-des-ecoles-d-ingenieur-post-bac
+    url: prepa-aux-concours-des-ecoles-d-ingenieur-post-bac
     identifier: ingenieur
   - title: Prépa Concours Gendarmerie
-    url: /prepa-au-concours-de-l-ecole-de-gendarmerie
+    url: prepa-au-concours-de-l-ecole-de-gendarmerie
     identifier: concoursgendarmerie
   - title: Prépa concours communs (douane, gardien de la paix)
-    url: /prepa-concours-esa-ecole-de-sante-des-armees
+    url: prepa-concours-esa-ecole-de-sante-des-armees
     identifier: concourscommun
   
 # Build settings
