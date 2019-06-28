@@ -1,5 +1,10 @@
 ---
-published: false
+layout: page
+title: Concours des Ecoles d'ingénieurs
+permalink: "/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac/"
+redirect_from:
+- "/index.php/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac"
+- "/Concours-des-Ecoles-d-ingenieurs"
 
 ---
 Prépa aux concours des Ecoles d'ingénieur post bac 
@@ -35,3 +40,4 @@ Les concours que nous vous proposons de préparer :
 · GEIPI-Polytech
 
 · Puissance-Alpha
+
