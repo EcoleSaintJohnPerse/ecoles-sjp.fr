@@ -21,3 +21,4 @@ Ce concours ouvre à l’année de PACES réalisée au sein de l’école de san
 
 Ce concours s’adresse aux élèves passant le bac, l’année de sa présentation ou l’ayant déjà passé. Le profil recherché par le service de santé des armées étant avant tout des élèves aux capacités de travail importantes, organisés, tenaces et ayant conscience de la « militarité » nécessaire à un engagement militaire.
 
+Site officiel : [http://www.ecole-valdegrace.sante.defense.gouv.fr/](http://www.ecole-valdegrace.sante.defense.gouv.fr/ "http://www.ecole-valdegrace.sante.defense.gouv.fr/")
