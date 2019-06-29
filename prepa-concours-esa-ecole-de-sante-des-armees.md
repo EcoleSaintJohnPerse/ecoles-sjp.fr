@@ -7,9 +7,9 @@ redirect_from:
 - "/esa"
 
 ---
-#### PREPARATION  
+### PREPA Concours ESA 
 
-#### Concours ESA : Ecole de santé des Armées
+#### Ecole de santé des Armées
 
 Description générale du concours : Le concours d’admission à l’Ecole de santé des Armées ouvre sur la carrière de **médecin militaire et pharmacien militaire.**
 
@@ -35,9 +35,9 @@ Ce concours s’adresse aux élèves passant le bac dans l’année ou l’ayant
 
 Site officiel : [http://www.ecole-valdegrace.sante.defense.gouv.fr/](http://www.ecole-valdegrace.sante.defense.gouv.fr/ "http://www.ecole-valdegrace.sante.defense.gouv.fr/")
 
-Pour plus d'informations, vous pouvez contacter:
+Pour plus d'informations, vous pouvez **nous contacter**:
 
-Paul Andreo, responsable de la formation : 01 43 87 73 10 ou 06 31 22 23 60 (par sms de préférence, nous rappelons).
+Paul Andreo, responsable de la formation : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence, nous rappelons).
 
 le Professeur principal de la formation:
 
