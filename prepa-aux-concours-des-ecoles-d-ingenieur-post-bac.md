@@ -5,10 +5,9 @@ permalink: "/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac/"
 redirect_from:
 - "/index.php/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac"
 - "/Concours-des-Ecoles-d-ingenieurs"
-published: false
 
 ---
-### Prépa aux concours des Ecoles d'ingénieur post bac
+### PREPA aux concours des Ecoles d'ingénieur post bac
 
 Comme beaucoup de lycéens, vous pouvez décider d’intégrer une école d’ingénieur sans passer par une classe préparatoire, directement après le BAC.
 
@@ -40,12 +39,18 @@ L’objectif est de vous donner un maximum d’outils et de savoirs pour passer 
 
 · Puissance-Alpha
 
-Pour plus d'informations
+#### 2 formules efficaces ouvertes dans notre centre
+
+**3 stages** d'1 semaine pendant les vacances scolaires (6 jours) : janvier, février, avril. 160 heures de cours et 8h de concours. Tarif 2250€ TTC
+
+**Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 240 heures de cours. Tarif  4500€ TTC
+
+### Pour plus d'informations
 
 Contacter le **Centre** : 01 43 87 73 70 ou au 06 31 22 23 60
 
 Contacter le prof. principal de la formation:
 
-**CAMILLE**, ancienne élève : **06 08 43 92 67**
+##### CAMILLE, ancienne élève : 06 08 43 92 67
 
-**CLAIRE**, ancienne élève: **07 86 55 56 74**
+##### CLAIRE, ancienne élève: 07 86 55 56 74
