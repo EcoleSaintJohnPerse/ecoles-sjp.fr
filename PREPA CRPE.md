@@ -37,12 +37,14 @@ Ouvert à de multiples profils, le concours de professeur des écoles doit être
 
 12 samedis + 3 stages Tarif: 3200€ TTC
 
-Pour plus d'informations, vous pouvez **nous contacter**:
+## En savoir plus et s'inscrire
+
+### sjp018@gmail.com
 
 Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence, nous rappelons).
 
-le Professeur principal de la formation:
+Professeur principal de la formation:
 
-**LAURENCE**, ancienne élève: 06 86 58 42 58
+#### **LAURENCE**, ancienne élève: 06 86 58 42 58
 
-**AMANDINE**, ancienne élève: 07 68 34 05 26
+#### **AMANDINE**, ancienne élève: 07 68 34 05 26
