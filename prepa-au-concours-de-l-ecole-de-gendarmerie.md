@@ -29,6 +29,6 @@ Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (p
 
 le Professeur principal de la formation:
 
-#### **THOMAS** ancien élève: 06 81 61 90 03
+#### THOMAS ancien élève: 06 81 61 90 03
 
-#### **ENZO**, ancien élève: enzo.ballesta@gmail.com
+#### ENZO, ancien élève: enzo.ballesta@gmail.com
