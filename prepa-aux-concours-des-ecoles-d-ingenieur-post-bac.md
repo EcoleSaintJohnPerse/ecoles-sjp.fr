@@ -7,23 +7,21 @@ redirect_from:
 - "/Concours-des-Ecoles-d-ingenieurs"
 
 ---
-Prépa aux concours des Ecoles d'ingénieur post bac 
+### Prépa aux concours des Ecoles d'ingénieur post bac
 
-Description générale du concours : 
+Comme beaucoup de lycéens, vous pouvez décider d’intégrer une école d’ingénieur sans passer par une classe préparatoire, directement après le BAC.
 
-Comme une grande quantité de lycéens, vous pouvez décider d’intégrer une école d’ingénieur sans avoir à passer par une classe préparatoire, et donc directement après le bac.
+La plupart des écoles d'ingénieur organisent des épreuves de sélection pour s’assurer que les candidats ont le niveau pour suivre le cursus.
 
-En effet, la plupart des écoles organisent des épreuves de sélection pour s’assurer que les étudiants ont le niveau suffisant pour suivre le cursus.
+Nous vous proposons de vous aider à réussir ces concours.
 
-Nous vous proposons de vous aider à préparer ces concours. 
+L’objectif est de vous donner un maximum d’outils et de savoirs pour passer le concours dans des conditions optimales (mise en place d’un calendrier de préparation, des concours blancs, des exercices personnalisés, des stages intensifs en présentiel).
 
-L’objectif étant de vous donner un maximum d’outils et de savoirs pour passer le concours dans des conditions optimales (mise en place d’un calendrier de préparation, des concours blancs, des exercices personnalisés, des stages intensives en présentiel).
-
-La formation que nous vous proposons doit vous servir à :
+**La formation que nous vous proposons doit vous servir à** :
 
 · comprendre la structure et le contenu de chaque concours
 
-· développer une confiance en soi et ainsi vous donner toutes les chances de réussir le jour du concours
+· développer la confiance en soi et ainsi vous donner toutes les chances de réussir le jour du concours
 
 · un renforcement du savoir (proche du programme de terminales S)
 
@@ -31,7 +29,7 @@ La formation que nous vous proposons doit vous servir à :
 
 · s’entraîner au quotidien avec des exercices types concours
 
-Les concours que nous vous proposons de préparer :
+**Les concours que vous préparez avec nous :**
 
 · Advance
 
@@ -41,3 +39,12 @@ Les concours que nous vous proposons de préparer :
 
 · Puissance-Alpha
 
+Pour plus d'informations
+
+Contacter le **Centre** : 01 43 87 73 70 ou au 06 31 22 23 60
+
+Contacter le prof. principal de la formation:
+
+**CAMILLE**, ancienne élève : **06 08 43 92 67**
+
+**CLAIRE**, ancienne élève: **07 86 55 56 74**
