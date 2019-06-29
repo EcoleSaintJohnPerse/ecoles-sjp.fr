@@ -5,6 +5,7 @@ permalink: "/prepa-au-concours-de-l-ecole-de-gendarmerie"
 redirect_from:
 - "/index.php/prepa-au-concours-de-l-ecole-de-gendarmerie"
 - "/prepa-au-concours-de-l-ecole-de-gendarmerie"
+published: false
 
 ---
 Axes de la préparation :  
@@ -15,13 +16,11 @@ Axes de la préparation :
 
 En fonction du calendrier du concours, une formule : STAGE 1 en septembre d’un mois et STAGE 2 en février et mars.
 
-#### 3 formules efficaces ouvertes dans notre centre
+#### 2 périodes de stages ouvertes dans notre Centre
 
-**En présentiel**: sur 12 semaines de septembre à décembre. 5 jours par semaine, 8 heures par jour. Nombre d'heures total de la formation 480 heures. Tarif 6700€ TTC
+**STAGE 1**: sur 4 semaines en septembre. 6 jours par semaine à raison de 7 heures par jour. Français 4h/ jour + math 2h/jour + logique 1h/ jour. Tarif 2250€ TTC
 
-**3 stages** d'une semaine (6 jours): janvier, février, avril. 160h  de cours et 8 h de concours. Tarif 2250€ TTC
-
-**Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 240 heures de cours. Tarif  4500€ TTC
+**STAGE 2:**  en février et mars,  4 jours par semaine à raison de 5 heures par jour. Français 3h/ jour + math 1h15/jour + logique 0.45h/ jour. Tarif 2250€ TTC
 
 Pour plus d'informations, vous pouvez **nous contacter**:
 
@@ -29,6 +28,6 @@ Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (p
 
 le Professeur principal de la formation:
 
-**CAMILLE**, ancienne élève: 06 08 43 92 67
+**THOMAS** ancien élève: 06 81 61 90 03
 
-**CLAIRE**, ancienne élève: 07 86 55 56 74
+**ENZO**, ancien élève: enzo.ballesta@gmail.com
