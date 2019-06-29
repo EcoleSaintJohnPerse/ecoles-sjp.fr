@@ -1,5 +1,4 @@
 ---
-published: false
 
 ---
 ### CONCOURS DE RECRUTEMENT AU    PROFESSORAT DES ECOLES (CRPE)
@@ -43,6 +42,6 @@ Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (p
 
 le Professeur principal de la formation:
 
-**CAMILLE**, ancienne élève: 06 08 43 92 67
+**LAURENCE**, ancienne élève: 06 86 58 42 58
 
-**CLAIRE**, ancienne élève: 07 86 55 56 74
+**AMANDINE**, ancienne élève: 07 68 34 05 26
