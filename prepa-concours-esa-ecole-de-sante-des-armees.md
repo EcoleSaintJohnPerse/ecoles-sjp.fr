@@ -29,7 +29,7 @@ Ce concours s’adresse aux élèves passant le bac dans l’année ou l’ayant
 
 **En présentiel**: sur 12 semaines de septembre à décembre. 5 jours par semaine, 8 heures par jour. Nombre d'heures total de la formation 480 heures. Tarif 6700€ TTC
 
-**3 stages** d'une semaine (de 6 jours): janvier, février, avril. 160h  de cours et 8 h de concours. Tarif 2250€ TTC
+**3 stages** d'une semaine (6 jours): janvier, février, avril. 160h  de cours et 8 h de concours. Tarif 2250€ TTC
 
 **Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 240 heures de cours. Tarif  4500€ TTC
 
