@@ -15,7 +15,7 @@ Description générale du concours : Le concours d’admission à l’Ecole de s
 
 Les médecins et pharmaciens des armées sont formés à l’ESA (Ecole de Santé des Armées) de Lyon-Bron. L’admission à l’Ecole de Santé des Armées se fait par concours sur épreuves. 
 
-##### Le concours ESA.
+#### Le concours ESA.
 
 Les matières pour les épreuves écrites de ce concours sont : composition écrite, mathématiques, SVT, physique et chimie.
 
@@ -25,7 +25,7 @@ Ce concours ouvre à l’année de PACES réalisée au sein de l’école de san
 
 Ce concours s’adresse aux élèves passant le bac dans l’année ou l’ayant déjà passé. Le profil recherché par le Service de santé des Armées est : des élèves aux capacités de travail importantes, organisés, tenaces et ayant conscience de la « militarité » nécessaire à un engagement militaire.
 
-##### 3 formules efficaces ouvertes dans notre centre
+#### 3 formules efficaces ouvertes dans notre centre
 
 **En présentiel**: sur 12 semaines de septembre à décembre. 5 jours par semaine, 8 heures par jour. Nombre d'heures total de la formation 480 heures. Tarif 6700€ TTC
 
