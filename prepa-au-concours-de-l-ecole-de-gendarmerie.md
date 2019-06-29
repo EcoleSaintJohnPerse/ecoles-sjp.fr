@@ -5,10 +5,9 @@ permalink: "/prepa-au-concours-de-l-ecole-de-gendarmerie"
 redirect_from:
 - "/index.php/prepa-au-concours-de-l-ecole-de-gendarmerie"
 - "/prepa-au-concours-de-l-ecole-de-gendarmerie"
-published: false
 
 ---
-Axes de la préparation :
+Axes de la préparation :  
 
 * Professeurs efficaces,
 * qualité de l’accompagnement,
