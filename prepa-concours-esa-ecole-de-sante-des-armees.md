@@ -7,18 +7,38 @@ redirect_from:
 - "/esa"
 
 ---
-PREPA Concours ESA : Ecole de santé des Armées
+#### PREPARATION  
 
-Description générale du concours : Le concours d’admission au concours de l’école de santé des armées ouvre sur la carrière de médecin militaire et pharmacien militaire.
+#### Concours ESA : Ecole de santé des Armées
 
-Les médecins et pharmaciens des armées sont formés à l’ESA (Ecole de Santé des Armés) de Lyon-Bron. L’admission à l’Ecole de Santé des Armés se fait par concours sur épreuves : le concours ESA.
+Description générale du concours : Le concours d’admission à l’Ecole de santé des Armées ouvre sur la carrière de **médecin militaire et pharmacien militaire.**
 
-Les matières pour les épreuves écrites de ce concours sont : composition écrite, mathématiques,SVT, physique et chimie.
+Les médecins et pharmaciens des armées sont formés à l’ESA (Ecole de Santé des Armées) de Lyon-Bron. L’admission à l’Ecole de Santé des Armées se fait par concours sur épreuves. 
 
-Les candidats admissibles passent une épreuve sportive (type épreuve de l’armée de terre) et un entretien avec un jury unique (20 minutes).
+##### Le concours ESA.
+
+Les matières pour les épreuves écrites de ce concours sont : composition écrite, mathématiques, SVT, physique et chimie.
+
+Les candidats admissibles passent une épreuve sportive (sur le modèle de l'épreuve de l’armée de terre) et un entretien avec un jury unique (20 minutes).
 
 Ce concours ouvre à l’année de PACES réalisée au sein de l’école de santé des armées de Bron et des facultés de médecine de Lyon et Lyon sud.
 
-Ce concours s’adresse aux élèves passant le bac, l’année de sa présentation ou l’ayant déjà passé. Le profil recherché par le service de santé des armées étant avant tout des élèves aux capacités de travail importantes, organisés, tenaces et ayant conscience de la « militarité » nécessaire à un engagement militaire.
+Ce concours s’adresse aux élèves passant le bac dans l’année ou l’ayant déjà passé. Le profil recherché par le Service de santé des Armées est : des élèves aux capacités de travail importantes, organisés, tenaces et ayant conscience de la « militarité » nécessaire à un engagement militaire.
+
+##### 3 formules efficaces ouvertes dans notre centre
+
+**En présentiel**: sur 12 semaines de septembre à décembre. 5 jours par semaine, 8 heures par jour. Nombre d'heures total de la formation 480 heures. Tarif 6700€ TTC
+
+**3 stages** d'une semaine (de 6 jours): janvier, février, avril. 160h  de cours et 8 h de concours. Tarif 2250€ TTC
+
+**Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 240 heures de cours. Tarif  4500€ TTC
 
 Site officiel : [http://www.ecole-valdegrace.sante.defense.gouv.fr/](http://www.ecole-valdegrace.sante.defense.gouv.fr/ "http://www.ecole-valdegrace.sante.defense.gouv.fr/")
+
+Pour plus d'informations, vous pouvez contacter:
+
+Paul Andreo, responsable de la formation : 01 43 87 73 10 ou 06 31 22 23 60 (par sms de préférence, nous rappelons).
+
+le Professeur principal de la formation:
+
+prochainement, une ancienne élève:
