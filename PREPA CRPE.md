@@ -36,3 +36,13 @@ Ouvert à de multiples profils, le concours de professeur des écoles doit être
 12 samedis + 2 stages. Tarif: 2900€ TTC
 
 12 samedis + 3 stages Tarif: 3200€ TTC
+
+Pour plus d'informations, vous pouvez **nous contacter**:
+
+Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence, nous rappelons).
+
+le Professeur principal de la formation:
+
+**CAMILLE**, ancienne élève: 06 08 43 92 67
+
+**CLAIRE**, ancienne élève: 07 86 55 56 74
