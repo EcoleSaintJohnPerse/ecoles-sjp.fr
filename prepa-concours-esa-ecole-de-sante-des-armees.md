@@ -35,17 +35,11 @@ Ce concours s’adresse aux élèves passant le bac dans l’année ou l’ayant
 
 Site officiel : [http://www.ecole-valdegrace.sante.defense.gouv.fr/](http://www.ecole-valdegrace.sante.defense.gouv.fr/ "http://www.ecole-valdegrace.sante.defense.gouv.fr/")
 
-#### Pour plus d'informations,  **nous contacter**:
+## En savoir plus et s'inscrire
 
-### sjp018@gmail.com
+#### sjp018@gmail.com
 
 * Paul Andreo, responsable du centre : **01 43 87 73 10** et / ou  **06 31 22 23 60** (par sms de préférence, nous rappelons).
-
-
 * le Professeur principal de la formation:
-
-
 * **CAMILLE**, ancienne élève: 06 08 43 92 67
-
-
 * **CLAIRE**, ancienne élève: 07 86 55 56 74
