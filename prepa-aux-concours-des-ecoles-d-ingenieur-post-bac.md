@@ -5,7 +5,6 @@ permalink: "/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac/"
 redirect_from:
 - "/index.php/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac"
 - "/Concours-des-Ecoles-d-ingenieurs"
-published: false
 
 ---
 ### PREPA aux concours des Ecoles d'ingénieur post bac
@@ -46,13 +45,11 @@ L’objectif est de vous donner un maximum d’outils et de savoirs pour passer 
 
 **Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 240 heures de cours. Tarif  4500€ TTC
 
-## En savoir et s'inscrire
+## En savoir plus et s'inscrire
 
 #### sjp018@gmail.com
 
 * Paul Andreo, responsable du centre : **01 43 87 73 10** et / ou  **06 31 22 23 60** (par sms de préférence, nous rappelons).
-
-
 * Prof. principal de la formation:
 
 #### CAMILLE, ancienne élève : 06 08 43 92 67
