@@ -41,4 +41,6 @@ Paul Andreo, responsable de la formation : **01 43 87 73 10** ou **06 31 22 23 6
 
 le Professeur principal de la formation:
 
-prochainement, une ancienne élève:
+**CAMILLE**, ancienne élève: 06 08 43 92 67
+
+**CLAIRE**, ancienne élève: 07 86 55 56 74
