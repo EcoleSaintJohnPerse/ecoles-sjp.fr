@@ -1,8 +1,8 @@
 ---
+layout: post
 title: 'Projection de Blankkklansman : j''ai infiltré le Ku Klux Klan pour les élèves
   de l''établissement'
 date: 2018-09-27 10:30:03 +0000
-
 ---
 dans le cadre du cours d'anglais, Mme Berthet, professeur d'Anglais, accompagnée par M. Taveneau, professeur d'Histoire-Géographie, et M. Rose, professeur de français, emmènera les élèves assister à la projection du film "BLACKkKLANSMAN : j'ai infiltré le Ku Klux Klan " les lundi 1er et mardi 2 octobre pour toutes les classes, 
 

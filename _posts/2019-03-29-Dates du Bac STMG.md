@@ -1,6 +1,7 @@
 ---
+layout: post
+title: Dates du bac SMTG
 date: 2019-03-29 14:03:19 +0000
-
 ---
 ### Session 2019 : dates des épreuves du baccalauréat technologique
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Expo Picasso Bleu et Rose au Musée d'Orsay
 date: 2018-09-27 10:13:47 +0000
-
 ---
 Le mercredi 26 septembre nous sommes allées au Musée d'Orsay avec les élèves de 2nde.
 

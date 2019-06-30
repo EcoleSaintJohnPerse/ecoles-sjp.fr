@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Réunion nouveaux parents 24/09/18
 date: 2018-09-27 10:32:27 +0000
-
 ---
 Madame, Monsieur, cher(e) parent d'élève,
 
@@ -14,5 +14,3 @@ Vous en saurez plus également sur la classe aménagée haut potentiel, la prép
 En espérant que vous pourrez vous libérer plus tôt et être des nôtres à cette réunion de rencontre je vous adresse mes salutations dévouées.
 
 P. Andreo
-
- 

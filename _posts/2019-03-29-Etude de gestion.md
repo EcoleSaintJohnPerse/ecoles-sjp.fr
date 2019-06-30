@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Etude de gestion
 date: 2019-03-29 13:15:28 +0000
 
 ---
