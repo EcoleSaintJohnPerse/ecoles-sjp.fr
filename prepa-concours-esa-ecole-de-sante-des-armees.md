@@ -15,7 +15,7 @@ Description générale du concours : Le concours d’admission à l’Ecole de s
 
 Les médecins et pharmaciens des armées sont formés à l’ESA (Ecole de Santé des Armées) de Lyon-Bron. L’admission à l’Ecole de Santé des Armées se fait par concours sur épreuves.
 
-#### Le concours ESA.
+#### Le concours ESA
 
 Les matières pour les épreuves écrites de ce concours sont : composition écrite, mathématiques, SVT, physique et chimie.
 
@@ -27,11 +27,27 @@ Ce concours s’adresse aux élèves passant le bac dans l’année ou l’ayant
 
 #### 3 formules efficaces ouvertes dans notre centre
 
-**En présentiel**: sur 12 semaines de septembre à décembre. 5 jours par semaine, 8 heures par jour. Nombre d'heures total de la formation 480 heures. Tarif 6700€ TTC
+* **En présentiel** : sur 12 semaines de septembre à décembre. 5 jours par semaine, 8 heures par jour. 
 
-**3 stages** d'une semaine (6 jours): janvier, février, avril. 160h  de cours et 8 h de concours. Tarif 2250€ TTC
+  Nombre d'heures total de la formation 480 heures. 
 
-**Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 240 heures de cours. Tarif  4500€ TTC
+  Tarif : 6700 € TTC
+
+
+* **3 stages** d'une semaine pendant les vacances scolaires (6 jours): janvier, février, avril. 
+
+  160h  de cours et 8 h de concours. 
+
+  Tarif : 2250 € TTC
+
+
+* **Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 
+
+  240 heures de cours. 
+
+  Tarif : 4500 € TTC
+
+Possibilité de régler en 3 fois. 
 
 Site officiel : [http://www.ecole-valdegrace.sante.defense.gouv.fr/](http://www.ecole-valdegrace.sante.defense.gouv.fr/ "http://www.ecole-valdegrace.sante.defense.gouv.fr/")
 
@@ -39,7 +55,7 @@ Site officiel : [http://www.ecole-valdegrace.sante.defense.gouv.fr/](http://www.
 
 #### sjp018@gmail.com
 
-* Paul Andreo, responsable du centre : **01 43 87 73 10** et / ou  **06 31 22 23 60** (par sms de préférence, nous rappelons).
+* Paul Andreo, responsable du centre : **01 43 87 73 10** et / ou  **06 31 22 23 60** (par sms de préférence).
 * le Professeur principal de la formation:
 * **CAMILLE**, ancienne élève: 06 08 43 92 67
 * **CLAIRE**, ancienne élève: 07 86 55 56 74
