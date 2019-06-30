@@ -32,10 +32,13 @@ menus:
     identifier: accueil
   - title: Notre Ecole
     identifier: ecole
+    url: /approche/index
   - title: Nos classes
     identifier: filiere
+    url: /filieres/index
   - title: La scolarité
     identifier: scolarite
+    url: /scolarite/index
   - title: Nos Prépas
     identifier: prepa
     url: /prepa/index
