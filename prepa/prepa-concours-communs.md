@@ -12,11 +12,11 @@ permalink: "/prepa/prepa-concours-communs/"
 
 ## Deux formules efficaces ouvertes dans notre centre
 
-* **En présentiel : Stage en Septembre de quatre semaines**: 6 jours de cours par semaine à raison de 7h par jour. Français 4h/jour, Math 2h/jour, Logique 1h/jour.
-  168 heures  de formation.
+* **En présentiel : Stage en Septembre de quatre semaines**: 6 jours de cours par semaine à raison de 7h par jour. Français 4h/jour, Math 2h/jour, Logique 1h/jour.  
+  168 heures  de formation.  
   Tarif 2250€ TTC
 
-* **Les samedis :** de novembre à mars, environ 20 samedis. 20 jours de cours à raison de 7h de cours par jour + 2 concours blancs d'une semaine. Français 4h/jour, Math 2h/jour, Logique 1h/jour.
+* **Les samedis :** de novembre à mars, environ 20 samedis. 20 jours de cours à raison de 7h de cours par jour + 2 concours blancs d'une semaine. Français 4h/jour, Math 2h/jour, Logique 1h/jour.  
   Tarif 2250€ TTC
 
 Possibilité de régler en 3 fois
