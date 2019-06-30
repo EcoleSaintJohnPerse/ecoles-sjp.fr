@@ -19,18 +19,25 @@ En fonction du calendrier du concours, une formule : STAGE 1 en septembre d’un
 
 #### 2 périodes de stages ouvertes dans notre Centre
 
-**STAGE 1**: sur 4 semaines en septembre. 6 jours par semaine à raison de 7 heures par jour. Français 4h/ jour + math 2h/jour + logique 1h/ jour. Tarif 2250€ TTC
+* **STAGE 1** : sur 4 semaines en septembre. 6 jours par semaine à raison de 7 heures par jour. Français 4h/ jour + math 2h/jour + logique 1h/ jour. 
 
-**STAGE 2:**  en février et mars,  4 jours par semaine à raison de 5 heures par jour. Français 3h/ jour + math 1h15/jour + logique 0.45h/ jour. Tarif 2250€ TTC
+  Tarif 2250€ TTC
+
+
+* **STAGE 2 :** en février et mars,  4 jours par semaine à raison de 5 heures par jour. Français 3h/ jour + math 1h15/jour + logique 0.45h/ jour. 
+
+  Tarif 2250€ TTC
+
+Possibilité de régler en 3 fois. 
 
 ## En savoir plus et s'inscrire
 
 ### sjp018@gmail.com
 
-Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence, nous rappelons).
+Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence).
 
 le Professeur principal de la formation:
 
-#### THOMAS ancien élève: 06 81 61 90 03
+#### THOMAS ancien élève : 06 81 61 90 03
 
-#### ENZO, ancien élève: enzo.ballesta@gmail.com
+#### ENZO, ancien élève : enzo.ballesta@gmail.com
