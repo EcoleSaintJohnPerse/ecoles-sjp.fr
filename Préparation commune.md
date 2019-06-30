@@ -22,6 +22,8 @@
 
   Tarif 2250€ TTC
 
+Possibilités de régler en 3 fois
+
 ## En savoir plus et s'inscrire
 
 ## sjp018@gmail.com
