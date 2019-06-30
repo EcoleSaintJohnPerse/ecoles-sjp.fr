@@ -5,6 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <img id="main-logo" src="/images/logo-Saint-John-Perse.png" alt="Logo Saint-John Perse">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-subtitle" href="/prepa/index">{{ site.subtitle | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">

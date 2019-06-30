@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prépa Concours Communs (douane, gardien de la paix)
+title: Prépa concours communs (douane, gardien de la paix)
 permalink: "/prepa/prepa-concours-communs/"
 ---
 
@@ -25,11 +25,11 @@ Possibilité de régler en 3 fois
 
 ### [sjp018@gmail.com](sjp018@gmail.com)
 
-Paul Andreo, responsable du centre : **01 43 87 73 10** et au **06 31 22 23 60** (par sms de préférence).
-Le professeur coordinateur de la formation : M. Nicolas Denis-Demarchelier **06 46 50 47 26**.
+Paul Andreo, responsable du centre : **[01 43 87 73 10](tel:0143877310)** et au **[06 31 22 23 60](tel:0631222360)** (par sms de préférence).
+Nicolas Denis-Demarchelier, professeur coordinateur de la formation :  **[06 46 50 47 26](tel:0646504726)**.
 
-- **Neila**, ancienne élève: 06 10 51  67 54 (douane contrôleur)
-- **Victor,** ancien élève: 06 66 61 64 28 (douane contrôleur)
-- **Teckle** : 06 19 41 44 31 (douane agent de constatation)
-- **Thomas** : [thomas.radiguet@sfr.fr](thomas.radiguet@sfr.fr) (GPX)
-- **Manon** : 06 27 14 61 23 (GPX)
+- **Neila** (ancienne élève) : [06 10 51 67 54](tel:0610516754) (douane contrôleur)
+- **Victor** (ancien élève) : [06 66 61 64 28](tel:0666616428) (douane contrôleur)
+- **Teckle** (ancienne élève) : [06 19 41 44 31](tel:0619414431) (douane agent de constatation)
+- **Thomas** (ancien élève) : [thomas.radiguet@sfr.fr](thomas.radiguet@sfr.fr) (GPX)
+- **Manon** (ancienne élève) : [06 27 14 61 23](tel:0627146123) (GPX)

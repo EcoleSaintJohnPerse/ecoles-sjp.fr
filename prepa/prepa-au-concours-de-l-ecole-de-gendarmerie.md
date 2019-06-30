@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prépa au concours de l'école de Gendarmerie
-permalink: "/prepa-au-concours-de-l-ecole-de-gendarmerie"
+permalink: "/prepa/prepa-au-concours-de-l-ecole-de-gendarmerie"
 ---
 
 ### Concours école de Gendarmerie
@@ -12,7 +12,7 @@ Axes de la préparation :
 * qualité de l’accompagnement,
 * acquisition de la mentalité de gendarme et des valeurs de la gendarmerie pendant la formation.
 
-En fonction du calendrier du concours, une formule : STAGE 1 en septembre d’un mois et STAGE 2 en février et mars.
+En fonction du calendrier du concours, une formule : stage 1 en septembre d’un mois et stage 2 en février et mars.
 
 #### 2 périodes de stages ouvertes dans notre Centre
 
@@ -29,8 +29,8 @@ Possibilité de régler en 3 fois.
 
 ### [sjp018@gmail.com](sjp018@gmail.com)
 
-Paul Andreo, responsable du centre : **01 43 87 73 10** et au **06 31 22 23 60** (par sms de préférence).
-Le professeur coordinateur de la formation : M. Nicolas Denis-Demarchelier **06 46 50 47 26**.
+Paul Andreo, responsable du centre : **[01 43 87 73 10](tel:0143877310)** et au **[06 31 22 23 60](tel:0631222360)** (par sms de préférence).
+Nicolas Denis-Demarchelier, professeur coordinateur de la formation :  **[06 46 50 47 26](tel:0646504726)**.
 
-- Thomas (ancien élève) : 06 81 61 90 03
+- Thomas (ancien élève) : [06 81 61 90 03](tel:0681619003)
 - Enzo (ancien élève) : [enzo.ballesta@gmail.com](enzo.ballesta@gmail.com)

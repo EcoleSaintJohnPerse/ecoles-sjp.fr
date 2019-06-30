@@ -12,8 +12,9 @@ Ouvert à de multiples profils, le concours de professeur des écoles doit être
 #### L'admissibilité :
 
 * une épreuve de français qui se décompose en 3 parties :
-
-  la synthèse ou l'analyse, la grammaire, le support pédagogique à critiquer.
+  - la synthèse ou l'analyse, 
+  - la grammaire, 
+  - le support pédagogique à critiquer.
 * une épreuve de mathématiques
 
 #### L'admission :
@@ -41,8 +42,8 @@ Possibilité de régler en 3 fois.
 
 ### [sjp018@gmail.com](sjp018@gmail.com)
 
-Paul Andreo, responsable du centre : **01 43 87 73 10** et au **06 31 22 23 60** (par sms de préférence).
-Le professeur coordinateur de la formation : M. Nicolas Denis-Demarchelier **06 46 50 47 26**.
+Paul Andreo, responsable du centre : **[01 43 87 73 10](tel:0143877310)** et au **[06 31 22 23 60](tel:0631222360)** (par sms de préférence).
+Nicolas Denis-Demarchelier, professeur coordinateur de la formation :  **[06 46 50 47 26](tel:0646504726)**.
 
-- **Laurent** (ancienne élève) : 06 86 58 42 58
-- **Amandine** (ancienne élève) : 07 68 34 05 26
+- **Laurence** (ancienne élève) : [06 86 58 42 58](tel:0686584258)
+- **Amandine** (ancienne élève) : [07 68 34 05 26](tel:0768340526)
