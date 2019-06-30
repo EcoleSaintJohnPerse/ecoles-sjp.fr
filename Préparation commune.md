@@ -16,13 +16,11 @@
   168 heures  de formation.
 
   Tarif 2250€ TTC
-
-
-* **LES SAMEDIS :** de novembre à mars, environ 20 samedis. 20 jours de cours à raison de 7h de cours par jour + 2 concours blancs d'une semaine. Français 4h/jour, Math 2h/jour, Logique 1h/jour. 
+* **LES SAMEDIS :** de novembre à mars, environ 20 samedis. 20 jours de cours à raison de 7h de cours par jour + 2 concours blancs d'une semaine. Français 4h/jour, Math 2h/jour, Logique 1h/jour.
 
   Tarif 2250€ TTC
 
-Possibilités de régler en 3 fois
+Possibilité de régler en 3 fois
 
 ## En savoir plus et s'inscrire
 
