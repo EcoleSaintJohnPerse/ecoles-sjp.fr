@@ -22,27 +22,34 @@ Ouvert à de multiples profils, le concours de professeur des écoles doit être
 
 #### 3 formules efficaces ouvertes dans notre centre
 
-**En COURS DU SOIR** : sur 16 semaines de septembre à janvier. 3 soirs par semaine, 6 heures par semaine. Nombre d'heures total de la formation 96 heures. Tarif 2500€ TTC
+* **En COURS DU SOIR** : sur 16 semaines de septembre à janvier. 3 soirs par semaine, 6 heures par semaine. Nombre d'heures total de la formation 96 heures. 
 
-**3 stages** d'une semaine pendant les vacances scolaires  sur 5 jours:  janvier, février, avril. 120h  de cours. Tarif 1500€ TTC les trois stages (500€ par stage)
+  Tarif 2500€ TTC
 
-**12 samedis + 1 , 2 ou 3 stages**: 12 samedis de 14h à 20h + 1, 2 ou 3 stages.
 
-12 samedis. Tarif 2100€ TTC
+* **3 stages** d'une semaine pendant les vacances scolaires  sur 5 jours:  janvier, février, avril. 
 
-12 samedis + 1 stage. Tarif: 2500€ TTC
+  120h  de cours. 
 
-12 samedis + 2 stages. Tarif: 2900€ TTC
+  Tarif : 1500€ TTC les trois stages (500€ par stage)
 
-12 samedis + 3 stages Tarif: 3200€ TTC
+
+* **12 samedis + 1 , 2 ou 3 stages**: 12 samedis de 14h à 20h + 1, 2 ou 3 stages.
+
+  12 samedis. Tarif : 2100 € TTC
+
+  12 samedis + 1 stage. Tarif : 2500 € TTC
+
+  12 samedis + 2 stages. Tarif : 2900 € TTC
+* 12 samedis + 3 stages Tarif : 3200 € TTC
 
 ## En savoir plus et s'inscrire
 
 ### sjp018@gmail.com
 
-Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence, nous rappelons).
+Paul Andreo, responsable du centre : **01 43 87 73 10** ou **06 31 22 23 60** (par sms de préférence).
 
-Professeur principal de la formation:
+Professeur principal de la formation :
 
 #### **LAURENCE**, ancienne élève: 06 86 58 42 58
 
