@@ -145,9 +145,14 @@ input, select, textarea {
 .site-subtitle {
   font-size: 22px;
   font-weight: 300;
-  line-height: 54px;
+  line-height: 24px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: right;
   color: black;
 }
+
+.site-subtitle:hover {
+  text-decoration: none;
+}
+
