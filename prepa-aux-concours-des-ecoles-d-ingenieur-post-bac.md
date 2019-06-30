@@ -41,18 +41,18 @@ L’objectif est de vous donner un maximum d’outils et de savoirs pour passer 
 
 #### 2 formules efficaces ouvertes dans notre centre
 
-* **3 stages** d'1 semaine pendant les vacances scolaires (6 jours) : janvier, février, avril. 
+* **3 stages** d'1 semaine pendant les vacances scolaires (6 jours) : janvier, février, avril.
 
-  160 heures de cours et 8h de concours. 
+  160 heures de cours et 8h de concours.
 
   Tarif 2250€ TTC
+* **Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages.
 
-
-* **Week-end + 3 Stages**: 12 samedis de 14h à 20h + 3 stages. 
-
-  240 heures de cours. 
+  240 heures de cours.
 
   Tarif  4500€ TTC
+
+Possibilités de régler en 3 fois
 
 ## En savoir plus et s'inscrire
 
