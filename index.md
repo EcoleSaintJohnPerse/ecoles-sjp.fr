@@ -21,7 +21,7 @@ redirect_from:
 
 Bravo à tous nos bacheliers !
 
-#### EnTerminale ES/S : 81% de reçus.
+#### En Terminale ES/S : 81% de reçus.
 
 #### En Terminale L : 90% de reçus dont une mention B et une mention AB.
 
