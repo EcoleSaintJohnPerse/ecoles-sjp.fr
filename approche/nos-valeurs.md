@@ -42,7 +42,7 @@ _"Nous croyons qu'un bon lycée accompagne des personnes dans la découverte de 
 
 _A Saint-John Perse, il est important pour nous que les élèves réussissent, le niveau des élèves au baccalauréat est d'ailleurs comparable à la moyenne nationale. Néanmoins, si nous souhaitons la réussite de tous et œuvrons en ce sens, il est important de dire que nous ne visons pas de "pourcentage de réussite au bac", pour deux raisons : dans un lycée qui compte une centaine d'élèves, pas tous en terminale, ce chiffre a peu de sens. Ensuite, nous souhaitons être un lycée qui n'abandonne pas les élèves et les familles en cas d'échec pour chercher à optimiser ses statistiques, mais au contraire qui s'accroche avec eux pour les aider à donner le meilleur._
 
-_Un bon lycée est un partenaire qui donne des clés pour apprendre vraiment à travailler plutôt que d'être toujours dans l'injonction à faire davantage, où dans l'opposition systématique aux élèves. C'est un lieu ouvert ou on peut trouver une personne à l'écoute, qui aide les élèves a canaliser leur énergie en les responsabilisant sans les culpabiliser._
+_Un bon lycée est un partenaire qui donne des clés pour apprendre vraiment à travailler plutôt que d'être toujours dans l'injonction à faire davantage, où dans l'opposition systématique aux élèves. C'est un lieu ouvert où l'on peut trouver une personne à l'écoute, qui aide les élèves a canaliser leur énergie en les responsabilisant sans les culpabiliser._
 
 _C'est ainsi, seulement, qu'on construit les meilleurs souvenirs possibles !_
 
