@@ -17,6 +17,16 @@ redirect_from:
 - "/prepascpo/calendrier-2018-2019"
 
 ---
+## STATISTIQUES BAC 2019 
+
+Bravo à tous nos bacheliers !
+
+#### EnTerminale ES/S : 81% de reçus.
+
+#### En Terminale L : 90% de reçus dont une mention B et une mention AB.
+
+#### En Terminale STMG : 70% de reçus dont une mention TB et 3 mentions AB.
+
 A l'Ecole Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l'épanouissement des élèves et la réussite scolaire.
 
 Les relations pédagogiques, d'aide et d'autorité, créent les conditions du succès de notre projet.
@@ -27,7 +37,7 @@ Les relations pédagogiques, d'aide et d'autorité, créent les conditions du su
 
 A la rentrée de septembre 2019, mise en place du nouveau lycée. L’organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s’ajoutent 3 spécialités au choix des élèves.
 
-A l'Ecole Saint-John Perse nous faisons le choix de proposer à nos élèves tous les enseignements de spécialité possibles.
+A l'Ecole Saint-John Perse nous faisons le choix de proposer à nos élèves 7 enseignements de spécialité possibles sur 12.
 
 #### **Entrée en Seconde en septembre 2019 :** <a href="images/Fiche_inscription_seconde_19_20.pdf">Téléchargez le dossier d’inscription Seconde 2019/2020</a>
 
