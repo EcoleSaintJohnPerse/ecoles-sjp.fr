@@ -3,9 +3,12 @@ layout: page
 title: Prépa concours CRPE
 permalink: "/prepa/prepa-crpe/"
 ---
+
 ### Concours de recrutement au professorat des écoles (CRPE)
 
 Ouvert à de multiples profils, le concours de professeur des écoles doit être préparé ave l'aide de professionnels car il est difficile de réviser des matières qui demandent un savoir-faire particulier et un savoir-être dont le contour échappe souvent aux candidats.
+
+<a href="images/fiche_inscription_PREPA_CRPE_2019_2020.pdf">Téléchargez la fiche d'inscription Prépa CRPE</a>
 
 #### Deux séries d'épreuves :
 
