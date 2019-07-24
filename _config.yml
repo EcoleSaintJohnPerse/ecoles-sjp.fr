@@ -24,6 +24,7 @@ url: "https://www.ecoles-sjp.fr" # the base hostname & protocol for your site, e
 twitter_username: St_JohnPerse
 facebook_username: etablissements saint john perse
 google_analytics: UA-124493340-1
+lang: fr_FR
 
 menus:
   main:
