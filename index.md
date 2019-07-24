@@ -4,6 +4,8 @@ title: Accueil
 list_title: Actualités
 permalink: "/"
 image: "/images/logo-Saint-John-Perse.png"
+seo:
+  type: Article
 redirect_from:
 - "/index.php/etablissements/professeurs"
 - "/etablissements/professeurs"
