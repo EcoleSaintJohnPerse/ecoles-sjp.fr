@@ -17,7 +17,7 @@ redirect_from:
 - "/prepascpo/calendrier-2018-2019"
 
 ---
-## STATISTIQUES BAC 2019 
+## STATISTIQUES BAC 2019
 
 Bravo à tous nos bacheliers !
 
@@ -51,4 +51,4 @@ Avant d’envisager une inscription dans l’établissement, nous sommes heureux
 
 Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l'admission.
 
-Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme.
+Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme..
