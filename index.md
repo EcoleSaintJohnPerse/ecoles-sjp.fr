@@ -2,7 +2,6 @@
 layout: home
 title: Accueil
 list_title: Actualités
-image: "/images/logo-Saint-John-Perse.png"
 permalink: "/"
 redirect_from:
 - "/index.php/etablissements/professeurs"
