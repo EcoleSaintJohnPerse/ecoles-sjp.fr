@@ -15,7 +15,8 @@ Ecole Saint-John Perse
 Enseignement secondaire privé général et technologique  
 14 rue Cavallotti, 75018 Paris  
 (Métro Place de Clichy, La Fourche)  
-01 43 87 73 10 - [sjp018@gmail.com](mailto:sjp018@gmail.com)
+
+**01 43 87 73 10** - [sjp018@gmail.com](mailto:sjp018@gmail.com)
 
 ***
 
