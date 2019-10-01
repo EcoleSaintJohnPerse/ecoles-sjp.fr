@@ -20,10 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Enseignement secondaire privé hors contrat à Paris depuis 1982
   Paris 18ème - 14, rue Cavallotti - 01 43 87 73 10
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ecoles-sjp.fr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ecoles-sjp.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: St_JohnPerse
 facebook_username: etablissements saint john perse
 google_analytics: UA-124493340-1
+lang: fr-FR
 
 menus:
   main:
