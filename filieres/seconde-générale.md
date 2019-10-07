@@ -12,27 +12,21 @@ redirect_from:
 
 > 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
 
-#### _BAC 2021 : En plus du tronc commun pour tous les élèves,_
+#### _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposons dès la rentrée 2019 les enseignements de spécialité suivants :_
 
-#### _nous proposerons les Enseignements de spécialité suivants :_
-
-* Arts (Cinéma, Arts plastiques)
-* Écologie, agronomie et territoires (EAT)
+* Arts (Cinéma audiovisuel)
 * Histoire géographie, géopolitique et sciences politiques
 * Humanités, littératures et philosophie
-* Langues et littératures étrangères
+* Sciences Economiques et sociales 
+* Langues et littératures étrangères (anglais)
 * Mathématiques
-* Numérique et sciences informatiques
 * Sciences de la vie et de la terre
-* Sciences de l’ingénieur
-* Sciences économiques et sociales
-* Physique chimie
+* Physique-Chimie
 
 #### _Nous proposerons les enseignements facultatifs suivants :_
 
 * Arts, (Cinéma, Arts plastiques),
-* LV3,
-* Droits et grands enjeux du monde contemporain (en Terminale uniquement).
+* LV3.
 
 #### Choix des 3 spécialités en 1ère générale : Zoom sur nos parcours
 
@@ -42,7 +36,7 @@ redirect_from:
 
 \- Langues, littérature et culture étrangère (anglais) ;
 
-\- Art.
+\- Art (cinéma audiovisuel)
 
 Débouchés dans l'enseignement supérieur : Humanités, Ecoles de communication, publicité, journalisme, etc.
 
@@ -68,7 +62,7 @@ Débouchés dans l'enseignement supérieur : Ecoles d'arts, école de cinéma, d
 
 ##### Parcours n°4 : Profil scientifique
 
-\- Physique-Chimie ; 
+\- Physique-Chimie ;
 
 \- Sciences de la Vie et de la Terre ;
 
