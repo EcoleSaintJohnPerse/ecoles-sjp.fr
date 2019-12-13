@@ -12,7 +12,7 @@ redirect_from:
 
 > La seconde, **c’est avant tout la découverte du Lycée !** Nouvel environnement, nouvelles libertés, nouvelles contraintes, nouvelles matières, nouvelles méthodes…Tout change, en comparaison avec le Collège ! Voici nos points forts pour accompagner votre enfant durant cette année charnière.
 
-**Les élèves travaillent en petits effectifs** (environ 15 élèves). 
+**Les élèves travaillent en petits effectifs** (environ 15 élèves).
 
 Ils ont **des devoirs sur table** chaque semaine pour progresser.
 
@@ -20,7 +20,9 @@ Ils ont **des devoirs sur table** chaque semaine pour progresser.
 
 **La découverte des arts :** nous proposons aux élèves de Seconde de s'inscrire aux ateliers d'Arts plastiques et de Cinéma audiovisuel.
 
-**Un voyage de classe** est organisé avec les élèves de Seconde (Bruges, Châteaux de la Loire, Normandie), compris dans les frais de scolarité. Des sorties culturelles sont organisées avec les élèves durant l’année pour développer l’ouverture et la curiosité de chacun.
+**Un voyage de classe** est proposé aux élèves de Seconde (Bruges, Châteaux de la Loire, Normandie, etc.). 
+
+Des sorties culturelles sont organisées avec les élèves durant l’année pour développer l’ouverture et la curiosité de chacun.
 
 **La philosophie :** les élèves de Seconde bénéficient d'une heure d'initiation à la philosophie chaque semaine. Un moment pour en savoir plus sur cette matière qui n'est normalement enseignée qu'en Terminale ...
 
