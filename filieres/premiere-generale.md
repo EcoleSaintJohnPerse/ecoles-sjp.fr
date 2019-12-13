@@ -18,13 +18,13 @@ redirect_from:
 
 **Un stage de Français et de spécialité en fin d'année :** de fin mai à mi juin les élèves sont en révisions pour le bac avec un emploi du temps aménagé et des oraux blancs.
 
-**Un voyage de classe** est organisé avec les élèves de Première (Bruges, Châteaux de la Loire, Normandie), compris dans les frais de scolarité.
+**Un voyage de classe** est proposé aux élèves (Bruges, Châteaux de la Loire, Normandie, etc.).
 
 **Des sorties culturelles** pour développer l’ouverture et la curiosité de chacun.
 
 **Les élèves sont accompagnés** personnellement dans la construction de leur projet d’orientation : chacun est soutenu dans son développement et sa progression.
 
-##### _Enseignements de spécialité :_ 
+##### _Enseignements de spécialité :_
 
 _En plus du tronc commun pour tous les élèves, nous proposerons les Enseignements de spécialité suivants :_
 
