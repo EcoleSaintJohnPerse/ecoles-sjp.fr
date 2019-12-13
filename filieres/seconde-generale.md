@@ -20,7 +20,7 @@ Ils ont **des devoirs sur table** chaque semaine pour progresser.
 
 **La découverte des arts :** nous proposons aux élèves de Seconde de s'inscrire aux ateliers d'Arts plastiques et de Cinéma audiovisuel.
 
-**Un voyage de classe** est proposé aux élèves de Seconde (Bruges, Châteaux de la Loire, Normandie, etc.). 
+**Un voyage de classe** est proposé aux élèves de Seconde (Bruges, Châteaux de la Loire, Normandie, Londres, etc.).
 
 Des sorties culturelles sont organisées avec les élèves durant l’année pour développer l’ouverture et la curiosité de chacun.
 
