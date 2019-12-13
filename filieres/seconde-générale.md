@@ -17,7 +17,7 @@ redirect_from:
 * Arts (Cinéma audiovisuel)
 * Histoire géographie, géopolitique et sciences politiques
 * Humanités, littératures et philosophie
-* Sciences Economiques et sociales 
+* Sciences Economiques et sociales
 * Langues et littératures étrangères (anglais)
 * Mathématiques
 * Sciences de la vie et de la terre
@@ -76,9 +76,9 @@ Débouchés dans l'enseignement supérieur : Médecine, écoles d'ingénieur, de
 
 **Des entraînements réguliers pour progresser :** les élèves de Première ont dans leur emploi du temps deux plages de 2 h de devoirs surveillés chaque semaine.
 
-**Un voyage de classe** est organisé avec les élèves de Première (Bruges, Châteaux de la Loire, Normandie), compris dans les frais de scolarité.
+**Un voyage de classe** est proposé aux élèves de Première (Bruges, Châteaux de la Loire, Normandie, Londres, etc.). 
 
-**Des sorties culturelles** (musée, cinéma, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité de chacun.
+**Des sorties culturelles** (musée, cinéma, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité. 
 
 **Un stage de Français et de spécialité en fin d'année :** de fin mai à mi-juin les élèves sont en révisions pour le bac avec un emploi du temps aménagé et des oraux blancs.
 
