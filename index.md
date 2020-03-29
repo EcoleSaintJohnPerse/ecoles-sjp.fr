@@ -34,8 +34,8 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 
 ## Dossiers d’inscription à télécharger
 
-**Entrée en Seconde en septembre 2020 :** Téléchargez le dossier d’inscription Seconde 2020/2021
+**Entrée en Seconde en septembre 2020 :** [Téléchargez le dossier d’inscription Seconde 2020/2021](https://ecoles-sjp.fr/images/Dossier%20d'inscription%20Seconde%202020-2021.pdf "Dossier d'inscription Seconde 2020-2021")
 
-**Entrée en Première en septembre 2020 :** Téléchargez le dossier d’inscription Première 2020/2021
+**Entrée en Première en septembre 2020 :** [Téléchargez le dossier d’inscription Première 2020/2021](https://ecoles-sjp.fr/images/Dossier%20d'inscription%20Premiere%202020-2021.pdf "Dossier d'inscription Premiere 2020-2021")
 
-**Entrée en Terminale en septembre 2020 :** Téléchargez le dossier d’inscription Terminale 2020/2021
+**Entrée en Terminale en septembre 2020 :** [Téléchargez le dossier d’inscription Terminale 2020/2021](https://ecoles-sjp.fr/images/Dossier%20d'inscription%20Terminale%202020-2021.pdf "Dossier d'inscription Terminale 2020-2021")
