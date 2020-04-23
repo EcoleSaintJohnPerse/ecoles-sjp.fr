@@ -20,7 +20,7 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-[Téléchargez la plaquette de présentation de l’établissement](https://ecoles-sjp.fr/images/plaquette_2018_2019.pdf)
+[Téléchargez la plaquette de présentation de l’établissement](https://ecoles-sjp.fr/uploads/Plaquette-Ecole-Saint-John-Perse-2019-2020.pdf)
 
 ## Inscriptions ouvertes pour la rentrée 2020 : rendez-vous possibles par visio-conférence pendant le confinement dû au COVID19.
 
