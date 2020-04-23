@@ -40,9 +40,9 @@ menus:
   - title: La scolarité
     identifier: scolarite
     url: /scolarite/index
-  - title: Nos Prépas
-    identifier: prepa
-    url: /prepa/index
+#  - title: Nos Prépas
+#    identifier: prepa
+#    url: /prepa/index
   - title: Nous contacter
     identifier: contact
     url: /contact
