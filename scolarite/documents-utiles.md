@@ -4,7 +4,7 @@ title: Documents utiles
 permalink: "/scolarite/documents-utiles/"
 
 ---
-* [Plaquette de présentation de l'établissement](/images/plaquette_2018_2019.pdf)
+* [Plaquette de présentation de l'établissement](/uploads/Plaquette-Ecole-Saint-John-Perse-2019-2020.pdf)
 * [Plaquette Saint-John Perse et Choréia (horaires aménagés Danse, Comédie musicale)](/images/Plaquette_SJPC.pdf)
 * [Contrat de vie scolaire (règlement intérieur)](/images/Contrat_vie_scolaire_2018_2019.pdf)
 * [Dossier d’inscription Seconde 2020/2021](/images/Dossier%20d'inscription%20Seconde%202020-2021.pdf "Dossier d'inscription Seconde 2020-2021")
