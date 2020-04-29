@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: L'Ecole Saint-John Perse, un lycée privé à Paris
-subtitle: Prépas ESA, ingénieurs, douanes, gendarmerie, GPX, CRPE
+subtitle: Enseignement secondaire privé hors contrat à Paris depuis 1982
 email: sjp018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Enseignement secondaire privé hors contrat à Paris depuis 1982
