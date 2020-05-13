@@ -12,8 +12,6 @@ redirect_from:
 
 **La filière S** (Scientifique) s'adresse aux élèves intéressés par la compréhension et l’explication des phénomènes naturels, les mathématiques et la modélisation, les nouvelles technologies, la santé et la biologie végétale et animale.
 
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/X-2GmyRhfwo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **En mathématiques,** un enseignement synthétique adapté aux difficultés de chacun, des fiches pédagogiques pour progresser.
 
 **Une approche originale pour l’enseignement en Physique-Chimie :** le programme aborde l’intégralité des les thématiques de l’Education Nationale avec une approche originale : augmenter peu à peu la complexité de l’univers connu via l’introduction de nouveaux éléments de compréhension, afin de structurer les connaissances des élèves (partir de l’atome, puis augmenter la complexité vers la molécule, etc...). L’enseignement de spécialité dans cette matière revient sur les trois thématiques suivantes : L’eau, le son et la musique, les matériaux.
