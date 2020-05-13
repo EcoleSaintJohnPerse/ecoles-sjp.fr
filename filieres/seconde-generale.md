@@ -12,6 +12,8 @@ redirect_from:
 
 > La seconde, **c’est avant tout la découverte du Lycée !** Nouvel environnement, nouvelles libertés, nouvelles contraintes, nouvelles matières, nouvelles méthodes…Tout change, en comparaison avec le Collège ! Voici nos points forts pour accompagner votre enfant durant cette année charnière.
 
+<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/Je77uCei6kI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Les élèves travaillent en petits effectifs** (environ 15 élèves).
 
 Ils ont **des devoirs sur table** chaque semaine pour progresser.
