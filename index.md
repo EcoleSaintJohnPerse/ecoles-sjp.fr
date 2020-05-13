@@ -22,6 +22,8 @@ redirect_from:
 
 [Téléchargez la plaquette de présentation de l’établissement](https://ecoles-sjp.fr/uploads/Plaquette-Ecole-Saint-John-Perse-2019-2020.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X-2GmyRhfwo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Inscriptions ouvertes pour la rentrée 2020 : rendez-vous possibles par visio-conférence pendant le confinement dû au COVID19.
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
