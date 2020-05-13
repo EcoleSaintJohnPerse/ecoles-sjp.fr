@@ -12,6 +12,8 @@ redirect_from:
 
 > 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
 
+<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/rYhNODONGgA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposons dès la rentrée 2019 les enseignements de spécialité suivants :_
 
 * Arts (Cinéma audiovisuel)
@@ -76,9 +78,9 @@ Débouchés dans l'enseignement supérieur : Médecine, écoles d'ingénieur, de
 
 **Des entraînements réguliers pour progresser :** les élèves de Première ont dans leur emploi du temps deux plages de 2 h de devoirs surveillés chaque semaine.
 
-**Un voyage de classe** est proposé aux élèves de Première (Bruges, Châteaux de la Loire, Normandie, Londres, etc.). 
+**Un voyage de classe** est proposé aux élèves de Première (Bruges, Châteaux de la Loire, Normandie, Londres, etc.).
 
-**Des sorties culturelles** (musée, cinéma, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité. 
+**Des sorties culturelles** (musée, cinéma, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité.
 
 **Un stage de Français et de spécialité en fin d'année :** de fin mai à mi-juin les élèves sont en révisions pour le bac avec un emploi du temps aménagé et des oraux blancs.
 
