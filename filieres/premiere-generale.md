@@ -14,7 +14,7 @@ redirect_from:
 
 **Les élèves travaillent en petits effectifs** (moins de 24 élèves par classe).
 
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/rYhNODONGgA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/_GEvvb_4Hjg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Des entraînements réguliers pour progresser :** les élèves de Première ont dans leur emploi du temps deux plages de 2 h de devoirs surveillés chaque semaine.
 
