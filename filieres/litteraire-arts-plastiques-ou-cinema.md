@@ -11,6 +11,8 @@ redirect_from:
 ---
 > En arrivant à Saint-John Perse, je ne savais pas à quoi m'attendre. Je n'arrive toujours pas à croire que j'ai pu enfin prendre confiance en moi après 15 ans de chagrin d'école, montrer à ma famille ce dont j'étais capable et réussir à entrer à l'école Camondo. **Agathe (TL)**
 
+<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/X-2GmyRhfwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 La filière L s'adresse à toute lycéenne ou tout lycéen, curieux des Arts et des Lettres.
 
 Elle permet de préparer un Bac Général Littéraire, qui ouvre la voie à de nombreux débouchés (Langues, Journalisme, Enseignement, Communication, Droit, Design, par exemple).
