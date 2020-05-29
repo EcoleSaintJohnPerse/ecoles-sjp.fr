@@ -12,7 +12,7 @@ redirect_from:
 
 > 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première générale prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
 
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/rYhNODONGgA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/_GEvvb_4Hjg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposons dès la rentrée 2019 les enseignements de spécialité suivants :_
 
