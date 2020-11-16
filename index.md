@@ -24,7 +24,7 @@ redirect_from:
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Inscriptions ouvertes pour la rentrée 2020 : rendez-vous possibles par visio-conférence pendant le confinement dû au COVID19.
+## Inscriptions ouvertes pour la rentrée 2021 : rendez-vous possibles par visio-conférence pendant le confinement dû au COVID19.
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
