@@ -71,18 +71,21 @@ menus:
   - title: Première Management et Gestion (STMG)
     url: /filieres/premiere-management-et-gestion
     identifier: premiere-stmg
-  - title: Terminale Littéraire Langues ou Cinéma (BAC L)
-    url: /filieres/litteraire-arts-plastiques-ou-cinema
-    identifier: litteraire-arts
-  - title: Terminale Scientifique (BAC S)
-    url: /filieres/scientifique-s
-    identifier: scientifique
-  - title: Terminale Éco et social (BAC ES)
-    url: /filieres/eco-et-social-es
-    identifier: eco-et-social
-  - title: Terminale Management et Gestion (BAC STMG)
-    url: /filieres/management-stmg
-    identifier: smtg
+  - title: Terminale générale
+    url: /filieres/terminale-generale
+    identifier: terminale
+#  - title: Terminale Littéraire Langues ou Cinéma (BAC L)
+#    url: /filieres/litteraire-arts-plastiques-ou-cinema
+#    identifier: litteraire-arts
+#  - title: Terminale Scientifique (BAC S)
+#    url: /filieres/scientifique-s
+#    identifier: scientifique
+#  - title: Terminale Éco et social (BAC ES)
+#    url: /filieres/eco-et-social-es
+#    identifier: eco-et-social
+#  - title: Terminale Management et Gestion (BAC STMG)
+#    url: /filieres/management-stmg
+#    identifier: smtg
     
   scolarite:
   - title: Tarifs et bourses
