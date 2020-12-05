@@ -12,7 +12,7 @@ redirect_from:
 ---
 # Terminale Générale
 
-_En arrivant à Saint-John Perse, je ne savais pas à quoi m’attendre. Je n’arrive toujours pas à croire que j’ai pu enfin prendre confiance en moi après 15 ans de chagrin d’école, montrer à ma famille ce dont j’étais capable et réussir à entrer à l’école Camondo. **Agathe (Terminale Littéraire)**_
+> En arrivant à Saint-John Perse, je ne savais pas à quoi m’attendre. Je n’arrive toujours pas à croire que j’ai pu enfin prendre confiance en moi après 15 ans de chagrin d’école, montrer à ma famille ce dont j’étais capable et réussir à entrer à l’école Camondo. **Agathe (Terminale Littéraire)**
 
 Il n'y a plus de série en voie générale mais des **parcours choisis** par chaque lycéen **en fonction de ses goûts et de ses ambitions.**
 
