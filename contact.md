@@ -28,19 +28,9 @@ Enseignement secondaire privé général et technologique
 <option></option>
 <option>Seconde générale</option>
 <option>Première STMG</option>
-<option>Première L Cinéma</option>
-<option>Première L Arts plastiques</option>
-<option>Première L langues</option>
-<option>Première S</option>
-<option>Première ES</option>
-<option>Terminale L Cinema</option>
-<option>Terminale L Arts plastiques</option>
-<option>Terminale L langues</option>
-<option>Terminale S</option>
-<option>Terminale ES</option>
+<option>Première Générale</option>
 <option>Terminale STMG</option>
-<option>Prepa arts plastiques</option>
-<option>Prepa Sciences-Po</option>
+<option>Terminale Générale</option>
 </select><br>
 <label for="etablissement">Etablissement d'origine</label><input type="text" name="etablissement"><br>
 <label for="email">Email</label><input type="email" name="email"><br>
