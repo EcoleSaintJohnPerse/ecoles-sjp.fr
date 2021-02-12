@@ -20,11 +20,9 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-[Téléchargez la plaquette de présentation de l’établissement](https://ecoles-sjp.fr/uploads/Plaquette-Ecole-Saint-John-Perse-2019-2020.pdf)
-
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Inscriptions ouvertes pour la rentrée 2021/2022 
+## Inscriptions ouvertes pour la rentrée 2021/2022
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
