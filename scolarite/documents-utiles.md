@@ -7,10 +7,21 @@ permalink: "/scolarite/documents-utiles/"
 * [Plaquette de présentation de l'établissement](/uploads/Plaquette-Ecole-Saint-John-Perse-2019-2020.pdf)
 * [Plaquette Saint-John Perse et Choréia (horaires aménagés Danse, Comédie musicale)](/images/Plaquette_SJPC.pdf)
 * [Contrat de vie scolaire (règlement intérieur)](/images/Contrat_vie_scolaire_2018_2019.pdf)
+
+### Rentrée 2020/2021 
+
 * [Dossier d’inscription Seconde 2020/2021](/images/Dossier%20d'inscription%20Seconde%202020-2021.pdf "Dossier d'inscription Seconde 2020-2021")
 * [Dossier d’inscription Première 2020/2021](/images/Dossier%20d'inscription%20Premiere%202020-2021.pdf "Dossier d'inscription Premiere 2020-2021")
 * [Dossier d’inscription Terminale 2020/2021](/images/Dossier%20d'inscription%20Terminale%202020-2021.pdf "Dossier d'inscription Terminale 2020-2021")
 
-### Rentrée 2020/2021 : les inscriptions sont ouvertes
+### Rentrée 2021/2022 : les inscriptions sont ouvertes !
 
-* [Stages de pré-rentrée du 29 août au 4 septembre 2019](/images/stage_pre-rentree_19-20.pdf)
+Prenez rendez-vous par téléphone ou par mail pour nous rencontrer et envisager ensemble l'inscription de l'élève. 
+
+Nous vous demanderons de nous parler du parcours de l'élève, ainsi que de nous adresser ses bulletins. 
+
+A l'issue du rendez-vous, nous vous indiquerons si nous pouvons accueillir l'élève au sein de l'établissement et vous ferons dès lors parvenir le dossier d'inscription. 
+
+* Dossier d'inscription Seconde 21/22 : à venir 
+* Dossier d'inscription Première 21/22 : à venir 
+* Dossier d'inscription Terminale 21/22 : à venir 
