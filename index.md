@@ -24,7 +24,7 @@ redirect_from:
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Inscriptions ouvertes pour la rentrée 2021 : rendez-vous possibles par visio-conférence pendant le confinement dû au COVID19.
+## Inscriptions ouvertes pour la rentrée 2021/2022 
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
@@ -36,8 +36,8 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 
 ## Dossiers d’inscription à télécharger
 
-**Entrée en Seconde en septembre 2020 :** [Téléchargez le dossier d’inscription Seconde 2020/2021](https://ecoles-sjp.fr/images/Dossier%20d'inscription%20Seconde%202020-2021.pdf "Dossier d'inscription Seconde 2020-2021")
+**Entrée en Seconde Générale et Technologique en septembre 2021 :** Dossier d'inscription à venir
 
-**Entrée en Première en septembre 2020 :** [Téléchargez le dossier d’inscription Première 2020/2021](https://ecoles-sjp.fr/images/Dossier%20d'inscription%20Premiere%202020-2021.pdf "Dossier d'inscription Premiere 2020-2021")
+**Entrée en Première Générale ou STMG en septembre 2021 :** Dossier d'inscription à venir
 
-**Entrée en Terminale en septembre 2020 :** [Téléchargez le dossier d’inscription Terminale 2020/2021](https://ecoles-sjp.fr/images/Dossier%20d'inscription%20Terminale%202020-2021.pdf "Dossier d'inscription Terminale 2020-2021")
+**Entrée en Terminale Générale ou STMG en septembre 2021 :** Dossier d'inscription à venir
