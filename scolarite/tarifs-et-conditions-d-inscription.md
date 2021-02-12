@@ -15,30 +15,25 @@ redirect_from:
 
 **Nos tarifs sont volontairement accessibles**.
 
-## Frais de scolarité 2019/2020
+## Frais de scolarité annuels 2021/2022
 
-| Seconde | 5400 €								
-| Première | 6120 €
-| Terminale | 6300 €
+| Seconde | 5 600 € dont 740 € de frais d'inscription
+
+| Première | 6 500 € dont 740 € de frais d'inscription 
+
+| Terminale | 6 500 € dont 740 € de frais d'inscription 
 
 ### Frais de scolarité Horaires aménagés Sport/Etude, Art/Etude ou Chant, Musique et Danse/Etude
 
-| Seconde 4700 € | Première 5420 € | Terminale 5600 €
-
-**Un voyage de découverte est compris chaque année dans le prix de la scolarité pour les Secondes et Premières.**
+Frais de scolarité selon cours suivis par l'élève 
 
 ### Prix des activités annexes
 
 * Voyage scolaire dans une capitale européenne (en 2019 Londres, Bruxelles en 2018, Berlin en 2017) : 400 € environ
-
-
-* Atelier Arts plastiques, Cinéma Audiovisuel ou Théâtre : 400 €
-
-
-* Stage écoles de commerce (vacances d'hiver) : 699 €
-
-
-* Stage pré-rentrée du lundi 26 au vendredi 30 août 2019 : 10 heures par matière
+* Atelier Cinéma Audiovisuel toutes classes : 400 € 2h/semaine à l'école 
+* Atelier Sport (nouveau à partir de la Rentrée 2021) toutes classes : 400 € 2h/ semaine au stade
+* Stage prépa concours écoles de commerce (vacances de février) : 699 €
+* Stage pré-rentrée août-septembre 2021 : 10 heures par matière
 
   279 € une matière / 499 € deux matières / 649 € trois matières
 
