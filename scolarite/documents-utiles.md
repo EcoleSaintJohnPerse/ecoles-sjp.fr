@@ -17,9 +17,11 @@ permalink: "/scolarite/documents-utiles/"
 
 ### Rentrée 2021/2022 : les inscriptions sont ouvertes !
 
+Plaquette de présentation de l'Ecole (année scolaire 2021/2022) : à venir 
+
 Prenez rendez-vous par téléphone (01 43 87 73 10) ou par mail (sjp018@gmail.com) pour nous rencontrer et envisager ensemble l'inscription de l'élève.
 
-Nous vous demanderons de nous parler du parcours de l'élève, ainsi que de nous adresser ses bulletins.
+Nous vous demanderons de nous parler du parcours de l'élève, ainsi que de nous adresser ses bulletins et une lettre de motivation. 
 
 A l'issue du rendez-vous, nous vous indiquerons si nous pouvons accueillir l'élève au sein de l'établissement et vous ferons dès lors parvenir le dossier d'inscription.
 
