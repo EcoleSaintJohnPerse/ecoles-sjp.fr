@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Première Management et Gestion (STMG)
+title: Première et Terminale Management et Gestion (STMG)
 permalink: "/filieres/premiere-management-et-gestion"
 redirect_from:
 - "/ecole-sjp/index.php/nos-filieres/seconde"
@@ -10,7 +10,7 @@ redirect_from:
 ---
 ![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
 
-#### **_Pourquoi faire sa Première STMG à Saint-John Perse :_**
+#### **_Pourquoi faire sa Première et sa Terminale STMG à Saint-John Perse :_**
 
 **La filière STMG (Sciences et Techniques de Management et de Gestion) s’adresse aux élèves intéressés par la réalité du fonctionnement des entreprises, les relations au travail, les nouveaux usages du numérique, le marketing, la communication d’entreprise, la gestion.**
 
@@ -26,7 +26,7 @@ redirect_from:
 
 **Des entraînements réguliers pour progresser :** les élèves de Première STMG ont dans leur emploi du temps deux plages de 2 heures de devoirs surveillés chaque semaine.
 
-**Un voyage de classe** est organisé avec les élèves de Première (Bruges, Châteaux de la Loire, Normandie), compris dans les frais de scolarité.
+**Un voyage de classe** est organisé avec les élèves (Bruges, Châteaux de la Loire, Normandie). 
 
 **Des sorties culturelles** (musée, cinéma, abonnement théâtre, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité de chacun.
 
