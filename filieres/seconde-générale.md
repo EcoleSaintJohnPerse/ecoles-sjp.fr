@@ -34,7 +34,7 @@ _BAC 2021 : En plus du tronc commun pour tous les élèves, nous proposons dès 
 * Histoire géographie, géopolitique et sciences politiques
 * Humanités, littératures et philosophie
 * Sciences Economiques et sociales
-* Langues et littératures étrangères (anglais)
+* Langues et littérature et civilisation étrangère (anglais)
 * Mathématiques
 * Sciences de la vie et de la terre
 * Physique-Chimie
