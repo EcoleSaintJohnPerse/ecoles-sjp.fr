@@ -26,13 +26,17 @@ redirect_from:
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
-**Dans ces circonstances particulières de confinement, nous pouvons nous rencontrer par le biais des moyens de communication. N’hésitez pas à nous contacter au numéro de l’Ecole :** [**01 43 87 73 10**](tel:+33143877310) **ou par** [**email**](mailto:sjp018@gmail.com) **afin de convenir d’un rendez-vous.**
+**N’hésitez pas à nous contacter au numéro de l’Ecole :** [**01 43 87 73 10**](tel:+33143877310) **ou par** [**email**](mailto:sjp018@gmail.com) **afin de convenir d’un rendez-vous.**
 
 Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l’admission.
 
 Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme.
 
-## Dossiers d’inscription à télécharger
+Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation. 
+
+Plaquette de présentation de l'Ecole (année scolaire 2021/2022) : à venir 
+
+## Dossiers d’inscription à télécharger :
 
 **Entrée en Seconde Générale et Technologique en septembre 2021 :** Dossier d'inscription à venir
 
