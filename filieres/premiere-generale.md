@@ -10,13 +10,11 @@ redirect_from:
 ---
 ![Seconde Générale - École Saint John Perse](/images/groupe-secondes.jpg)
 
-> 2019 année de mise en place du nouveau lycée. L'organisation des études en classe de Première prévoit un tronc commun de matières auquel s'ajoutent 3 spécialités au choix des élèves.
-
-**Les élèves travaillent en petits effectifs** (moins de 24 élèves par classe).
-
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/_GEvvb_4Hjg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/h63L_MjrlT8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Les élèves travaillent en petits effectifs** (moins de 24 élèves par classe).
 
 **Des entraînements réguliers pour progresser :** les élèves de Première ont dans leur emploi du temps deux plages de 2 h de devoirs surveillés chaque semaine.
 
