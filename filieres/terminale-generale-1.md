@@ -22,12 +22,13 @@ En Terminale, la réforme du bac offre **trois types d'enseignements** :
 * Des **disciplines de spécialité** choisies par l'élève et s'accentuant entre la première et la terminale (**trois disciplines en classe de première puis deux en terminale parmi les trois suivies en première**). Ces disciplines bénéficient d'horaires significatifs permettant de proposer des programmes ambitieux et de donner du temps aux élèves pour les apprentissages. Des enseignements facultatifs permettront, en outre, à l'élève de compléter son parcours, et comprendre les grands défis du monde contemporain.
 * Un **temps d'aide à l'orientation tout au long du lycée** pour préparer les choix de parcours et, à terme, l'entrée dans l'enseignement supérieur. Les élèves sont accompagnés selon les horaires prévus (rendez-vous orientation en décembre, février et avril).
 
-L’école Saint-John Perse propose sept spécialités sur les 12 proposées au niveau national :
+L’école Saint-John Perse propose 8 spécialités sur les 12 proposées au niveau national :
 
-* Spécialité Langue, Littérature, et Civilisation Etrangère Anglais
+* Spécialité Langue, Littérature, et Civilisation Etrangère (LLCE Anglais)
 * Spécialité Art Cinéma Audiovisuel
 * Spécialité Humanités – Littérature – Philosophie
 * Spécialité Histoire-Géographie, Géopolitique, Sciences Politiques
+* Spéciliaté Sciences Economiques et Sociales
 * Spécialité Mathématiques
 * Spécialité Physique-Chimie
 * Spécialité Sciences et Vie de la Terre
