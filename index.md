@@ -32,14 +32,12 @@ Les notes et avis pédagogiques du conseil de classe sont des éléments importa
 
 Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme.
 
-Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation. 
+Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
 
-Plaquette de présentation de l'Ecole (année scolaire 2021/2022) : à venir 
+Plaquette de présentation de l'Ecole (année scolaire 2021/2022) : à venir
 
 ## Dossiers d’inscription à télécharger :
 
-**Entrée en Seconde Générale et Technologique en septembre 2021 :** Dossier d'inscription à venir
-
-**Entrée en Première Générale ou STMG en septembre 2021 :** Dossier d'inscription à venir
-
-**Entrée en Terminale Générale ou STMG en septembre 2021 :** Dossier d'inscription à venir
+* Entrée en Seconde Générale et Technologique en septembre 2021 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2021_2022.pdf)
+* Entrée en Première Générale ou STMG en septembre 2021 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2021_2022.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2021 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
