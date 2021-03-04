@@ -28,7 +28,7 @@ L’école Saint-John Perse propose 8 spécialités sur les 12 proposées au niv
 * Spécialité Art Cinéma Audiovisuel
 * Spécialité Humanités – Littérature – Philosophie
 * Spécialité Histoire-Géographie, Géopolitique, Sciences Politiques
-* Spéciliaté Sciences Economiques et Sociales
+* Spécialité Sciences Economiques et Sociales
 * Spécialité Mathématiques
 * Spécialité Physique-Chimie
 * Spécialité Sciences et Vie de la Terre
