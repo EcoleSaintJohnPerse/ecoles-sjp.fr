@@ -15,7 +15,7 @@ A Saint-John Perse, les élèves sont **accompagnés de manière individuelle da
 
 ## Pour réussir
 
-* Les classes sont organisées en **petits effectifs, entre 10 et 20 élèves**, ce qui favorise un vrai suivi.
+* Les classes sont organisées en **petits effectifs, entre 12 et 24 élèves**, ce qui favorise un vrai suivi.
 * Les professeurs **échangent régulièrement** avec les élèves.
 * Les rendez-vous avec la famille sont fréquents : **trois réunions sont organisées dans l'année, et plus si la famille le demande.**
 * Les **appréciations sont détaillées et concrètes** et ne sont pas de simples injonctions à travailler plus.
