@@ -18,9 +18,9 @@ redirect_from:
 
 Ils ont **des devoirs sur table** chaque semaine pour progresser.
 
-**Un stage en entreprise :** chaque année, les élèves de Seconde réalisent un stage d’une semaine dans l’entreprise de leur choix, donnant lieu à un rapport de stage et une soutenance.
+**Un stage en entreprise :** chaque année au mois de juin, les élèves de Seconde réalisent un stage d’une semaine dans l’entreprise de leur choix, donnant lieu à un rapport de stage et une soutenance.
 
-**La découverte des arts :** nous proposons aux élèves de Seconde de s'inscrire aux ateliers d'Arts plastiques et de Cinéma audiovisuel.
+**La découverte des arts :** nous proposons aux élèves de Seconde de s'inscrire à l'atelier de Cinéma audiovisuel (400 €/an, 2h/semaine). 
 
 **Un voyage de classe** est proposé aux élèves de Seconde (Bruges, Châteaux de la Loire, Normandie, Londres, etc.).
 
