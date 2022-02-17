@@ -26,7 +26,9 @@ redirect_from:
 
 **Des entraînements réguliers pour progresser :** les élèves de Première STMG ont dans leur emploi du temps deux plages de 2 heures de devoirs surveillés chaque semaine.
 
-**Un voyage de classe** est organisé avec les élèves (Bruges, Châteaux de la Loire, Normandie). 
+**Un voyage de classe** est organisé avec les élèves (Bruges, Châteaux de la Loire, Normandie).
+
+**Un stage en entreprise :** chaque année, les élèves de Première STMG réalisent un stage d’une semaine dans l’entreprise de leur choix, donnant lieu à un rapport de stage et une soutenance.
 
 **Des sorties culturelles** (musée, cinéma, abonnement théâtre, rencontres, conférences, promenades culturelles, etc.) pour développer l’ouverture et la curiosité de chacun.
 
