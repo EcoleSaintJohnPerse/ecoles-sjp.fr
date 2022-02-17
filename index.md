@@ -22,7 +22,9 @@ redirect_from:
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Inscriptions ouvertes pour la rentrée 2021/2022
+## Inscriptions ouvertes pour la rentrée 2022/2023
+
+La rentrée 2022/2023 se prépare dès aujourd'hui. 
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
@@ -36,8 +38,14 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 [Plaquette de présentation de l'Ecole (année scolaire 2021/2022)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2021-2022.pdf)
 
-## Dossiers d’inscription à télécharger
+## Dossiers d’inscription à télécharger :
 
-* Entrée en Seconde Générale et Technologique en septembre 2021 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2021_2022.pdf)
-* Entrée en Première Générale ou STMG en septembre 2021 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2021_2022.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2021 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
+* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2021_2022.pdf)
+* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2021_2022.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
+
+## Dates utiles à noter :
+
+###### Stage de pré-rentrée : du 29 août au 2 septembre 2022
+
+###### Rentrée des élèves : 5 septembre 2022 
