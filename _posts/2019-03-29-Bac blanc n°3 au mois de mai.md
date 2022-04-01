@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Dates du bac blanc
-date: 2019-03-29 13:20:50 +0000
----
+date: 2019-03-29T13:20:50.000+00:00
 
+---
 ### Dates du bac blanc n°3
 
 Dernier BAC BLANC de l'année, le bac blanc n°3 aura lieu à la rentrée des vacances scolaires de Printemps, du lundi 6 mai au vendredi 10 mai.
