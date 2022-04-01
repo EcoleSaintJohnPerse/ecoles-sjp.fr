@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Mars 2019 - Deux spectacles de théâtre'
-date: 2019-01-07 10:58:43 +0000
+title: Mars 2019 - Deux spectacles de théâtre
+date: 2019-01-07T10:58:43.000+00:00
+
 ---
 Madame, Monsieur, chers élèves,
 
