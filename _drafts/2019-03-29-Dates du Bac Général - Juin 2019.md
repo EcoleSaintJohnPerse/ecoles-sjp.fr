@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Dates du bac général - Juin 2019
-date: 2019-03-29 13:50:43 +0000
+date: 2019-03-29T13:50:43.000+00:00
+
 ---
 ### Session 2019 : dates des épreuves du Baccalauréat général
 
