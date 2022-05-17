@@ -36,13 +36,13 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 
 Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
 
-[Plaquette de présentation de l'Ecole (année scolaire 2021/2022)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2021-2022.pdf)
+[Plaquette de présentation de l'Ecole (année scolaire 2022-2023)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2022-2023.pdf)
 
 ## Dossiers d’inscription à télécharger :
 
-* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2021_2022.pdf)
-* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2021_2022.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
+* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2022_2023.pdf)
+* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2022_2023.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2022_2023.pdf)
 
 ## Dates utiles à noter :
 
