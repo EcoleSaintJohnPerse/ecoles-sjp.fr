@@ -64,7 +64,7 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Dates utiles à noter :
 
-### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 : [plaquette d'inscription ici]()
+### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 :[ plaquette d'inscription ici]()
 
 ### Pré-rentrée des élèves : vendredi 2 septembre 2022 à 14h (Seconde), 15h (Première générale et STMG) ou 16h30 (Terminale générale et STMG)
 
