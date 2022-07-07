@@ -59,7 +59,7 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 ## Dossiers d’inscription à télécharger :
 
 * Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici]()
-* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2021_2022.pdf)
+* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_premiere_2022_2023.pdf)
 * Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
 
 ## Dates utiles à noter :
