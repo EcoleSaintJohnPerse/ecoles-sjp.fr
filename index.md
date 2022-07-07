@@ -24,7 +24,7 @@ redirect_from:
 
 ## Félicitations à nos bacheliers 2022 !
 
-**Filière Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien**
+**Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
 
 D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 !
 
@@ -32,9 +32,9 @@ D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18
 
 Très bonnes notes également en Philosophie, EMC, Histoire-géographie, etc.
 
-Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc
+Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
 
-**Filière Technologique : 100% de réussite avec une Mention Assez Bien**
+**Filière Terminale STMG : 100% de réussite avec une Mention Assez Bien !**
 
 D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
 
@@ -64,8 +64,18 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Dates utiles à noter :
 
-### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 :[ plaquette d'inscription ici]()
+### Stage de pré-rentrée :
 
-### Pré-rentrée des élèves : vendredi 2 septembre 2022 à 14h (Seconde), 15h (Première générale et STMG) ou 16h30 (Terminale générale et STMG)
+#### du lundi 29 août au vendredi 2 septembre 2022 : [plaquette d'inscription ici]()
+
+### Pré-rentrée des élèves :
+
+#### vendredi 2 septembre 2022 :
+
+#### - à 14h en Seconde,
+
+#### - à 15h en Première générale et STMG,
+
+#### - à 16h30 en Terminale générale et STMG
 
 ### Rentrée des élèves : lundi 5 septembre 2022
