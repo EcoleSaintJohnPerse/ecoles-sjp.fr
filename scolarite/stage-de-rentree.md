@@ -37,4 +37,4 @@ Certains horaires de stages sont susceptibles d'être modifiés afin d'éviter t
 
 Le tarif : **279 € une matière, 499 € deux matières, 649 € trois matières.**
 
-[Inscription ici ]()
+[Inscription ici ](/uploads/stage-de-pre-rentree.pdf)
