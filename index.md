@@ -60,7 +60,7 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 * Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_seconde_2022_2023.pdf)
 * Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_premiere_2022_2023.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici]()
+* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_terminale_2022_2023.pdf)
 
 ## Dates utiles à noter :
 
