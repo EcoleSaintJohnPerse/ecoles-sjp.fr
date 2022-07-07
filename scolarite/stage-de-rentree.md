@@ -17,7 +17,7 @@ Chaque année, nous organisons des **stages de travail pendant les vacances scol
 
 ***
 
-## Stage de prérentrée : du jeudi 27 août au mercredi 2 septembre 2020
+## Stage de prérentrée : du lundi 29 août au vendredi 2 septembre 2022
 
 ### Prenez de l'élan pour la rentrée
 
@@ -36,3 +36,5 @@ Les stages se déroulent sur 5 jours, 2 heures par matière et par jour. Les emp
 Certains horaires de stages sont susceptibles d'être modifiés afin d'éviter tout chevauchement avec ceux de la rentrée des élèves. Une confirmation par mail sera faite la semaine du 26 août.
 
 Le tarif : **279 € une matière, 499 € deux matières, 649 € trois matières.**
+
+[Inscription ici ]()
