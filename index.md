@@ -54,18 +54,18 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 
 Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
 
-[Plaquette de présentation de l'Ecole (année scolaire 2021/2022)](/uploads/plaquette-2022-2023.pdf "Plaquette 22/23")
+[Plaquette de présentation de l'Ecole (année scolaire 2022/2023)](/uploads/plaquette-2022-2023.pdf "Plaquette 22/23")
 
 ## Dossiers d’inscription à télécharger :
 
-* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici]()
+* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_seconde_2022_2023.pdf)
 * Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_premiere_2022_2023.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici]()
 
 ## Dates utiles à noter :
 
-### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022
+### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 : plaquette d'inscription ici
 
-### Pré-rentrée des élèves : vendredi 2 septembre 2022
+### Pré-rentrée des élèves : vendredi 2 septembre 2022 à 14h (Seconde), 15h (Première générale et STMG) ou 16h30 (Terminale générale et STMG)
 
 ### Rentrée des élèves : lundi 5 septembre 2022
