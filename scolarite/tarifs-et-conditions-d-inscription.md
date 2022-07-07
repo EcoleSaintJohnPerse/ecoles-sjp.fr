@@ -13,11 +13,11 @@ redirect_from:
 ---
 ![Prix de la scolarité - Ecole Saint-John Perse](/images/musique.jpg)
 
-**Nos tarifs sont volontairement accessibles**. 
+**Nos tarifs sont volontairement accessibles**.
 
-Les frais d'inscription s'élèvent pour toutes les classes à 740 euros. 
+Les frais d'inscription s'élèvent pour toutes les classes à 740 euros.
 
-Les frais de scolarité sont payables mensuellement (sur 9 mois de septembre à mai) ou trimestriellement. 
+Les frais de scolarité sont payables mensuellement (sur 9 mois de septembre à mai) ou trimestriellement.
 
 ## Frais de scolarité annuels 2022/2023
 
@@ -33,12 +33,12 @@ Frais de scolarité selon cours suivis par l'élève
 
 ### Prix des activités annexes
 
-* Voyage scolaire dans une capitale européenne (Londres en 2019, Bruxelles en 2018, Berlin en 2017) : 400 € environ
+* Voyage scolaire dans une capitale européenne (Londres en 2019, Bruxelles en 2018, Berlin en 2017) : en 2022 : VENISE ! Plaquette ici !
 * Atelier Cinéma Audiovisuel toutes classes : 400 € en Seconde, inclus dans la scolarité en Première et Terminale : 2h/semaine à l'école
 * Stage prépa concours écoles de commerce (vacances de février) : 699 €
 * Stage prépa bac (vacances de Pâques 2022) : 240 € 8h/matière du lundi au jeudi
 * Stage pré-rentrée du 29 août au 2 septembre 2022 : 10 heures par matière
 
-  279 € une matière / 499 € deux matières / 649 € trois matières
+  279 € une matière / 499 € deux matières / 649 € trois matières. [Inscription ici. ](/uploads/stage-de-pre-rentree.pdf)
 
 ![Conditions d'inscription - Ecole Saint-John Perse](/images/deux-etudiants.jpg)
