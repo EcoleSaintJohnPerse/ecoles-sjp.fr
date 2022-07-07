@@ -22,6 +22,24 @@ redirect_from:
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Félicitations à nos bacheliers 2022 ! 
+
+**Filière Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien** 
+
+D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 !
+
+D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 !
+
+Très bonnes notes également en Philosophie, EMC, Histoire-géographie, etc. 
+
+Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc 
+
+**Filière Technologique : 100% de réussite avec une Mention Assez Bien**
+
+D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
+
+Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc. 
+
 ## Inscriptions ouvertes pour la rentrée 2022/2023
 
 La rentrée 2022/2023 se prépare dès aujourd'hui.
@@ -36,13 +54,13 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 
 Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
 
-[Plaquette de présentation de l'Ecole (année scolaire 2022-2023)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2022-2023.pdf)
+[Plaquette de présentation de l'Ecole (année scolaire 2021/2022)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2021-2022.pdf)
 
 ## Dossiers d’inscription à télécharger :
 
-* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2022_2023.pdf)
-* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2022_2023.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2022_2023.pdf)
+* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2021_2022.pdf)
+* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2021_2022.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2021_2022.pdf)
 
 ## Dates utiles à noter :
 
