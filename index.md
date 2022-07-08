@@ -20,9 +20,9 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-[https://youtu.be/cYOVMORfAis](https://youtu.be/cYOVMORfAis "https://youtu.be/cYOVMORfAis")
-
 ## Félicitations à nos bacheliers 2022 !
+
+La vidéo de nos bacheliers : [https://youtu.be/PM7KNnlOOZo](https://youtu.be/PM7KNnlOOZo "https://youtu.be/PM7KNnlOOZo")
 
 **Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
 
@@ -30,7 +30,7 @@ D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 !
 
 D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 !
 
-Très bonnes notes également en Philosophie, EMC, Histoire-géographie, etc.
+Très bonnes notes également en Philosophie, EMC, Histoire-géographie !
 
 Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
 
