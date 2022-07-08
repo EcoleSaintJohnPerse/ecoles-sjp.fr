@@ -20,7 +20,7 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-<iframe width="740" height="416" src="https://youtu.be-nocookie.com/embed/PM7KNnlOOZo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://youtube-nocookie.com/embed/PM7KNnlOOZo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Félicitations à nos bacheliers 2022 !
 
