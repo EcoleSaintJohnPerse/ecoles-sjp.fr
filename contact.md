@@ -16,7 +16,7 @@ Enseignement secondaire privé général et technologique
 14 rue Cavallotti, 75018 Paris  
 (Métro 2 et 13 Place de Clichy, Métro 13 La Fourche, nombreuses lignes de bus)
 
-**01 43 87 73 10** - [sjp018@gmail.com](mailto:sjp018@gmail.com)
+**01 43 87 73 10** ou **09 74 98 52 21** - [sjp018@gmail.com](mailto:sjp018@gmail.com)
 
 ***
 
@@ -26,11 +26,21 @@ Enseignement secondaire privé général et technologique
 <label for="classe">Classe demandée</label>
 <select name="classe" id="classe">
 <option></option>
-<option>Seconde générale et technologique</option>
+<option>Seconde générale</option>
 <option>Première STMG</option>
-<option>Première Générale</option>
+<option>Première L Cinéma</option>
+<option>Première L Arts plastiques</option>
+<option>Première L langues</option>
+<option>Première S</option>
+<option>Première ES</option>
+<option>Terminale L Cinema</option>
+<option>Terminale L Arts plastiques</option>
+<option>Terminale L langues</option>
+<option>Terminale S</option>
+<option>Terminale ES</option>
 <option>Terminale STMG</option>
-<option>Terminale Générale</option>
+<option>Prepa arts plastiques</option>
+<option>Prepa Sciences-Po</option>
 </select><br>
 <label for="etablissement">Etablissement d'origine</label><input type="text" name="etablissement"><br>
 <label for="email">Email</label><input type="email" name="email"><br>
