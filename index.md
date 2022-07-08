@@ -20,7 +20,7 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="416" src="[https://youtu.be/PM7KNnlOOZo](https://youtu.be/PM7KNnlOOZo "https://youtu.be/PM7KNnlOOZo")
 
 ## Félicitations à nos bacheliers 2022 !
 
@@ -39,6 +39,8 @@ Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecin
 D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
 
 Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
+
+<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Inscriptions ouvertes pour la rentrée 2022/2023
 
@@ -64,7 +66,7 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Dates utiles à noter :
 
-##### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 (2h/matière/jour soit 10h/matière). 
+##### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 (2h/matière/jour soit 10h/matière).
 
 #### Pré-rentrée des élèves :
 
