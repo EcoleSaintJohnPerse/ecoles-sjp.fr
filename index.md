@@ -66,7 +66,7 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Dates utiles à noter :
 
-##### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 (2h/matière/jour soit 10h/matière).
+##### Stage de pré-rentrée : du lundi 29 août au vendredi 2 septembre 2022 (2h/matière/jour soit 10h/matière). [Inscriptions ici](/uploads/stage-de-pre-rentree.pdf)
 
 #### Pré-rentrée des élèves vendredi 2 septembre 2022 :
 
