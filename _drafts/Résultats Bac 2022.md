@@ -1,0 +1,20 @@
+---
+
+---
+## Félicitations à nos bacheliers 2022 !
+
+**Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
+
+D’excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 !
+
+D’excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 !
+
+Très bonnes notes également en Philosophie, EMC, Histoire-géographie, etc.
+
+Poursuite d’études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
+
+**Filière Terminale STMG : 100% de réussite avec une Mention Assez Bien !**
+
+D’excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
+
+Poursuite d’études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
