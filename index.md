@@ -42,9 +42,9 @@ Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Co
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Inscriptions ouvertes pour la rentrée 2022/2023
+## Inscriptions ouvertes pour la rentrée prochaine :
 
-La rentrée 2022/2023 se prépare dès aujourd'hui.
+Il nous reste quelques places pour la rentrée 22/23.
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
