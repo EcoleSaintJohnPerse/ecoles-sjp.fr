@@ -22,7 +22,9 @@ redirect_from:
 
 ## Félicitations à nos bacheliers 2022 !
 
-La vidéo de nos bacheliers : [https://youtu.be/PM7KNnlOOZo](https://youtu.be/PM7KNnlOOZo "https://youtu.be/PM7KNnlOOZo")
+La vidéo de nos bacheliers : 
+
+<iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
 
