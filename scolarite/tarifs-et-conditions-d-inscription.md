@@ -19,19 +19,19 @@ Les frais d'inscription s'élèvent pour toutes les classes à 740 euros.
 
 Les frais de scolarité sont payables mensuellement (sur 9 mois de septembre à mai) ou trimestriellement.
 
-## Frais de scolarité annuels 2022/2023
+## Frais de scolarité annuels 2023/2024
 
-| Seconde | 6 050 € dont 740 € de frais d'inscription
+| Seconde | 6 410 € dont 740 € de frais d'inscription (soit 630 €/mois)
 
-| Première | 6 950 € dont 740 € de frais d'inscription
+| Première | 7 310 € dont 740 € de frais d'inscription (soit 730 €/mois)
 
-| Terminale | 6 950 € dont 740 € de frais d'inscription
+| Terminale | 7 310 € dont 740 € de frais d'inscription (soit 730 €/mois)
 
-### Frais de scolarité Horaires aménagés Sport/Etude, Art/Etude ou Chant, Musique et Danse/Etude
+### Frais de scolarité Horaires aménagés 
 
 Frais de scolarité selon cours suivis par l'élève
 
-### Prix des activités annexes
+### Prix des activités annexes 22/23
 
 * Voyage scolaire dans une capitale européenne (Londres en 2019, Bruxelles en 2018, Berlin en 2017) : en 2022 : VENISE ! [Plaquette ici !](/uploads/voyage-a-venise-oct-22-plaquette.pdf)
 * Atelier Cinéma Audiovisuel toutes classes : 400 € en Seconde, inclus dans la scolarité en Première et Terminale : 2h/semaine à l'école
