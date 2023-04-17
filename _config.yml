@@ -94,9 +94,6 @@ menus:
   - title: Documents à télécharger
     url: /scolarite/documents-utiles
     identifier: documents-utiles
-  - title: Cahier de texte en ligne
-    url: http://ecolesjp.free.fr/
-    identifier: cahier-de-texte
   - title: Stages 
     url: /scolarite/stage-de-rentree
     identifier: stage
