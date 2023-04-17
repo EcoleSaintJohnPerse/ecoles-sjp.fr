@@ -22,9 +22,7 @@ redirect_from:
 
 ## Félicitations à nos bacheliers 2022 !
 
-La vidéo de nos bacheliers : 
-
-<iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+La vidéo de nos bacheliers : [https://youtu.be/PM7KNnlOOZo](https://youtu.be/PM7KNnlOOZo "https://youtu.be/PM7KNnlOOZo")
 
 **Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
 
@@ -46,13 +44,9 @@ Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Co
 
 ## Inscriptions ouvertes pour la rentrée prochaine :
 
-Il nous reste quelques places pour la rentrée 22/23.
-
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
-**N’hésitez pas à nous contacter au numéro de l’Ecole afin de convenir d’un rendez-vous :** 
-- [**01 43 87 73 10**](tel:+33143877310) **ou** [**09 74 98 52 21**](tel:+33974985221) 
-- ou par [**email**](mailto:sjp018@gmail.com)
+**N’hésitez pas à nous contacter au numéro de l’Ecole :** [**01 43 87 73 10**](tel:+33143877310) **ou** [**09 74 98 52 21 **](tel:+33974985221)ou **par** [**email**](mailto:sjp018@gmail.com) **afin de convenir d’un rendez-vous.**
 
 Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l’admission.
 
@@ -64,18 +58,16 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Dossiers d’inscription à télécharger :
 
-* Entrée en Seconde Générale et Technologique en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_seconde_2022_2023.pdf)
-* Entrée en Première Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_premiere_2022_2023.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2022 : [Dossier d'inscription ici](/uploads/dossier-d-inscription_terminale_2022_2023.pdf)
+* Entrée en Seconde Générale et Technologique en septembre 2023 : Dossier d'inscription ici
+* Entrée en Première Générale ou STMG en septembre 2023 : Dossier d'inscription ici
+* Entrée en Terminale Générale ou STMG en septembre 2023 : Dossier d'inscription ici
 
 ## Dates utiles à noter :
 
-- **Stage de pré-rentrée** : du lundi 29 août au vendredi 2 septembre 2022 (2h/matière/jour soit 10h/matière). [Inscriptions ici](/uploads/stage-de-pre-rentree.pdf)
+##### Stage de pré-rentrée : 
 
-- **Pré-rentrée des élèves** : vendredi 2 septembre 2022,
+##### (2h/matière/jour soit 10h/matière). Inscriptions ici
 
-  - à 14h en Seconde,
-  - à 15h en Première générale et STMG,
-  - à 16h30 en Terminale générale et STMG
+#### Pré-rentrée des élèves :
 
-- **Rentrée des élèves** : lundi 5 septembre 2022
+#### Rentrée des élèves : 
