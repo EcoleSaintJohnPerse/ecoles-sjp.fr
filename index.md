@@ -58,16 +58,16 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Dossiers d’inscription à télécharger :
 
-* Entrée en Seconde Générale et Technologique en septembre 2023 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_seconde_2023_2024.pdf)
-* Entrée en Première Générale ou STMG en septembre 2023 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_premiere_2023_2024.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2023 : [Dossier d'inscription ici](https://ecoles-sjp.fr/uploads/fiche_inscription_terminale_2023_2024.pdf)
+* Entrée en Seconde Générale et Technologique en septembre 2023 : [Dossier d'inscription ici]()
+* Entrée en Première Générale ou STMG en septembre 2023 : [Dossier d'inscription ici]()
+* Entrée en Terminale Générale ou STMG en septembre 2023 : [Dossier d'inscription ici]()
 
 ## Dates utiles à noter :
 
-##### Stage de pré-rentrée : 
+##### Stage de pré-rentrée :
 
 ##### (2h/matière/jour soit 10h/matière). Inscriptions ici
 
 #### Pré-rentrée des élèves :
 
-#### Rentrée des élèves : 
+#### Rentrée des élèves :
