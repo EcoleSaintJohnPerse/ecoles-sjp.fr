@@ -18,6 +18,6 @@ Nous vous demanderons de nous parler du parcours de l'élève, ainsi que de nous
 
 A l'issue du rendez-vous, nous vous indiquerons si nous pouvons accueillir l'élève au sein de l'établissement et vous ferons dès lors parvenir le dossier d'inscription.
 
-* Dossier d'inscription Seconde 2023
-* Dossier d'inscription Première 2023
+* [Dossier d'inscription Seconde 2023](/uploads/fiche_inscription_seconde_2023_2024.pdf)
+* [Dossier d'inscription Première 2023](/uploads/fiche_inscription_premiere_2023_2024.pdf)
 * Dossier d'inscription Terminale 2023
