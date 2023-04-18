@@ -20,4 +20,4 @@ A l'issue du rendez-vous, nous vous indiquerons si nous pouvons accueillir l'él
 
 * [Dossier d'inscription Seconde 2023](/uploads/fiche_inscription_seconde_2023_2024.pdf)
 * [Dossier d'inscription Première 2023](/uploads/fiche_inscription_premiere_2023_2024.pdf)
-* Dossier d'inscription Terminale 2023
+* [Dossier d'inscription Terminale 2023](/uploads/fiche_inscription_terminale_2023_2024.pdf)
