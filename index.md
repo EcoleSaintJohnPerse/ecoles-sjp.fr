@@ -20,9 +20,12 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
+<iframe width="740" height="416" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Félicitations à nos bacheliers 2022 !
 
-La vidéo de nos bacheliers : [https://youtu.be/PM7KNnlOOZo](https://youtu.be/PM7KNnlOOZo "https://youtu.be/PM7KNnlOOZo")
+La vidéo de nos bacheliers : 
+<iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
 
