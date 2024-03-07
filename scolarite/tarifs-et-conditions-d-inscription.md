@@ -19,13 +19,11 @@ Les frais d'inscription s'élèvent pour toutes les classes à 740 euros.
 
 Les frais de scolarité sont payables mensuellement (sur 9 mois de septembre à mai) ou trimestriellement.
 
-## Frais de scolarité annuels 2023/2024
+## Frais de scolarité annuels 2024/2025
 
-| Seconde | 6 410 € dont 740 € de frais d'inscription (soit 630 €/mois)
-
-| Première | 7 310 € dont 740 € de frais d'inscription (soit 730 €/mois)
-
-| Terminale | 7 310 € dont 740 € de frais d'inscription (soit 730 €/mois)
+- Seconde : 6 770 € dont 740 € de frais d'inscription (soit 630 €/mois)
+- Première : 7 760 € dont 740 € de frais d'inscription (soit 780 €/mois)
+- Terminale : 7 760 € dont 740 € de frais d'inscription (soit 780 €/mois)
 
 ### Frais de scolarité Horaires aménagés
 
