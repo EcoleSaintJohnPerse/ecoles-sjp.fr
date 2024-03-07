@@ -20,8 +20,6 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Dossiers d’inscription à télécharger 2024-2025
 
 * Entrée en Seconde Générale et Technologique en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2024_2025.pdf)
@@ -30,15 +28,16 @@ redirect_from:
 
 ## Félicitations à nos bacheliers 2023 !
 
-La vidéo de nos bacheliers : 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
+### Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !
 
 - D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 ! D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 ! Très bonnes notes également en Philosophie, EMC, Histoire-géographie !
 - Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
 
-**Filière Terminale STMG : 100% de réussite avec une Mention Assez Bien !**
+<iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Filière Terminale STMG : 100% de réussite avec une Mention Assez Bien !
 
 - D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
 - Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
