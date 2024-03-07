@@ -22,26 +22,26 @@ redirect_from:
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Félicitations à nos bacheliers 2022 !
+## Dossiers d’inscription à télécharger 2024-2025
+
+* Entrée en Seconde Générale et Technologique en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2024_2025.pdf)
+* Entrée en Première Générale ou STMG en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2024_2025.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2024_2025.pdf)
+
+## Félicitations à nos bacheliers 2023 !
 
 La vidéo de nos bacheliers : 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !**
 
-D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 !
-
-D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 !
-
-Très bonnes notes également en Philosophie, EMC, Histoire-géographie !
-
-Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
+- D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 ! D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 ! Très bonnes notes également en Philosophie, EMC, Histoire-géographie !
+- Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
 
 **Filière Terminale STMG : 100% de réussite avec une Mention Assez Bien !**
 
-D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
-
-Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
+- D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
+- Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -58,12 +58,6 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
 
 [Plaquette de présentation de l'Ecole (année scolaire 2022/2023)](/uploads/plaquette-2022-2023.pdf "Plaquette 22/23")
-
-## Dossiers d’inscription à télécharger :
-
-* Entrée en Seconde Générale et Technologique en septembre 2023 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2023_2024.pdf)
-* Entrée en Première Générale ou STMG en septembre 2023 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2023_2024.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2023 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2023_2024.pdf)
 
 ## Dates utiles à noter :
 
