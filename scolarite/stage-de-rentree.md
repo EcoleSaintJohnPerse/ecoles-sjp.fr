@@ -17,7 +17,7 @@ Chaque année, nous organisons des **stages de travail pendant les vacances scol
 
 ***
 
-## Stage de prérentrée : du lundi 29 août au vendredi 2 septembre 2022
+## Stage de prérentrée : du lundi 29 août au vendredi 2 septembre 2022 
 
 ### Prenez de l'élan pour la rentrée
 
