@@ -10,7 +10,7 @@ permalink: "/scolarite/documents-utiles/"
 * [Contrat de vie scolaire (règlement intérieur)](/images/Contrat_vie_scolaire_2018_2019.pdf)
 * [Plaquette de présentation de l'Ecole (**année scolaire 2021/2022**)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2021-2022.pdf)
 
-### Rentrée 2023/2024 : les inscriptions sont ouvertes !
+### Rentrée 2024/2025 : les inscriptions sont ouvertes !
 
 Prenez rendez-vous par téléphone ([01 43 87 73 10](tel:0143877310)) ou par mail ([sjp018@gmail.com](mailto:sjp018@gmail.com)) pour nous rencontrer et envisager ensemble l'inscription de l'élève.
 
