@@ -55,10 +55,11 @@ $on-laptop:        800px !default;
 	background-color: #b80000;
 	color: whitesmoke;
 	font-weight: bold;
+	padding: 20px 20px 10px 20px;
 }
 
 .bandeau p {
-	text-align: center;
+	text-align: center !important;
 }
 
 #main-logo {
