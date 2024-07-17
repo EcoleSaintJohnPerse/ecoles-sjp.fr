@@ -23,7 +23,7 @@ redirect_from:
 <div class="bandeau">
 L'Ecole Saint-John Perse est en vacances jusqu'au 26 août mais nous restons joignable : 
 
-[06 31 22 23 60](tel:+33631222360) (sms) / [sjp018@gmail.com](mailto:sjp018@gmail.com)
+06 31 22 23 60 (sms) ou sjp018@gmail.com 
 
 Il reste quelques places disponibles, n'hésitez pas à nous contacter !
 </div>
