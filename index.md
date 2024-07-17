@@ -20,6 +20,12 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
+<div class="bandeau">
+L'Ecole Saint-John Perse est en vacances jusqu'au 26 août mais nous restons joignable :
+[06 31 22 23 60](tel:+33631222360) (sms) / [sjp018@gmail.com](mailto:sjp018@gmail.com)
+Il reste quelques places disponibles, n'hésitez pas à nous contacter !
+</div>
+
 ## Dossiers d’inscription à télécharger 2024-2025
 
 * Entrée en Seconde Générale et Technologique en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2024_2025.pdf)
