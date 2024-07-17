@@ -21,8 +21,8 @@ redirect_from:
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
 <div class="bandeau">
-L'Ecole Saint-John Perse est en vacances jusqu'au 26 août mais nous restons joignable :
-[06 31 22 23 60](tel:+33631222360) (sms) / [sjp018@gmail.com](mailto:sjp018@gmail.com)
+L'Ecole Saint-John Perse est en vacances jusqu'au 26 août mais nous restons joignable :  
+[06 31 22 23 60](tel:+33631222360) (sms) / [sjp018@gmail.com](mailto:sjp018@gmail.com)  
 Il reste quelques places disponibles, n'hésitez pas à nous contacter !
 </div>
 
