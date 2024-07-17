@@ -51,6 +51,13 @@ $on-laptop:        800px !default;
 
 // custom:
 
+.bandeau {
+	background-color: #b80000;
+	color: whitesmoke;
+	font-weight: bold;
+	text-align: center;
+}
+
 #main-logo {
 	display: inline-block;
 	max-width: 200px;
