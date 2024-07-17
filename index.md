@@ -26,7 +26,13 @@ redirect_from:
 * Entrée en Première Générale ou STMG en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2024_2025.pdf)
 * Entrée en Terminale Générale ou STMG en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2024_2025.pdf)
 
-## Félicitations à nos bacheliers 2023 !
+## Félicitations à nos bacheliers 2024 !
+
+**Bravo !** 100% de réussite pour les STMG et 90% pour la filiere générale !
+
+<iframe width="740" height="416" src="https://www.youtube.com/embed/CGLhMan_VvU?si=eEoOrsCQG1gdVb3x" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Retour sur les réussites de 2023 :
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
