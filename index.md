@@ -54,7 +54,7 @@ Retour sur les réussites de 2023 :
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
-**N’hésitez pas à nous contacter au numéro de l’Ecole :** [**01 43 87 73 10**](tel:+33143877310) **ou** [**09 74 98 52 21 **](tel:+33974985221)ou **par** [**email**](mailto:sjp018@gmail.com) **afin de convenir d’un rendez-vous.**
+**N’hésitez pas à nous contacter au numéro de l’école : [01 43 87 73 10](tel:+33143877310) ou [09 74 98 52 21](tel:+33974985221) ou encore par [mail](mailto:sjp018@gmail.com) afin de convenir d’un rendez-vous.**
 
 Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l’admission.
 
