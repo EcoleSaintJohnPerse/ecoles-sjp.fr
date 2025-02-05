@@ -38,6 +38,13 @@ L'Histoire de l’Art est enseignée également, pour ancrer la pratique dans **
 * Cet atelier permet de **présenter l'option facultative** au Bac (coefficient 2) et de se préparer aux **concours des Ecoles d'arts post-Bac.**
 * **Le montant de l'inscription est de 300 €.**
 
+## L' atelier Philo-Théâtre
+L'établissement propose aux élèves de toutes les classes de participer à des ateliers construits autour de la Philosophie et du Théâtre : la philosophie pour questionner les grands concepts et le théâtre pour corporaliser ces questionnements. Ces ateliers ne sont pas notés, cela permet aux élèves de se saisir de leurs capacités réflexive et interprétative sereinement.
+ 
+Pour débuter une séquence (se déroulant sur plusieurs ateliers) autour d'un concept bien défini, la professeure s'appuie sur une sélection de textes écrits par des auteurs contemporains peu étudiés en classe (apportant donc à l'élève une culture générale supplémentaire) tels que Claudine Galea, Alain Badiou, Wajdi Mouawad, Lorraine de Sagazan… Chaque texte est, dans un premier temps, lu et découvert puis questionné et débattu pour ensuite permettre une lecture interprétée et éclairée. 
+ 
+L'ambition est de créer un spectacle avec les élèves de l'atelier et permettre une représentation publique en fin d'année. L’atelier se déroule sur des séances de 2 heures/semaine dispensées d'octobre à avril. Le montant de l’inscription est de 400 €.
+
 ## L'atelier Théatre
 
 * **L'atelier se déroule sur des séances hebdomadaires** de 2 heures dispensées de novembre à mai.
