@@ -20,17 +20,31 @@ redirect_from:
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
 
-<div class="bandeau">
+<!--<div class="bandeau">
 <p>L'Ecole Saint-John Perse est en vacances jusqu'au 26 août mais nous restons joignable :</p>
 <p>06 31 22 23 60 (sms) ou sjp018@gmail.com</p>
 <p>Il reste quelques places disponibles, n'hésitez pas à nous contacter !</p>
-</div>
+</div>-->
 
-## Dossiers d’inscription à télécharger 2024-2025
+## Inscriptions ouvertes pour la rentrée prochaine
 
-* Entrée en Seconde Générale et Technologique en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2024_2025.pdf)
-* Entrée en Première Générale ou STMG en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2024_2025.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2024 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2024_2025.pdf)
+Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
+
+**N’hésitez pas à nous contacter au numéro de l’école : [01 43 87 73 10](tel:+33143877310) ou [09 74 98 52 21](tel:+33974985221) ou encore par [mail](mailto:sjp018@gmail.com) afin de convenir d’un rendez-vous.**
+
+Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l’admission.
+
+Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme.
+
+Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
+
+[Plaquette de présentation de l'Ecole (année scolaire 2025/2026)](/uploads/plaquette-2025-2026.pdf "Plaquette 25/26")
+
+## Dossiers d’inscription à télécharger 2025-2026
+
+* Entrée en Seconde Générale et Technologique en septembre 2025 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2025_2026.pdf)
+* Entrée en Première Générale ou STMG en septembre 2025 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2025_2026.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2025 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2025_2026.pdf)
 
 ## Félicitations à nos bacheliers 2024 !
 
@@ -55,20 +69,6 @@ Retour sur les réussites de 2023 :
 - Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Inscriptions ouvertes pour la rentrée prochaine :
-
-Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
-
-**N’hésitez pas à nous contacter au numéro de l’école : [01 43 87 73 10](tel:+33143877310) ou [09 74 98 52 21](tel:+33974985221) ou encore par [mail](mailto:sjp018@gmail.com) afin de convenir d’un rendez-vous.**
-
-Les notes et avis pédagogiques du conseil de classe sont des éléments importants qui nous renseignent sur le niveau des élèves, mais ne sont pas les seuls éléments pris en compte dans l’admission.
-
-Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qualités parfois ignorées, leurs centres d’intérêt. Ce qui nous intéresse, au delà du niveau, c’est la capacité de l’élève et des familles à mettre en place une démarche de progrès sur le long terme.
-
-Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
-
-[Plaquette de présentation de l'Ecole (année scolaire 2022/2023)](/uploads/plaquette-2022-2023.pdf "Plaquette 22/23")
 
 ## Dates utiles à noter :
 
