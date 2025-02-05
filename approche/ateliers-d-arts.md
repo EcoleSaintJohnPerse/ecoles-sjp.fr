@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateliers d'arts plastiques, de cinéma ou de théatre
+title: Ateliers de cinéma ou philo-théâtre
 permalink: /approche/ateliers-d-arts/
 
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 ![Ateliers d'Arts - École Saint John Perse](/images/atelier-cinema.jpg)
 
-A Saint-John Perse, nous proposons aux élèves de participer, quelque soit leur filière, à des **ateliers d'Art plastiques, de Cinéma ou de Théâtre**, afin de développer leurs compétences artistiques et leur curiosité, de préparer les options facultatives ou obligatoires du Baccalauréat.
+A Saint-John Perse, nous proposons aux élèves de participer, quelque soit leur filière, à des **ateliers de Cinéma ou de Théâtre**, afin de développer leurs compétences artistiques et leur curiosité, de préparer les options facultatives ou obligatoires du Baccalauréat.
 
 ## L'atelier Cinéma Audiovisuel
 
@@ -22,21 +22,8 @@ L’atelier de Cinéma permet à ses participants de **contribuer de bout en bou
 Les ateliers mettent l'accent sur **la mise en pratique, dans une approche cultivée du 7ème art** qui permet de revenir sur les effets, techniques, clichés, utilisés par les professionnels.
 
 * **L'atelier se déroule sur des séances** hebdomadaires de 2 heures dispensées d'octobre à avril.
-* Cet atelier permet de **préparer l'option facultative de Cinéma Audiovisuel au Bac (coefficient 2).**
-* L'atelier comprend 3 jours de tournage, en plus des séances.
-* **Le montant de l'inscription à l'atelier est de 300€.**
-
-## L'atelier Arts Plastiques
-
-**L’atelier d’Arts plastiques** permet à ses participants d’approcher différents courants, styles, techniques artistiques, dans la perspective de **réaliser une œuvre exposée chaque année.**
-
-**La peinture, la sculpture, la gravure et le dessin sont abordés équitablement**, et les participants ont la liberté de développer la technique qu’ils souhaitent.
-
-L'Histoire de l’Art est enseignée également, pour ancrer la pratique dans **une approche cultivée** indispensable au développement de toute technique artistique. **Les élèves visitent des expositions régulièrement.**
-
-* **L'atelier se déroule sur des séances hebdomadaires** de 2 heures dispensées de novembre à mai.
-* Cet atelier permet de **présenter l'option facultative** au Bac (coefficient 2) et de se préparer aux **concours des Ecoles d'arts post-Bac.**
-* **Le montant de l'inscription est de 300 €.**
+* Cet atelier permet de **préparer l'option facultative de Cinéma Audiovisuel au Bac (coefficient 1 en premiere et 1 en Terminale).**
+* **Le montant de l'inscription à l'atelier est de 400€.**
 
 ## L' atelier Philo-Théâtre
 L'établissement propose aux élèves de toutes les classes de participer à des ateliers construits autour de la Philosophie et du Théâtre : la philosophie pour questionner les grands concepts et le théâtre pour corporaliser ces questionnements. Ces ateliers ne sont pas notés, cela permet aux élèves de se saisir de leurs capacités réflexive et interprétative sereinement.
@@ -45,8 +32,5 @@ Pour débuter une séquence (se déroulant sur plusieurs ateliers) autour d'un c
  
 L'ambition est de créer un spectacle avec les élèves de l'atelier et permettre une représentation publique en fin d'année. L’atelier se déroule sur des séances de 2 heures/semaine dispensées d'octobre à avril. Le montant de l’inscription est de 400 €.
 
-## L'atelier Théatre
-
 * **L'atelier se déroule sur des séances hebdomadaires** de 2 heures dispensées de novembre à mai.
-* Cet atelier permet de **présenter l'option facultative** au Bac (coefficient 2).
-* **Le montant de l'inscription est de 300 €.**
+* **Le montant de l'inscription est de 400 €.**
