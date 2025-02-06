@@ -6,8 +6,7 @@ permalink: "/scolarite/documents-utiles/"
 ---
 ### Documents généraux :
 
-* [Contrat de vie scolaire (règlement intérieur)](/images/Contrat_vie_scolaire_2018_2019.pdf)
-* [Plaquette de présentation de l'Ecole (**année scolaire 2025/2026**)](https://ecoles-sjp.fr/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf)
+* [Plaquette de présentation de l'Ecole (**année scolaire 2025/2026**)](/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf)
 
 ### Rentrée 2025/2026 : les inscriptions sont ouvertes !
 
