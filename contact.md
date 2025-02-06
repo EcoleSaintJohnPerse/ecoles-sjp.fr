@@ -21,8 +21,8 @@ Enseignement secondaire privé général et technologique
 ***
 
 <form action="https://formspree.io/sjp018@gmail.com" method="POST" style="margin: 20px;">
-<label for="nom">Nom</label><input type="text" name="nom"><br>
-<label for="prenom">Prénom</label><input type="text" name="prenom"><br>
+<label for="nom">Nom et prénom du parent</label><input type="text" name="nom"><br>
+<label for="prenom">Nom et prénom de l'élève</label><input type="text" name="prenom"><br>
 <label for="classe">Classe demandée</label>
 <select name="classe" id="classe">
 <option></option>
