@@ -16,6 +16,14 @@ redirect_from:
 - "/prepascpo/5formules"
 - "/prepascpo/accueilprepa"
 - "/prepascpo/calendrier-2018-2019"
+- "/prepa/prepa-concours-communs/"
+- "/prepa/prepa-au-concours-de-l-ecole-de-gendarmerie"
+- "/prepa/prepa-concours-esa-ecole-de-sante-des-armees/"
+- "/prepa/prepa-concours-communs/"
+- "/prepa/prepa-au-concours-de-l-ecole-de-gendarmerie"
+- "/prepa/prepa-concours-esa-ecole-de-sante-des-armees/"
+- "/prepa/prepa-aux-concours-des-ecoles-d-ingenieur-post-bac/"
+- "/prepa/prepa-crpe/"
 
 ---
 À l’École Saint-John Perse, nous portons depuis 1982 un projet éducatif fondé sur l’épanouissement des élèves et la réussite scolaire. Les relations pédagogiques, d’aide et d’autorité, créent les conditions du succès de notre projet.
