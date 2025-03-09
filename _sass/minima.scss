@@ -167,3 +167,12 @@ input, select, textarea {
   text-decoration: none;
 }
 
+.yt-container {
+    display: flex;
+    justify-content: center;
+}
+
+.yt-container iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
