@@ -34,7 +34,7 @@ redirect_from:
 <p>Il reste quelques places disponibles, n'hésitez pas à nous contacter !</p>
 </div>-->
 
-## Inscriptions ouvertes pour la rentrée prochaine 
+## Inscriptions ouvertes pour la rentrée prochaine
 
 Avant d’envisager une inscription dans l’établissement, nous sommes heureux de rencontrer l’élève et la famille.
 
