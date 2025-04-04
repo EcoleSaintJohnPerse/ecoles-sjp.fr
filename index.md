@@ -58,32 +58,23 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 **Bravo !** 100% de réussite pour les STMG et 90% pour la filiere générale !
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/CGLhMan_VvU?si=eEoOrsCQG1gdVb3x" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;"><iframe style="aspect-ratio: 16 / 9; width: 100% !important;" src="https://www.youtube.com/embed/CGLhMan_VvU?si=eEoOrsCQG1gdVb3x" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Retour sur les réussites de 2023 :
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;"><iframe style="aspect-ratio: 16 / 9; width: 100% !important;" src="https://www.youtube.com/embed/dVHMcEqsXps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### Filière Terminale Générale : 80% de réussite avec 2 mentions Bien et 7 mentions Assez Bien !
 
 - D'excellentes notes au Grand Oral : 16/20 (2 élèves), 17/20, 18/20, 20/20 ! D'excellentes notes en spécialité Anglais LLCE : 15/20, 16/20 (3 élèves), 18/20 (2 élèves), 20/20 ! Très bonnes notes également en Philosophie, EMC, Histoire-géographie !
 - Poursuite d'études : Double cursus à la Sorbonne, Ecoles de Commerce, Médecine, Droit, Ecoles de Cinéma, BTS, etc.
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/PM7KNnlOOZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;"><iframe style="aspect-ratio: 16 / 9; width: 100% !important;" src="https://www.youtube.com/embed/PM7KNnlOOZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### Filière Terminale STMG : 100% de réussite avec une Mention Assez Bien !
 
 - D'excellentes notes au Grand Oral : 15/20, 16/20 (2 élèves), 17/20 (2élèves), 18/20 !
 - Poursuite d'études : BTS Immobilier, BTS Assurance, Ecole de Mode, Ecoles de Commerce, Sport de Haut Niveau, etc.
 
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;"><iframe style="aspect-ratio: 16 / 9; width: 100% !important;" src="https://www.youtube-nocookie.com/embed/cYOVMORfAis?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Dates utiles à noter :
-
-##### Stage de pré-rentrée :
-
-##### (2h/matière/jour soit 10h/matière). Inscriptions ici
-
-#### Pré-rentrée des élèves :
-
-#### Rentrée des élèves :
