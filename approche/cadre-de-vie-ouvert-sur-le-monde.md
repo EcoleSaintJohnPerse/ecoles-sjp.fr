@@ -35,7 +35,11 @@ La **présence et les retards constituent un point de vigilance particulier,** e
 
 Les devoirs personnels sont **planifiés à l'aide d'un cahier de texte en ligne**, le coach individuel participe à l'organisation du travail de l'élève.
 
+<<<<<<< HEAD
 ![En cours à l'École Saint John Perse](/images/en-cours.webp)
+=======
+![En cours à l'École Saint John Perse](/images/en-cours.jpg)
+>>>>>>> 373a1ce3879df187f9476f4260fa2ecd1b8f2af8
 
 ***
 
@@ -49,7 +53,11 @@ Nous avons à coeur de proposer des activités différentes (**sorties et voyage
 
 Ces voyages sont un moment d'éveil et de curiosité et construisent des souvenirs impérissables !
 
+<<<<<<< HEAD
 ![Voyage de classe - École Saint John Perse](/images/voyage.webp)
+=======
+![Voyage de classe - École Saint John Perse](/images/voyage.jpg)
+>>>>>>> 373a1ce3879df187f9476f4260fa2ecd1b8f2af8
 
 Nos destinations :  **Venise, Milan, Turin, Bruges, Bruxelles, les Châteaux de la Loire, les Plages du Débarquement, Florence,** **Berlin, Le festival Premiers Plans d'Angers.**
 

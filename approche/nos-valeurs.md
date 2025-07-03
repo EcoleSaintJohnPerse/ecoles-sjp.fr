@@ -34,7 +34,11 @@ Nous croyons que l'apprentissage est une ouverture aux autres et au monde. Les m
 
 Les élèves sont comme les adultes : ils travaillent mieux lorsqu'ils se sentent pleinement vivre au travail, et pas lorsqu'ils regardent leur montre. La remise en question permanente de nos enseignements, de leur actualité, de leur intérêt, la diversité des sorties scolaires et des voyages proposés doivent permettre de trouver, ou retrouver, du plaisir au lycée.  Réussir son lycée, c'est aussi construire les meilleurs souvenirs possibles !
 
+<<<<<<< HEAD
 <img src="/images/approche-2.webp">
+=======
+<img src="/images/approche-2.jpg">
+>>>>>>> 373a1ce3879df187f9476f4260fa2ecd1b8f2af8
 
 # Qu'est-ce qu'un bon lycée ? par P. Andreo, Directeur
 
