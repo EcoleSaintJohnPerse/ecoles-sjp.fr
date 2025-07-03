@@ -1,0 +1,178 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout"
+;
+
+// custom:
+
+.bandeau {
+	background-color: #b80000;
+	color: whitesmoke;
+	font-weight: bold;
+	padding: 20px 20px 10px 20px;
+}
+
+.bandeau p {
+	text-align: center !important;
+}
+
+#main-logo {
+	display: inline-block;
+	max-width: 200px;
+	float: left;
+}
+
+h1, h2, h3 {
+	color: #800000;
+}
+
+.site-nav {
+  line-height: 30px;
+}
+
+.post-content p, .home p {
+  text-align: justify;
+}
+
+.page-link {
+  padding: 0 5px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 360px;
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 8px;
+    display: block;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+@media screen and (max-width: 600px) {
+  .dropdown-content {
+    display: block;
+    position: relative;
+  }
+  .site-nav label[for="nav-trigger"] {
+    min-width: 0;
+  }
+  .dropdown-content a {
+    font-size: 15px;
+    line-height: 18px;
+  }
+}
+
+label {
+  display: inline-block;
+  min-width: 180px;
+}
+
+input, select, textarea {
+  display: inline-block;
+  width: 300px;
+  padding: 6px 12px;
+  font-size: 14px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.footer-col {
+  width: -webkit-calc(30% - (30px / 2));
+  width: calc(30% - (30px / 2));
+}
+
+.footer-col-wrapper h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.site-title {
+  float: right;
+}
+
+.site-subtitle {
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: right;
+  color: black;
+}
+
+.site-subtitle:hover {
+  text-decoration: none;
+}
+
+.yt-container {
+    display: flex;
+    justify-content: center;
+}
+
+.yt-container iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
