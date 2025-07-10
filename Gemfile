@@ -29,13 +29,8 @@ end
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-<<<<<<< HEAD
 #gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 ruby "3.2.8"
 
 gem 'kramdown-parser-gfm'
-=======
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
->>>>>>> 373a1ce3879df187f9476f4260fa2ecd1b8f2af8
