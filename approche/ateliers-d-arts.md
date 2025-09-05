@@ -15,7 +15,7 @@ A Saint-John Perse, nous proposons aux élèves de participer, quelque soit leur
 
 L’atelier de Cinéma permet à ses participants de **contribuer de bout en bout à la création d’un film** en commun (écriture, réalisation, post-production, promotion), diffusé en fin d’année, en choisissant de développer un des métiers du cinéma (comédie, réalisation, écriture, lumière, cadrage, montage).
 
-[Allez voir les films de nos élèves !]([url](https://vimeo.com/sjpcav))
+[Allez voir les films de nos élèves !](https://vimeo.com/sjpcav)
 
 <iframe src="https://player.vimeo.com/video/168553780?portrait=0" width="400" height="300" allowfullscreen="true" frameborder="0" scrolling="no"></iframe>
 
