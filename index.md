@@ -46,7 +46,7 @@ Nous aimons rencontrer des personnes, et comprendre leurs aspirations, leurs qua
 
 Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivation.
 
-[Plaquette de présentation de l'Ecole Saint-John Perse (année scolaire 2025/2026)](/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf "Plaquette 25/26")
+[Plaquette de présentation de l'Ecole Saint-John Perse](/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf "Plaquette")
 
 ## Dossiers d’inscription à télécharger 2026-2027
 
