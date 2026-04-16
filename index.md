@@ -48,11 +48,11 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 [Plaquette de présentation de l'Ecole Saint-John Perse (année scolaire 2025/2026)](/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf "Plaquette 25/26")
 
-## Dossiers d’inscription à télécharger 2025-2026
+## Dossiers d’inscription à télécharger 2026-2027
 
-* Entrée en Seconde Générale et Technologique en septembre 2025 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2025_2026.pdf)
-* Entrée en Première Générale ou STMG en septembre 2025 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2025_2026.pdf)
-* Entrée en Terminale Générale ou STMG en septembre 2025 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2025_2026.pdf)
+* Entrée en Seconde Générale et Technologique en septembre 2026 : [Dossier d'inscription ici](/uploads/fiche_inscription_seconde_2026_2027.pdf)
+* Entrée en Première Générale ou STMG en septembre 2026 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2026_2027.pdf)
+* Entrée en Terminale Générale ou STMG en septembre 2026 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2026_2027.pdf)
 
 ## Résultats du Bac 2024 : Félicitations à nos élèves !
 
