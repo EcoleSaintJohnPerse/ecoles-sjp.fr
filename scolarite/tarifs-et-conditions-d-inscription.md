@@ -19,7 +19,7 @@ Les frais d'inscription s'élèvent pour toutes les classes à 780 euros.
 
 Les frais de scolarité sont payables à l'année, ou au trimestre, ou mensuellement (neuf versements).
 
-## Frais de scolarité annuels 2025/2026
+## Frais de scolarité annuels 2026/2027
 
 - Seconde : 7 170 € dont 780 € de frais d'inscription (ou 710 €/mois)
 - Première : 8 160 € dont 780 € de frais d'inscription (ou 820 €/mois)
@@ -29,7 +29,7 @@ Les frais de scolarité sont payables à l'année, ou au trimestre, ou mensuelle
 
 Frais de scolarité selon cours suivis par l'élève
 
-### Prix des activités annexes 25/26
+### Prix des activités annexes 26/27
 
 * Voyage scolaire dans une capitale européenne (Londres en 2019, Bruxelles en 2018, Berlin en 2017, Venise en 2022, Rome en 2023, Florence en 2024).
 * Atelier Cinéma Audiovisuel toutes classes : 400 € en Seconde, inclus dans la scolarité en Première et Terminale : 2h/semaine sur 25 séances et un tournage.
