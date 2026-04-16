@@ -6,7 +6,7 @@ permalink: "/scolarite/documents-utiles/"
 ---
 ### Documents généraux :
 
-* [Plaquette de présentation de l'Ecole (**année scolaire 2025/2026**)](/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf)
+* [Plaquette de présentation de l'École](/uploads/plaquette-ecole-saint-john-perse-2025-2026.pdf)
 
 ### Rentrée 2026/2027 : les inscriptions sont ouvertes !
 
