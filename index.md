@@ -56,7 +56,7 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 
 ## Le bac 2026 en vidéo
 
-<iframe src="https://drive.google.com/file/d/1-lnehxuDqj7ZGTv-_U53_aNHOWo_ty2h/preview" width="640" height="480"></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100% !important;" src="https://drive.google.com/file/d/1-lnehxuDqj7ZGTv-_U53_aNHOWo_ty2h/preview"></iframe>
 
 ## Résultats du Bac 2024 : Félicitations à nos élèves !
 
