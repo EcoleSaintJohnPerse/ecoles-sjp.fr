@@ -54,6 +54,10 @@ Nous vous demanderons les bulletins de l'élève ainsi qu'une lettre de motivati
 * Entrée en Première Générale ou STMG en septembre 2026 : [Dossier d'inscription ici](/uploads/fiche_inscription_premiere_2026_2027.pdf)
 * Entrée en Terminale Générale ou STMG en septembre 2026 : [Dossier d'inscription ici](/uploads/fiche_inscription_terminale_2026_2027.pdf)
 
+## Le bac 2026 en vidéo
+
+<iframe src="https://drive.google.com/file/d/1-lnehxuDqj7ZGTv-_U53_aNHOWo_ty2h/preview" width="640" height="480"></iframe>
+
 ## Résultats du Bac 2024 : Félicitations à nos élèves !
 
 **Bravo !** 100% de réussite pour les STMG et 90% pour la filiere générale !
