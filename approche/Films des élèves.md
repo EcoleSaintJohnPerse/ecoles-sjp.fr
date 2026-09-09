@@ -71,11 +71,6 @@ redirect_from:
   </div>
 
   <div class="video-item">
-    <p><strong><em>Les Maux d'après</em>, réalisé par Alec / Spécialité Cinéma, Terminale Générale</strong></p>
-    <iframe src="https://www.youtube.com/embed/qHYOazNJW1o" frameborder="0" allowfullscreen></iframe>
-  </div>
-
-  <div class="video-item">
     <p><strong><em>Les Ombres d'Éthan</em>, réalisé par Lubin et Joseph / Spécialité Cinéma, Terminale Générale</strong></p>
     <iframe src="https://www.youtube.com/embed/iVdGk3-cZFE" frameborder="0" allowfullscreen></iframe>
   </div>
